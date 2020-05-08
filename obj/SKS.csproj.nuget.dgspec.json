@@ -1,0 +1,248 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/mauriciorojas/Downloads/SKS_WebCore/SKS.csproj": {}
+  },
+  "projects": {
+    "/Users/mauriciorojas/Downloads/SKS_WebCore/SKS.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mauriciorojas/Downloads/SKS_WebCore/SKS.csproj",
+        "projectName": "SKS",
+        "projectPath": "/Users/mauriciorojas/Downloads/SKS_WebCore/SKS.csproj",
+        "packagesPath": "/Users/mauriciorojas/packages",
+        "outputPath": "/Users/mauriciorojas/Downloads/SKS_WebCore/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/mauriciorojas/Downloads/SKS_WebCore/NuGet.Config",
+          "/Users/mauriciorojas/NuGet.Config",
+          "/Users/mauriciorojas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "http://ais-build-w7:81/nuget/ContinuousIntegration": {},
+          "http://ais-build-w7:81/nuget/research/": {},
+          "http://ais-build-w7:81/nuget/utilities/": {},
+          "http://ais-build-w7:81/nuget/webmap/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/mobilizewebmap/auth/3ba1b7ff-8564-4c99-9414-4c8543347e18": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/mauriciorojas/Downloads/SKS_WebCore/Stubs/Stubs.csproj": {
+                "projectPath": "/Users/mauriciorojas/Downloads/SKS_WebCore/Stubs/Stubs.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.PlatformAbstractions": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.VisualBasic": {
+              "target": "Package",
+              "version": "[10.4.0-preview.18571.3, )"
+            },
+            "Mobilize.Extensions.Logging.RollingFile": {
+              "target": "Package",
+              "version": "[2.1.1-rc0027, )"
+            },
+            "Mobilize.VBUC.Helpers.All": {
+              "target": "Package",
+              "version": "[8.1.2-rc1553, )"
+            },
+            "Mobilize.Weaving": {
+              "target": "Package",
+              "version": "[1.2.7-alphanetcore31-0028, )"
+            },
+            "Mobilize.Weaving.WebMapExtensions.All": {
+              "target": "Package",
+              "version": "[6.0.0-alpha.NetCore31.159, )"
+            },
+            "Mobilize.Web.BundleBasic.All": {
+              "target": "Package",
+              "version": "[5.0.6-alpha.NetCore31.106, )"
+            },
+            "Mobilize.WebMap.CoreServices.All": {
+              "target": "Package",
+              "version": "[6.0.0-alpha.NetCore31.161, )"
+            },
+            "System.Configuration.ConfigurationManager": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.Odbc": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            },
+            "System.Data.OleDb": {
+              "target": "Package",
+              "version": "[4.7.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/mauriciorojas/Downloads/SKS_WebCore/Stubs/Stubs.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/mauriciorojas/Downloads/SKS_WebCore/Stubs/Stubs.csproj",
+        "projectName": "Stubs",
+        "projectPath": "/Users/mauriciorojas/Downloads/SKS_WebCore/Stubs/Stubs.csproj",
+        "packagesPath": "/Users/mauriciorojas/packages",
+        "outputPath": "/Users/mauriciorojas/Downloads/SKS_WebCore/Stubs/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/mauriciorojas/Downloads/SKS_WebCore/NuGet.Config",
+          "/Users/mauriciorojas/NuGet.Config",
+          "/Users/mauriciorojas/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "http://ais-build-w7:81/nuget/ContinuousIntegration": {},
+          "http://ais-build-w7:81/nuget/research/": {},
+          "http://ais-build-w7:81/nuget/utilities/": {},
+          "http://ais-build-w7:81/nuget/webmap/": {},
+          "https://api.nuget.org/v3/index.json": {},
+          "https://www.myget.org/F/mobilizewebmap/auth/3ba1b7ff-8564-4c99-9414-4c8543347e18": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "Microsoft.AspNetCore": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.Mvc.Razor": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.AspNetCore.StaticFiles": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.PlatformAbstractions": {
+              "target": "Package",
+              "version": "[1.1.0, )"
+            },
+            "Microsoft.VisualBasic": {
+              "target": "Package",
+              "version": "[10.4.0-preview.18571.3, )"
+            },
+            "Mobilize.Extensions.Logging.RollingFile": {
+              "target": "Package",
+              "version": "[2.1.1-rc0027, )"
+            },
+            "Mobilize.VBUC.Helpers.All": {
+              "target": "Package",
+              "version": "[8.1.2-rc1553, )"
+            },
+            "Mobilize.Weaving": {
+              "target": "Package",
+              "version": "[1.2.7-alphanetcore31-0028, )"
+            },
+            "Mobilize.Weaving.WebMapExtensions.All": {
+              "target": "Package",
+              "version": "[6.0.0-alpha.NetCore31.159, )"
+            },
+            "Mobilize.Web.BundleBasic.All": {
+              "target": "Package",
+              "version": "[5.0.6-alpha.NetCore31.106, )"
+            },
+            "Mobilize.WebMap.CoreServices.All": {
+              "target": "Package",
+              "version": "[6.0.0-alpha.NetCore31.161, )"
+            },
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.200/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

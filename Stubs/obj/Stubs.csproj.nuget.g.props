@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<Project ToolsVersion="14.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <RestoreSuccess Condition=" '$(RestoreSuccess)' == '' ">True</RestoreSuccess>
+    <RestoreTool Condition=" '$(RestoreTool)' == '' ">NuGet</RestoreTool>
+    <ProjectAssetsFile Condition=" '$(ProjectAssetsFile)' == '' ">$(MSBuildThisFileDirectory)project.assets.json</ProjectAssetsFile>
+    <NuGetPackageRoot Condition=" '$(NuGetPackageRoot)' == '' ">/Users/mauriciorojas/packages</NuGetPackageRoot>
+    <NuGetPackageFolders Condition=" '$(NuGetPackageFolders)' == '' ">/Users/mauriciorojas/packages;/usr/local/share/dotnet/sdk/NuGetFallbackFolder</NuGetPackageFolders>
+    <NuGetProjectStyle Condition=" '$(NuGetProjectStyle)' == '' ">PackageReference</NuGetProjectStyle>
+    <NuGetToolVersion Condition=" '$(NuGetToolVersion)' == '' ">5.4.0</NuGetToolVersion>
+  </PropertyGroup>
+  <PropertyGroup>
+    <MSBuildAllProjects>$(MSBuildAllProjects);$(MSBuildThisFileFullPath)</MSBuildAllProjects>
+  </PropertyGroup>
+  <ImportGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <Import Project="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.aspnetcore.razor.design/2.2.0/build/netstandard2.0/Microsoft.AspNetCore.Razor.Design.props" Condition="Exists('/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.aspnetcore.razor.design/2.2.0/build/netstandard2.0/Microsoft.AspNetCore.Razor.Design.props')" />
+    <Import Project="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.aspnetcore.mvc.razor.extensions/2.2.0/build/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.props" Condition="Exists('/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.aspnetcore.mvc.razor.extensions/2.2.0/build/netstandard2.0/Microsoft.AspNetCore.Mvc.Razor.Extensions.props')" />
+    <Import Project="$(NuGetPackageRoot)/mobilize.weaving/1.2.7-alphanetcore31-0028/build/Mobilize.Weaving.props" Condition="Exists('$(NuGetPackageRoot)/mobilize.weaving/1.2.7-alphanetcore31-0028/build/Mobilize.Weaving.props')" />
+    <Import Project="$(NuGetPackageRoot)/mobilize.weaving.webmapextensions/6.0.0-alpha.netcore31.159/build/Mobilize.Weaving.WebMapExtensions.props" Condition="Exists('$(NuGetPackageRoot)/mobilize.weaving.webmapextensions/6.0.0-alpha.netcore31.159/build/Mobilize.Weaving.WebMapExtensions.props')" />
+    <Import Project="$(NuGetPackageRoot)/mobilize.weaving.webmapdatatransferextension/6.0.0-alpha.netcore31.159/build/Mobilize.Weaving.WebMapDataTransferExtension.props" Condition="Exists('$(NuGetPackageRoot)/mobilize.weaving.webmapdatatransferextension/6.0.0-alpha.netcore31.159/build/Mobilize.Weaving.WebMapDataTransferExtension.props')" />
+    <Import Project="/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.extensions.configuration.usersecrets/2.2.0/build/netstandard2.0/Microsoft.Extensions.Configuration.UserSecrets.props" Condition="Exists('/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.extensions.configuration.usersecrets/2.2.0/build/netstandard2.0/Microsoft.Extensions.Configuration.UserSecrets.props')" />
+  </ImportGroup>
+  <PropertyGroup Condition=" '$(ExcludeRestorePackageImports)' != 'true' ">
+    <PkgStyleCop_Analyzers Condition=" '$(PkgStyleCop_Analyzers)' == '' ">/Users/mauriciorojas/packages/stylecop.analyzers/1.1.118</PkgStyleCop_Analyzers>
+    <PkgMicrosoft_CodeAnalysis_Analyzers Condition=" '$(PkgMicrosoft_CodeAnalysis_Analyzers)' == '' ">/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.codeanalysis.analyzers/1.1.0</PkgMicrosoft_CodeAnalysis_Analyzers>
+    <PkgMicrosoft_AspNetCore_Razor_Design Condition=" '$(PkgMicrosoft_AspNetCore_Razor_Design)' == '' ">/usr/local/share/dotnet/sdk/NuGetFallbackFolder/microsoft.aspnetcore.razor.design/2.2.0</PkgMicrosoft_AspNetCore_Razor_Design>
+    <PkgMobilize_Weaving Condition=" '$(PkgMobilize_Weaving)' == '' ">/Users/mauriciorojas/packages/mobilize.weaving/1.2.7-alphanetcore31-0028</PkgMobilize_Weaving>
+    <PkgMobilize_MapGenerator Condition=" '$(PkgMobilize_MapGenerator)' == '' ">/Users/mauriciorojas/packages/mobilize.mapgenerator/1.0.0-rc0014</PkgMobilize_MapGenerator>
+    <PkgMobilize_Weaving_WebMapExtensions Condition=" '$(PkgMobilize_Weaving_WebMapExtensions)' == '' ">/Users/mauriciorojas/packages/mobilize.weaving.webmapextensions/6.0.0-alpha.netcore31.159</PkgMobilize_Weaving_WebMapExtensions>
+    <PkgMobilize_Weaving_WebMAPDataTransferExtension Condition=" '$(PkgMobilize_Weaving_WebMAPDataTransferExtension)' == '' ">/Users/mauriciorojas/packages/mobilize.weaving.webmapdatatransferextension/6.0.0-alpha.netcore31.159</PkgMobilize_Weaving_WebMAPDataTransferExtension>
+  </PropertyGroup>
+</Project>

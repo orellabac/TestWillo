@@ -1,0 +1,4243 @@
+[5/6/2020, 12:01:35.1409190]  Information: Starting Code Conversion process. CurrentDirectory = D:\WebMAP\WFNet\WFNetConversionTool\bin\CmdRunner\Debug\net461
+[5/6/2020, 12:01:35.4130464]  Information: TC0001: Starting Composition Import
+[5/6/2020, 12:01:35.4169955]  Information: TC0003: Loading parts for category Rules
+[5/6/2020, 12:01:35.4179917]  Information: TC0004: Not found directory C:\Users\wquesada\AppData\Local\Temp\Mobilize.WFNetMAP.ConversionTool\package-libraries\Rules while loading parts for category Rules
+[5/6/2020, 12:01:35.4189890]  Information: TC0005: Loading file D:\WebMAP\WFNet\WFNetConversionTool\bin\CmdRunner\Debug\net461\..\Rules\net461\Mobilize.Rules.AdditionalRules.dll
+[5/6/2020, 12:01:35.4259713]  Information: TC0005: Loading file D:\WebMAP\WFNet\WFNetConversionTool\bin\CmdRunner\Debug\net461\..\Rules\net461\Mobilize.Rules.CSharpToCSharpWeb.dll
+[5/6/2020, 12:01:35.4269673]  Information: TC0005: Loading file D:\WebMAP\WFNet\WFNetConversionTool\bin\CmdRunner\Debug\net461\..\Rules\net461\Mobilize.Rules.CSharpToTypescript.dll
+[5/6/2020, 12:01:35.4289590]  Information: TC0003: Loading parts for category Collectors
+[5/6/2020, 12:01:35.4299553]  Information: TC0005: Loading file C:\Users\wquesada\AppData\Local\Temp\Mobilize.WFNetMAP.ConversionTool\package-libraries\Collectors\Mobilize.Collectors.UICollector.WFPProcessor.3.0.3-rc0125\Build\Mobilize.Collectors.UICollector.WFPProcessor.dll
+[5/6/2020, 12:01:35.4309537]  Information: TC0005: Loading file D:\WebMAP\WFNet\WFNetConversionTool\bin\CmdRunner\Debug\net461\..\Collectors\net461\Mobilize.Collectors.PropertiesPostProcessors.dll
+[5/6/2020, 12:01:35.4319517]  Information: TC0005: Loading file D:\WebMAP\WFNet\WFNetConversionTool\bin\CmdRunner\Debug\net461\..\Collectors\net461\Mobilize.Collectors.UICollector.dll
+[5/6/2020, 12:01:35.4329464]  Information: TC0003: Loading parts for category Services
+[5/6/2020, 12:01:35.4339396]  Information: TC0005: Loading file C:\Users\wquesada\AppData\Local\Temp\Mobilize.WFNetMAP.ConversionTool\package-libraries\Services\Mobilize.Services.WFHtmlGenerators.3.0.3-rc0125\Build\Mobilize.Services.WFHtmlGenerators.dll
+[5/6/2020, 12:01:35.4349377]  Information: TC0005: Loading file D:\WebMAP\WFNet\WFNetConversionTool\bin\CmdRunner\Debug\net461\..\Services\net461\Mobilize.Services.HtmlGenerationService.dll
+[5/6/2020, 12:01:35.4359358]  Information: TC0005: Loading file D:\WebMAP\WFNet\WFNetConversionTool\bin\CmdRunner\Debug\net461\..\Services\net461\Mobilize.Services.LicenseService.dll
+[5/6/2020, 12:01:35.4369342]  Information: TC0005: Loading file D:\WebMAP\WFNet\WFNetConversionTool\bin\CmdRunner\Debug\net461\..\Services\net461\Mobilize.Services.ObservableService.dll
+[5/6/2020, 12:01:35.4379317]  Information: TC0005: Loading file D:\WebMAP\WFNet\WFNetConversionTool\bin\CmdRunner\Debug\net461\..\Services\net461\Mobilize.Services.PageObjectGenerator.dll
+[5/6/2020, 12:01:35.4389238]  Information: TC0005: Loading file D:\WebMAP\WFNet\WFNetConversionTool\bin\CmdRunner\Debug\net461\..\Services\net461\Mobilize.Services.ProjectGeneration.Angular.dll
+[5/6/2020, 12:01:35.4399256]  Information: TC0005: Loading file D:\WebMAP\WFNet\WFNetConversionTool\bin\CmdRunner\Debug\net461\..\Services\net461\Mobilize.Services.ProjectGeneration.CSProject.dll
+[5/6/2020, 12:01:35.4409185]  Information: TC0005: Loading file D:\WebMAP\WFNet\WFNetConversionTool\bin\CmdRunner\Debug\net461\..\Services\net461\Mobilize.Services.ProjectGeneration.CSSolution.dll
+[5/6/2020, 12:01:35.4419143]  Information: TC0005: Loading file D:\WebMAP\WFNet\WFNetConversionTool\bin\CmdRunner\Debug\net461\..\Services\net461\Mobilize.Services.ProjectGeneration.dll
+[5/6/2020, 12:01:35.4429092]  Information: TC0005: Loading file D:\WebMAP\WFNet\WFNetConversionTool\bin\CmdRunner\Debug\net461\..\Services\net461\Mobilize.Services.StubGenerationService.dll
+[5/6/2020, 12:01:35.4449020]  Information: TC0005: Loading file D:\WebMAP\WFNet\WFNetConversionTool\bin\CmdRunner\Debug\net461\..\Services\net461\Mobilize.Services.UIExtractionService.dll
+[5/6/2020, 12:01:35.4478948]  Information: TC0002: End Composition Import
+[5/6/2020, 12:01:35.5156719]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ITransformationRule
+[5/6/2020, 12:01:35.5625141]  Information: TC0007: Gettings export for Mobilize.ProjectGeneration.Abstractions.Interfaces.IProjectGeneratorService
+[5/6/2020, 12:01:35.5635128]  Information: TC0007: Gettings export for Mobilize.TransformationCore.IAssessmentService
+[5/6/2020, 12:01:35.5635128]  Information: TC0007: Gettings export for System.IO.Abstractions.IFileSystem
+[5/6/2020, 12:01:35.5635128]  Information: TC0007: Gettings export for Microsoft.Extensions.Logging.ILogger
+[5/6/2020, 12:01:35.5635128]  Information: TC0007: Gettings export for Mobilize.HtmlGenerator.Abstractions.Interfaces.IUExtractionInformation
+[5/6/2020, 12:01:35.5645106]  Information: TC0007: Gettings export for Mobilize.HtmlGenerator.Abstractions.Interfaces.IFrontEndGenerationService
+[5/6/2020, 12:01:35.5645106]  Information: TC0007: Gettings export for Mobilize.PageObjectGenerator.Abstractions.IPageObjectGenerationService
+[5/6/2020, 12:01:35.5645106]  Information: TC0007: Gettings export for Mobilize.StubGeneration.Abstractions.IStubGenerationService
+[5/6/2020, 12:01:35.5804553]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ISemanticModel
+[5/6/2020, 12:01:35.5804553]  Information: TC0007: Gettings export for Mobilize.LicenseService.Abstractions.ILicenseService
+[5/6/2020, 12:01:38.3218629]  Information: EFProcess 637243632983199017 started
+[5/6/2020, 12:01:40.9411195]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:41.8979239]  Information: UIEXT0001: Adding library {0}
+[5/6/2020, 12:01:41.8989252]  Information: UIEXT0002: Adding view SKS.frmRequestApproval
+[5/6/2020, 12:01:42.0125387]  Information: UI0005: The following properties of the class frmRequestApproval were not collected for the front-end generation purposes: this.components
+	this.ToolTipMain
+	this.cmdApprove
+	this.cmdInfo
+	this.fgOrders
+	this.sbStatusBar
+	this.sbStatusBar_Panels_Panel1
+	this.cmdCancel
+	this.cmdClose
+	this.Frame1
+	this.cmbStatus
+	this.chkTo
+	this.chkFrom
+	this.txtProductID
+	this.txtOrderID
+	this.txtContactLastName
+	this.txtContactName
+	this.cmdCustomers
+	this.txtCompanyName
+	this.dtFrom
+	this.dtTo
+	this.Label5
+	this.Label8
+	this.Label1
+	this.Label6
+	this.Label3
+	this.Label4
+	this.Label2
+	this.listBoxComboBoxHelper1
+	cmdApprove.AllowDrop
+	cmdApprove.Name
+	cmdApprove.RightToLeft
+	cmdApprove.TextImageRelation
+	cmdApprove.UseVisualStyleBackColor
+	cmdApprove.Click
+	cmdInfo.AllowDrop
+	cmdInfo.Name
+	cmdInfo.RightToLeft
+	cmdInfo.TextImageRelation
+	cmdInfo.UseVisualStyleBackColor
+	cmdInfo.Click
+	fgOrders.AllowBigSelection
+	fgOrders.AllowDrop
+	fgOrders.AllowUserToAddRows
+	fgOrders.AllowUserToDeleteRows
+	fgOrders.AllowUserToResizeColumns
+	fgOrders.AllowUserToResizeRows
+	fgOrders.BorderStyle
+	fgOrders.ColumnHeadersHeightSizeMode
+	fgOrders.ColumnsCount
+	fgOrders.FixedColumns
+	fgOrders.FixedRows
+	fgOrders.Name
+	fgOrders.ReadOnly
+	fgOrders.RowsCount
+	fgOrders.SelectionMode
+	fgOrders.StandardTab
+	fgOrders.DoubleClick
+	sbStatusBar.AllowDrop
+	sbStatusBar.Dock
+	sbStatusBar.Name
+	sbStatusBar.ShowItemToolTips
+	sbStatusBar_Panels_Panel1.BorderSides
+	sbStatusBar_Panels_Panel1.BorderStyle
+	sbStatusBar_Panels_Panel1.DoubleClickEnabled
+	sbStatusBar_Panels_Panel1.Margin
+	sbStatusBar_Panels_Panel1.Spring
+	sbStatusBar_Panels_Panel1.TextAlign
+	sbStatusBar_Panels_Panel1.TextImageRelation
+	cmdCancel.AllowDrop
+	cmdCancel.Name
+	cmdCancel.RightToLeft
+	cmdCancel.TextImageRelation
+	cmdCancel.UseVisualStyleBackColor
+	cmdCancel.Click
+	cmdClose.AllowDrop
+	cmdClose.Name
+	cmdClose.RightToLeft
+	cmdClose.TextImageRelation
+	cmdClose.UseVisualStyleBackColor
+	cmdClose.Click
+	Frame1.AllowDrop
+	Frame1.Enabled
+	Frame1.Name
+	Frame1.RightToLeft
+	Frame1.Visible
+	cmbStatus.AllowDrop
+	cmbStatus.CausesValidation
+	cmbStatus.DropDownStyle
+	cmbStatus.Enabled
+	cmbStatus.IntegralHeight
+	cmbStatus.Name
+	cmbStatus.RightToLeft
+	cmbStatus.Sorted
+	cmbStatus.TabStop
+	cmbStatus.Visible
+	cmbStatus.SelectedIndexChanged
+	chkTo.AllowDrop
+	chkTo.Appearance
+	chkTo.CausesValidation
+	chkTo.CheckAlign
+	chkTo.CheckState
+	chkTo.Enabled
+	chkTo.Name
+	chkTo.RightToLeft
+	chkTo.TabStop
+	chkTo.TextAlign
+	chkTo.Visible
+	chkFrom.AllowDrop
+	chkFrom.Appearance
+	chkFrom.CausesValidation
+	chkFrom.CheckAlign
+	chkFrom.CheckState
+	chkFrom.Enabled
+	chkFrom.Name
+	chkFrom.RightToLeft
+	chkFrom.TabStop
+	chkFrom.TextAlign
+	chkFrom.Visible
+	txtProductID.AcceptsReturn
+	txtProductID.AllowDrop
+	txtProductID.BorderStyle
+	txtProductID.Cursor
+	txtProductID.MaxLength
+	txtProductID.Name
+	txtProductID.RightToLeft
+	txtProductID.TextChanged
+	txtOrderID.AcceptsReturn
+	txtOrderID.AllowDrop
+	txtOrderID.BorderStyle
+	txtOrderID.Cursor
+	txtOrderID.MaxLength
+	txtOrderID.Name
+	txtOrderID.RightToLeft
+	txtOrderID.TextChanged
+	txtContactLastName.AcceptsReturn
+	txtContactLastName.AllowDrop
+	txtContactLastName.BorderStyle
+	txtContactLastName.Cursor
+	txtContactLastName.MaxLength
+	txtContactLastName.Name
+	txtContactLastName.RightToLeft
+	txtContactLastName.TextChanged
+	txtContactName.AcceptsReturn
+	txtContactName.AllowDrop
+	txtContactName.BorderStyle
+	txtContactName.Cursor
+	txtContactName.MaxLength
+	txtContactName.Name
+	txtContactName.RightToLeft
+	txtContactName.TextChanged
+	cmdCustomers.AllowDrop
+	cmdCustomers.Name
+	cmdCustomers.RightToLeft
+	cmdCustomers.TabStop
+	cmdCustomers.TextImageRelation
+	cmdCustomers.UseVisualStyleBackColor
+	cmdCustomers.Click
+	txtCompanyName.AcceptsReturn
+	txtCompanyName.AllowDrop
+	txtCompanyName.BorderStyle
+	txtCompanyName.Cursor
+	txtCompanyName.MaxLength
+	txtCompanyName.Name
+	txtCompanyName.RightToLeft
+	txtCompanyName.TextChanged
+	dtFrom.AllowDrop
+	dtFrom.Checked
+	dtFrom.Format
+	dtFrom.Name
+	dtFrom.ValueChanged
+	dtTo.AllowDrop
+	dtTo.Checked
+	dtTo.Format
+	dtTo.Name
+	dtTo.ValueChanged
+	Label5.AllowDrop
+	Label5.BorderStyle
+	Label5.Name
+	Label5.RightToLeft
+	Label8.AllowDrop
+	Label8.BorderStyle
+	Label8.Name
+	Label8.RightToLeft
+	Label1.AllowDrop
+	Label1.BorderStyle
+	Label1.Name
+	Label1.RightToLeft
+	Label6.AllowDrop
+	Label6.BorderStyle
+	Label6.Name
+	Label6.RightToLeft
+	Label3.AllowDrop
+	Label3.BorderStyle
+	Label3.Name
+	Label3.RightToLeft
+	Label4.AllowDrop
+	Label4.BorderStyle
+	Label4.Name
+	Label4.RightToLeft
+	Label2.AllowDrop
+	Label2.BorderStyle
+	Label2.Name
+	Label2.RightToLeft
+	this.AllowDrop
+	this.AutoScaleDimensions
+	this.AutoScaleMode
+	this.AutoScroll
+	this.FormBorderStyle
+	this.MaximizeBox
+	this.MinimizeBox
+	this.Name
+	this.RightToLeft
+	this.StartPosition
+	this.Closed
+[5/6/2020, 12:01:42.0225054]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.0244990]  Information: UIEXT0002: Adding view SKS.frmSplash
+[5/6/2020, 12:01:42.0254960]  Information: UI0005: The following properties of the class frmSplash were not collected for the front-end generation purposes: this.components
+	this.ToolTipMain
+	this.Timer1
+	this.Image1
+	Timer1.Enabled
+	Timer1.Interval
+	Timer1.Tick
+	Image1.AllowDrop
+	Image1.BorderStyle
+	Image1.Enabled
+	Image1.Image
+	Image1.Name
+	Image1.SizeMode
+	Image1.Visible
+	this.AllowDrop
+	this.AutoScaleDimensions
+	this.AutoScaleMode
+	this.FormBorderStyle
+	this.KeyPreview
+	this.MaximizeBox
+	this.MinimizeBox
+	this.Name
+	this.RightToLeft
+	this.ShowInTaskbar
+	this.StartPosition
+	this.Closed
+	this.KeyPress
+[5/6/2020, 12:01:42.0284862]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.0613795]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.0713423]  Information: UIEXT0002: Adding view SKS.frmActionOrderRequest
+[5/6/2020, 12:01:42.0803150]  Information: UI0005: The following properties of the class frmActionOrderRequest were not collected for the front-end generation purposes: this.components
+	this.ToolTipMain
+	this.txtPromisedBy
+	this.txtRequiredBy
+	this.txtReceivedBy
+	this.cmdApprove
+	this.txtStatus
+	this.txtReceived
+	this.txtChangedBy
+	this.txtChanged
+	this.txtOrderID
+	this.txtNotes
+	this.txtSubTotal
+	this.txtTotal
+	this.txtTotalTax
+	this.txtFreightCharge
+	this.txtSalesTax
+	this.txtEntry
+	this.fgDetails
+	this.sbStatusBar
+	this.sbStatusBar_Panels_Panel1
+	this.cmdCancel
+	this.cmdClose
+	this.Frame2
+	this.txtCustomerContact
+	this.txtCustomerCompany
+	this.Label5
+	this.Label1
+	this.Label13
+	this.Label2
+	this.Label7
+	this.Label3
+	this.Label19
+	this.lblChangedBy
+	this.Label4
+	this.lblChanged
+	this.Label12
+	this.Label11
+	this.Label10
+	this.Label9
+	this.Label8
+	this.Label6
+	txtPromisedBy.AcceptsReturn
+	txtPromisedBy.AllowDrop
+	txtPromisedBy.BorderStyle
+	txtPromisedBy.Cursor
+	txtPromisedBy.MaxLength
+	txtPromisedBy.Name
+	txtPromisedBy.ReadOnly
+	txtPromisedBy.RightToLeft
+	txtPromisedBy.TabStop
+	txtRequiredBy.AcceptsReturn
+	txtRequiredBy.AllowDrop
+	txtRequiredBy.BorderStyle
+	txtRequiredBy.Cursor
+	txtRequiredBy.MaxLength
+	txtRequiredBy.Name
+	txtRequiredBy.ReadOnly
+	txtRequiredBy.RightToLeft
+	txtRequiredBy.TabStop
+	txtReceivedBy.AcceptsReturn
+	txtReceivedBy.AllowDrop
+	txtReceivedBy.BorderStyle
+	txtReceivedBy.Cursor
+	txtReceivedBy.MaxLength
+	txtReceivedBy.Name
+	txtReceivedBy.ReadOnly
+	txtReceivedBy.RightToLeft
+	txtReceivedBy.TabStop
+	cmdApprove.AllowDrop
+	cmdApprove.Name
+	cmdApprove.RightToLeft
+	cmdApprove.TextImageRelation
+	cmdApprove.UseVisualStyleBackColor
+	cmdApprove.Click
+	txtStatus.AcceptsReturn
+	txtStatus.AllowDrop
+	txtStatus.BorderStyle
+	txtStatus.Cursor
+	txtStatus.MaxLength
+	txtStatus.Name
+	txtStatus.ReadOnly
+	txtStatus.RightToLeft
+	txtStatus.TabStop
+	txtReceived.AcceptsReturn
+	txtReceived.AllowDrop
+	txtReceived.BorderStyle
+	txtReceived.Cursor
+	txtReceived.MaxLength
+	txtReceived.Name
+	txtReceived.ReadOnly
+	txtReceived.RightToLeft
+	txtReceived.TabStop
+	txtChangedBy.AcceptsReturn
+	txtChangedBy.AllowDrop
+	txtChangedBy.BorderStyle
+	txtChangedBy.Cursor
+	txtChangedBy.MaxLength
+	txtChangedBy.Name
+	txtChangedBy.ReadOnly
+	txtChangedBy.RightToLeft
+	txtChangedBy.TabStop
+	txtChanged.AcceptsReturn
+	txtChanged.AllowDrop
+	txtChanged.BorderStyle
+	txtChanged.Cursor
+	txtChanged.MaxLength
+	txtChanged.Name
+	txtChanged.ReadOnly
+	txtChanged.RightToLeft
+	txtChanged.TabStop
+	txtOrderID.AcceptsReturn
+	txtOrderID.AllowDrop
+	txtOrderID.BorderStyle
+	txtOrderID.Cursor
+	txtOrderID.MaxLength
+	txtOrderID.Name
+	txtOrderID.ReadOnly
+	txtOrderID.RightToLeft
+	txtOrderID.TabStop
+	txtNotes.AcceptsReturn
+	txtNotes.AllowDrop
+	txtNotes.BorderStyle
+	txtNotes.Cursor
+	txtNotes.MaxLength
+	txtNotes.Multiline
+	txtNotes.Name
+	txtNotes.ReadOnly
+	txtNotes.RightToLeft
+	txtNotes.TabStop
+	txtSubTotal.AcceptsReturn
+	txtSubTotal.AllowDrop
+	txtSubTotal.BorderStyle
+	txtSubTotal.Cursor
+	txtSubTotal.MaxLength
+	txtSubTotal.Name
+	txtSubTotal.ReadOnly
+	txtSubTotal.RightToLeft
+	txtSubTotal.TabStop
+	txtSubTotal.TextAlign
+	txtTotal.AcceptsReturn
+	txtTotal.AllowDrop
+	txtTotal.BorderStyle
+	txtTotal.Cursor
+	txtTotal.MaxLength
+	txtTotal.Name
+	txtTotal.ReadOnly
+	txtTotal.RightToLeft
+	txtTotal.TabStop
+	txtTotal.TextAlign
+	txtTotalTax.AcceptsReturn
+	txtTotalTax.AllowDrop
+	txtTotalTax.BorderStyle
+	txtTotalTax.Cursor
+	txtTotalTax.MaxLength
+	txtTotalTax.Name
+	txtTotalTax.ReadOnly
+	txtTotalTax.RightToLeft
+	txtTotalTax.TabStop
+	txtTotalTax.TextAlign
+	txtFreightCharge.AcceptsReturn
+	txtFreightCharge.AllowDrop
+	txtFreightCharge.BorderStyle
+	txtFreightCharge.Cursor
+	txtFreightCharge.MaxLength
+	txtFreightCharge.Name
+	txtFreightCharge.ReadOnly
+	txtFreightCharge.RightToLeft
+	txtFreightCharge.TabStop
+	txtFreightCharge.TextAlign
+	txtSalesTax.AcceptsReturn
+	txtSalesTax.AllowDrop
+	txtSalesTax.BorderStyle
+	txtSalesTax.Cursor
+	txtSalesTax.MaxLength
+	txtSalesTax.Name
+	txtSalesTax.ReadOnly
+	txtSalesTax.RightToLeft
+	txtSalesTax.TabStop
+	txtSalesTax.TextAlign
+	txtEntry.AcceptsReturn
+	txtEntry.AllowDrop
+	txtEntry.BorderStyle
+	txtEntry.Cursor
+	txtEntry.MaxLength
+	txtEntry.Name
+	txtEntry.RightToLeft
+	txtEntry.Visible
+	fgDetails.AllowDrop
+	fgDetails.AllowUserToAddRows
+	fgDetails.AllowUserToDeleteRows
+	fgDetails.AllowUserToResizeColumns
+	fgDetails.AllowUserToResizeRows
+	fgDetails.BorderStyle
+	fgDetails.ColumnHeadersHeightSizeMode
+	fgDetails.ColumnsCount
+	fgDetails.FixedColumns
+	fgDetails.FixedRows
+	fgDetails.Name
+	fgDetails.ReadOnly
+	fgDetails.StandardTab
+	fgDetails.TabStop
+	sbStatusBar.AllowDrop
+	sbStatusBar.Dock
+	sbStatusBar.Name
+	sbStatusBar.ShowItemToolTips
+	sbStatusBar_Panels_Panel1.BorderSides
+	sbStatusBar_Panels_Panel1.BorderStyle
+	sbStatusBar_Panels_Panel1.DoubleClickEnabled
+	sbStatusBar_Panels_Panel1.Margin
+	sbStatusBar_Panels_Panel1.Spring
+	sbStatusBar_Panels_Panel1.TextAlign
+	sbStatusBar_Panels_Panel1.TextImageRelation
+	cmdCancel.AllowDrop
+	cmdCancel.Name
+	cmdCancel.RightToLeft
+	cmdCancel.TextImageRelation
+	cmdCancel.UseVisualStyleBackColor
+	cmdCancel.Click
+	cmdClose.AllowDrop
+	cmdClose.Name
+	cmdClose.RightToLeft
+	cmdClose.TextImageRelation
+	cmdClose.UseVisualStyleBackColor
+	cmdClose.Click
+	Frame2.AllowDrop
+	Frame2.Enabled
+	Frame2.Name
+	Frame2.RightToLeft
+	Frame2.Visible
+	txtCustomerContact.AcceptsReturn
+	txtCustomerContact.AllowDrop
+	txtCustomerContact.BorderStyle
+	txtCustomerContact.Cursor
+	txtCustomerContact.MaxLength
+	txtCustomerContact.Name
+	txtCustomerContact.ReadOnly
+	txtCustomerContact.RightToLeft
+	txtCustomerContact.TabStop
+	txtCustomerCompany.AcceptsReturn
+	txtCustomerCompany.AllowDrop
+	txtCustomerCompany.BorderStyle
+	txtCustomerCompany.Cursor
+	txtCustomerCompany.MaxLength
+	txtCustomerCompany.Name
+	txtCustomerCompany.ReadOnly
+	txtCustomerCompany.RightToLeft
+	txtCustomerCompany.TabStop
+	Label5.AllowDrop
+	Label5.BorderStyle
+	Label5.Name
+	Label5.RightToLeft
+	Label1.AllowDrop
+	Label1.BorderStyle
+	Label1.Name
+	Label1.RightToLeft
+	Label13.AllowDrop
+	Label13.BorderStyle
+	Label13.Name
+	Label13.RightToLeft
+	Label2.AllowDrop
+	Label2.BorderStyle
+	Label2.Name
+	Label2.RightToLeft
+	Label7.AllowDrop
+	Label7.BorderStyle
+	Label7.Name
+	Label7.RightToLeft
+	Label3.AllowDrop
+	Label3.BorderStyle
+	Label3.Name
+	Label3.RightToLeft
+	Label19.AllowDrop
+	Label19.BorderStyle
+	Label19.Name
+	Label19.RightToLeft
+	lblChangedBy.AllowDrop
+	lblChangedBy.BorderStyle
+	lblChangedBy.Name
+	lblChangedBy.RightToLeft
+	Label4.AllowDrop
+	Label4.BorderStyle
+	Label4.Name
+	Label4.RightToLeft
+	lblChanged.AllowDrop
+	lblChanged.BorderStyle
+	lblChanged.Name
+	lblChanged.RightToLeft
+	Label12.AllowDrop
+	Label12.BorderStyle
+	Label12.Name
+	Label12.RightToLeft
+	Label11.AllowDrop
+	Label11.BorderStyle
+	Label11.Name
+	Label11.RightToLeft
+	Label10.AllowDrop
+	Label10.BorderStyle
+	Label10.Name
+	Label10.RightToLeft
+	Label9.AllowDrop
+	Label9.BorderStyle
+	Label9.Name
+	Label9.RightToLeft
+	Label8.AllowDrop
+	Label8.BorderStyle
+	Label8.Name
+	Label8.RightToLeft
+	Label6.AllowDrop
+	Label6.BorderStyle
+	Label6.Name
+	Label6.RightToLeft
+	this.AllowDrop
+	this.AutoScaleDimensions
+	this.AutoScaleMode
+	this.AutoScroll
+	this.FormBorderStyle
+	this.MaximizeBox
+	this.MinimizeBox
+	this.Name
+	this.RightToLeft
+	this.StartPosition
+	this.Closed
+[5/6/2020, 12:01:42.0813128]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.0912792]  Information: UIEXT0002: Adding view SKS.frmActionOrderReception
+[5/6/2020, 12:01:42.1032431]  Information: UI0005: The following properties of the class frmActionOrderReception were not collected for the front-end generation purposes: this.components
+	this.ToolTipMain
+	this.txtReceivedBy
+	this.cmdApprove
+	this.txtStatus
+	this.txtReceived
+	this.txtChangedBy
+	this.txtChanged
+	this.txtOrderID
+	this.txtNotes
+	this.txtSubTotal
+	this.txtTotal
+	this.txtTotalTax
+	this.txtFreightCharge
+	this.txtSalesTax
+	this.txtEntry
+	this.fgDetails
+	this.sbStatusBar
+	this.sbStatusBar_Panels_Panel1
+	this.cmdCancel
+	this.cmdClose
+	this.Frame2
+	this.txtProviderContact
+	this.txtProviderCompany
+	this.Label5
+	this.Label1
+	this.Label7
+	this.Label3
+	this.Label19
+	this.lblChangedBy
+	this.Label4
+	this.lblChanged
+	this.Label12
+	this.Label11
+	this.Label10
+	this.Label9
+	this.Label8
+	this.Label6
+	txtReceivedBy.AcceptsReturn
+	txtReceivedBy.AllowDrop
+	txtReceivedBy.BorderStyle
+	txtReceivedBy.Cursor
+	txtReceivedBy.MaxLength
+	txtReceivedBy.Name
+	txtReceivedBy.ReadOnly
+	txtReceivedBy.RightToLeft
+	cmdApprove.AllowDrop
+	cmdApprove.Name
+	cmdApprove.RightToLeft
+	cmdApprove.TextImageRelation
+	cmdApprove.UseVisualStyleBackColor
+	cmdApprove.Click
+	txtStatus.AcceptsReturn
+	txtStatus.AllowDrop
+	txtStatus.BorderStyle
+	txtStatus.Cursor
+	txtStatus.MaxLength
+	txtStatus.Name
+	txtStatus.ReadOnly
+	txtStatus.RightToLeft
+	txtReceived.AcceptsReturn
+	txtReceived.AllowDrop
+	txtReceived.BorderStyle
+	txtReceived.Cursor
+	txtReceived.MaxLength
+	txtReceived.Name
+	txtReceived.ReadOnly
+	txtReceived.RightToLeft
+	txtChangedBy.AcceptsReturn
+	txtChangedBy.AllowDrop
+	txtChangedBy.BorderStyle
+	txtChangedBy.Cursor
+	txtChangedBy.MaxLength
+	txtChangedBy.Name
+	txtChangedBy.ReadOnly
+	txtChangedBy.RightToLeft
+	txtChanged.AcceptsReturn
+	txtChanged.AllowDrop
+	txtChanged.BorderStyle
+	txtChanged.Cursor
+	txtChanged.MaxLength
+	txtChanged.Name
+	txtChanged.ReadOnly
+	txtChanged.RightToLeft
+	txtOrderID.AcceptsReturn
+	txtOrderID.AllowDrop
+	txtOrderID.BorderStyle
+	txtOrderID.Cursor
+	txtOrderID.MaxLength
+	txtOrderID.Name
+	txtOrderID.ReadOnly
+	txtOrderID.RightToLeft
+	txtNotes.AcceptsReturn
+	txtNotes.AllowDrop
+	txtNotes.BorderStyle
+	txtNotes.Cursor
+	txtNotes.MaxLength
+	txtNotes.Multiline
+	txtNotes.Name
+	txtNotes.ReadOnly
+	txtNotes.RightToLeft
+	txtSubTotal.AcceptsReturn
+	txtSubTotal.AllowDrop
+	txtSubTotal.BorderStyle
+	txtSubTotal.Cursor
+	txtSubTotal.MaxLength
+	txtSubTotal.Name
+	txtSubTotal.ReadOnly
+	txtSubTotal.RightToLeft
+	txtSubTotal.TabStop
+	txtSubTotal.TextAlign
+	txtTotal.AcceptsReturn
+	txtTotal.AllowDrop
+	txtTotal.BorderStyle
+	txtTotal.Cursor
+	txtTotal.MaxLength
+	txtTotal.Name
+	txtTotal.ReadOnly
+	txtTotal.RightToLeft
+	txtTotal.TabStop
+	txtTotal.TextAlign
+	txtTotalTax.AcceptsReturn
+	txtTotalTax.AllowDrop
+	txtTotalTax.BorderStyle
+	txtTotalTax.Cursor
+	txtTotalTax.MaxLength
+	txtTotalTax.Name
+	txtTotalTax.ReadOnly
+	txtTotalTax.RightToLeft
+	txtTotalTax.TabStop
+	txtTotalTax.TextAlign
+	txtFreightCharge.AcceptsReturn
+	txtFreightCharge.AllowDrop
+	txtFreightCharge.BorderStyle
+	txtFreightCharge.Cursor
+	txtFreightCharge.MaxLength
+	txtFreightCharge.Name
+	txtFreightCharge.ReadOnly
+	txtFreightCharge.RightToLeft
+	txtFreightCharge.TextAlign
+	txtSalesTax.AcceptsReturn
+	txtSalesTax.AllowDrop
+	txtSalesTax.BorderStyle
+	txtSalesTax.Cursor
+	txtSalesTax.MaxLength
+	txtSalesTax.Name
+	txtSalesTax.ReadOnly
+	txtSalesTax.RightToLeft
+	txtSalesTax.TextAlign
+	txtEntry.AcceptsReturn
+	txtEntry.AllowDrop
+	txtEntry.BorderStyle
+	txtEntry.Cursor
+	txtEntry.MaxLength
+	txtEntry.Name
+	txtEntry.RightToLeft
+	txtEntry.Visible
+	fgDetails.AllowDrop
+	fgDetails.AllowUserToAddRows
+	fgDetails.AllowUserToDeleteRows
+	fgDetails.AllowUserToResizeColumns
+	fgDetails.AllowUserToResizeRows
+	fgDetails.BorderStyle
+	fgDetails.ColumnHeadersHeightSizeMode
+	fgDetails.ColumnsCount
+	fgDetails.FixedColumns
+	fgDetails.FixedRows
+	fgDetails.Name
+	fgDetails.ReadOnly
+	fgDetails.RowsCount
+	fgDetails.StandardTab
+	sbStatusBar.AllowDrop
+	sbStatusBar.Dock
+	sbStatusBar.Name
+	sbStatusBar.ShowItemToolTips
+	sbStatusBar_Panels_Panel1.BorderSides
+	sbStatusBar_Panels_Panel1.BorderStyle
+	sbStatusBar_Panels_Panel1.DoubleClickEnabled
+	sbStatusBar_Panels_Panel1.Margin
+	sbStatusBar_Panels_Panel1.Spring
+	sbStatusBar_Panels_Panel1.TextAlign
+	sbStatusBar_Panels_Panel1.TextImageRelation
+	cmdCancel.AllowDrop
+	cmdCancel.Name
+	cmdCancel.RightToLeft
+	cmdCancel.TextImageRelation
+	cmdCancel.UseVisualStyleBackColor
+	cmdCancel.Click
+	cmdClose.AllowDrop
+	cmdClose.Name
+	cmdClose.RightToLeft
+	cmdClose.TextImageRelation
+	cmdClose.UseVisualStyleBackColor
+	cmdClose.Click
+	Frame2.AllowDrop
+	Frame2.Enabled
+	Frame2.Name
+	Frame2.RightToLeft
+	Frame2.Visible
+	txtProviderContact.AcceptsReturn
+	txtProviderContact.AllowDrop
+	txtProviderContact.BorderStyle
+	txtProviderContact.Cursor
+	txtProviderContact.MaxLength
+	txtProviderContact.Name
+	txtProviderContact.ReadOnly
+	txtProviderContact.RightToLeft
+	txtProviderContact.TabStop
+	txtProviderCompany.AcceptsReturn
+	txtProviderCompany.AllowDrop
+	txtProviderCompany.BorderStyle
+	txtProviderCompany.Cursor
+	txtProviderCompany.MaxLength
+	txtProviderCompany.Name
+	txtProviderCompany.ReadOnly
+	txtProviderCompany.RightToLeft
+	txtProviderCompany.TabStop
+	Label5.AllowDrop
+	Label5.BorderStyle
+	Label5.Name
+	Label5.RightToLeft
+	Label1.AllowDrop
+	Label1.BorderStyle
+	Label1.Name
+	Label1.RightToLeft
+	Label7.AllowDrop
+	Label7.BorderStyle
+	Label7.Name
+	Label7.RightToLeft
+	Label7.TextAlign
+	Label3.AllowDrop
+	Label3.BorderStyle
+	Label3.Name
+	Label3.RightToLeft
+	Label3.TextAlign
+	Label19.AllowDrop
+	Label19.BorderStyle
+	Label19.Name
+	Label19.RightToLeft
+	Label19.TextAlign
+	lblChangedBy.AllowDrop
+	lblChangedBy.BorderStyle
+	lblChangedBy.Name
+	lblChangedBy.RightToLeft
+	lblChangedBy.TextAlign
+	Label4.AllowDrop
+	Label4.BorderStyle
+	Label4.Name
+	Label4.RightToLeft
+	Label4.TextAlign
+	lblChanged.AllowDrop
+	lblChanged.BorderStyle
+	lblChanged.Name
+	lblChanged.RightToLeft
+	lblChanged.TextAlign
+	Label12.AllowDrop
+	Label12.BorderStyle
+	Label12.Name
+	Label12.RightToLeft
+	Label11.AllowDrop
+	Label11.BorderStyle
+	Label11.Name
+	Label11.RightToLeft
+	Label10.AllowDrop
+	Label10.BorderStyle
+	Label10.Name
+	Label10.RightToLeft
+	Label9.AllowDrop
+	Label9.BorderStyle
+	Label9.Name
+	Label9.RightToLeft
+	Label8.AllowDrop
+	Label8.BorderStyle
+	Label8.Name
+	Label8.RightToLeft
+	Label6.AllowDrop
+	Label6.BorderStyle
+	Label6.Name
+	Label6.RightToLeft
+	this.AllowDrop
+	this.AutoScaleDimensions
+	this.AutoScaleMode
+	this.AutoScroll
+	this.FormBorderStyle
+	this.MaximizeBox
+	this.MinimizeBox
+	this.Name
+	this.RightToLeft
+	this.StartPosition
+	this.Closed
+[5/6/2020, 12:01:42.1042402]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.1112158]  Information: UIEXT0002: Adding view SKS.frmReceptionApproval
+[5/6/2020, 12:01:42.1211778]  Information: UI0005: The following properties of the class frmReceptionApproval were not collected for the front-end generation purposes: this.components
+	this.ToolTipMain
+	this.cmdApprove
+	this.cmdInfo
+	this.fgOrders
+	this.sbStatusBar
+	this.sbStatusBar_Panels_Panel1
+	this.cmdCancel
+	this.cmdClose
+	this.Frame1
+	this.cmbStatus
+	this.chkTo
+	this.chkFrom
+	this.txtProductID
+	this.txtOrderID
+	this.txtContactLastName
+	this.txtContactName
+	this.cmdProviders
+	this.txtProviderName
+	this.dtFrom
+	this.dtTo
+	this.Label5
+	this.Label8
+	this.Label1
+	this.Label6
+	this.Label3
+	this.Label4
+	this.Label2
+	this.listBoxComboBoxHelper1
+	cmdApprove.AllowDrop
+	cmdApprove.Name
+	cmdApprove.RightToLeft
+	cmdApprove.TextImageRelation
+	cmdApprove.UseVisualStyleBackColor
+	cmdApprove.Click
+	cmdInfo.AllowDrop
+	cmdInfo.Name
+	cmdInfo.RightToLeft
+	cmdInfo.TextImageRelation
+	cmdInfo.UseVisualStyleBackColor
+	cmdInfo.Click
+	fgOrders.AllowBigSelection
+	fgOrders.AllowDrop
+	fgOrders.AllowUserToAddRows
+	fgOrders.AllowUserToDeleteRows
+	fgOrders.AllowUserToResizeColumns
+	fgOrders.AllowUserToResizeRows
+	fgOrders.BorderStyle
+	fgOrders.ColumnHeadersHeightSizeMode
+	fgOrders.ColumnsCount
+	fgOrders.FixedColumns
+	fgOrders.FixedRows
+	fgOrders.Name
+	fgOrders.ReadOnly
+	fgOrders.RowsCount
+	fgOrders.SelectionMode
+	fgOrders.StandardTab
+	fgOrders.DoubleClick
+	sbStatusBar.AllowDrop
+	sbStatusBar.Dock
+	sbStatusBar.Name
+	sbStatusBar.ShowItemToolTips
+	sbStatusBar_Panels_Panel1.BorderSides
+	sbStatusBar_Panels_Panel1.BorderStyle
+	sbStatusBar_Panels_Panel1.DoubleClickEnabled
+	sbStatusBar_Panels_Panel1.Margin
+	sbStatusBar_Panels_Panel1.Spring
+	sbStatusBar_Panels_Panel1.TextAlign
+	sbStatusBar_Panels_Panel1.TextImageRelation
+	cmdCancel.AllowDrop
+	cmdCancel.Name
+	cmdCancel.RightToLeft
+	cmdCancel.TextImageRelation
+	cmdCancel.UseVisualStyleBackColor
+	cmdCancel.Click
+	cmdClose.AllowDrop
+	cmdClose.Name
+	cmdClose.RightToLeft
+	cmdClose.TextImageRelation
+	cmdClose.UseVisualStyleBackColor
+	cmdClose.Click
+	Frame1.AllowDrop
+	Frame1.Enabled
+	Frame1.Name
+	Frame1.RightToLeft
+	Frame1.Visible
+	cmbStatus.AllowDrop
+	cmbStatus.CausesValidation
+	cmbStatus.DropDownStyle
+	cmbStatus.Enabled
+	cmbStatus.IntegralHeight
+	cmbStatus.Name
+	cmbStatus.RightToLeft
+	cmbStatus.Sorted
+	cmbStatus.TabStop
+	cmbStatus.Visible
+	cmbStatus.SelectedIndexChanged
+	chkTo.AllowDrop
+	chkTo.Appearance
+	chkTo.CausesValidation
+	chkTo.CheckAlign
+	chkTo.CheckState
+	chkTo.Enabled
+	chkTo.Name
+	chkTo.RightToLeft
+	chkTo.TabStop
+	chkTo.TextAlign
+	chkTo.Visible
+	chkFrom.AllowDrop
+	chkFrom.Appearance
+	chkFrom.CausesValidation
+	chkFrom.CheckAlign
+	chkFrom.CheckState
+	chkFrom.Enabled
+	chkFrom.Name
+	chkFrom.RightToLeft
+	chkFrom.TabStop
+	chkFrom.TextAlign
+	chkFrom.Visible
+	txtProductID.AcceptsReturn
+	txtProductID.AllowDrop
+	txtProductID.BorderStyle
+	txtProductID.Cursor
+	txtProductID.MaxLength
+	txtProductID.Name
+	txtProductID.RightToLeft
+	txtProductID.TextChanged
+	txtOrderID.AcceptsReturn
+	txtOrderID.AllowDrop
+	txtOrderID.BorderStyle
+	txtOrderID.Cursor
+	txtOrderID.MaxLength
+	txtOrderID.Name
+	txtOrderID.RightToLeft
+	txtOrderID.TextChanged
+	txtContactLastName.AcceptsReturn
+	txtContactLastName.AllowDrop
+	txtContactLastName.BorderStyle
+	txtContactLastName.Cursor
+	txtContactLastName.MaxLength
+	txtContactLastName.Name
+	txtContactLastName.RightToLeft
+	txtContactLastName.TextChanged
+	txtContactName.AcceptsReturn
+	txtContactName.AllowDrop
+	txtContactName.BorderStyle
+	txtContactName.Cursor
+	txtContactName.MaxLength
+	txtContactName.Name
+	txtContactName.RightToLeft
+	txtContactName.TextChanged
+	cmdProviders.AllowDrop
+	cmdProviders.Name
+	cmdProviders.RightToLeft
+	cmdProviders.TabStop
+	cmdProviders.TextImageRelation
+	cmdProviders.UseVisualStyleBackColor
+	cmdProviders.Click
+	txtProviderName.AcceptsReturn
+	txtProviderName.AllowDrop
+	txtProviderName.BorderStyle
+	txtProviderName.Cursor
+	txtProviderName.MaxLength
+	txtProviderName.Name
+	txtProviderName.RightToLeft
+	txtProviderName.TextChanged
+	dtFrom.AllowDrop
+	dtFrom.Checked
+	dtFrom.Format
+	dtFrom.Name
+	dtFrom.ValueChanged
+	dtTo.AllowDrop
+	dtTo.Checked
+	dtTo.Format
+	dtTo.Name
+	dtTo.ValueChanged
+	Label5.AllowDrop
+	Label5.BorderStyle
+	Label5.Name
+	Label5.RightToLeft
+	Label8.AllowDrop
+	Label8.BorderStyle
+	Label8.Name
+	Label8.RightToLeft
+	Label1.AllowDrop
+	Label1.BorderStyle
+	Label1.Name
+	Label1.RightToLeft
+	Label6.AllowDrop
+	Label6.BorderStyle
+	Label6.Name
+	Label6.RightToLeft
+	Label3.AllowDrop
+	Label3.BorderStyle
+	Label3.Name
+	Label3.RightToLeft
+	Label4.AllowDrop
+	Label4.BorderStyle
+	Label4.Name
+	Label4.RightToLeft
+	Label2.AllowDrop
+	Label2.BorderStyle
+	Label2.Name
+	Label2.RightToLeft
+	this.AllowDrop
+	this.AutoScaleDimensions
+	this.AutoScaleMode
+	this.AutoScroll
+	this.FormBorderStyle
+	this.MaximizeBox
+	this.MinimizeBox
+	this.Name
+	this.RightToLeft
+	this.StartPosition
+	this.Closed
+[5/6/2020, 12:01:42.1211778]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.1381203]  Information: UIEXT0002: Adding view SKS.frmAddProductTo
+[5/6/2020, 12:01:42.1450966]  Information: UI0005: The following properties of the class frmAddProductTo were not collected for the front-end generation purposes: this.components
+	this.ToolTipMain
+	this.chkAll
+	this.cmdRemove
+	this.sbStatusBar
+	this.sbStatusBar_Panels_Panel1
+	this.cmdClose
+	this.cmdSave
+	this.Frame1
+	this.cmdProducts
+	this.txtName
+	this.txtCode
+	this.lvProducts
+	this.lvProducts_ColumnHeader_1_
+	this.lvProducts_ColumnHeader_2_
+	this.lvProducts_ColumnHeader_3_
+	this.lvProducts_ColumnHeader_4_
+	this.lvProducts_ColumnHeader_5_
+	this.lvProducts_ColumnHeader_6_
+	this.lvProducts_ColumnHeader_7_
+	this.Label4
+	this.Label5
+	this.lvProductsBy
+	this.lvProductsBy_ColumnHeader_1_
+	this.lvProductsBy_ColumnHeader_2_
+	this.lvProductsBy_ColumnHeader_3_
+	this.lvProductsBy_ColumnHeader_4_
+	this.lblProductsRelated
+	this.listViewHelper1
+	chkAll.AllowDrop
+	chkAll.Appearance
+	chkAll.CausesValidation
+	chkAll.CheckAlign
+	chkAll.CheckState
+	chkAll.Enabled
+	chkAll.Name
+	chkAll.RightToLeft
+	chkAll.TabStop
+	chkAll.TextAlign
+	chkAll.Visible
+	chkAll.CheckStateChanged
+	cmdRemove.AllowDrop
+	cmdRemove.Name
+	cmdRemove.RightToLeft
+	cmdRemove.TabStop
+	cmdRemove.TextImageRelation
+	cmdRemove.UseVisualStyleBackColor
+	cmdRemove.Click
+	sbStatusBar.AllowDrop
+	sbStatusBar.Dock
+	sbStatusBar.Name
+	sbStatusBar.ShowItemToolTips
+	sbStatusBar_Panels_Panel1.BorderSides
+	sbStatusBar_Panels_Panel1.BorderStyle
+	sbStatusBar_Panels_Panel1.DoubleClickEnabled
+	sbStatusBar_Panels_Panel1.Margin
+	sbStatusBar_Panels_Panel1.Spring
+	sbStatusBar_Panels_Panel1.TextAlign
+	sbStatusBar_Panels_Panel1.TextImageRelation
+	cmdClose.AllowDrop
+	cmdClose.Name
+	cmdClose.RightToLeft
+	cmdClose.TextImageRelation
+	cmdClose.UseVisualStyleBackColor
+	cmdClose.Click
+	cmdSave.AllowDrop
+	cmdSave.Name
+	cmdSave.RightToLeft
+	cmdSave.TextImageRelation
+	cmdSave.UseVisualStyleBackColor
+	cmdSave.Click
+	Frame1.AllowDrop
+	Frame1.Enabled
+	Frame1.Name
+	Frame1.RightToLeft
+	Frame1.Visible
+	cmdProducts.AllowDrop
+	cmdProducts.Name
+	cmdProducts.RightToLeft
+	cmdProducts.TabStop
+	cmdProducts.TextImageRelation
+	cmdProducts.UseVisualStyleBackColor
+	cmdProducts.Click
+	txtName.AcceptsReturn
+	txtName.AllowDrop
+	txtName.BorderStyle
+	txtName.Cursor
+	txtName.MaxLength
+	txtName.Name
+	txtName.RightToLeft
+	txtName.TextChanged
+	txtCode.AcceptsReturn
+	txtCode.AllowDrop
+	txtCode.BorderStyle
+	txtCode.Cursor
+	txtCode.MaxLength
+	txtCode.Name
+	txtCode.RightToLeft
+	txtCode.Leave
+	txtCode.TextChanged
+	lvProducts.AllowDrop
+	lvProducts.BorderStyle
+	lvProducts.FullRowSelect
+	lvProducts.GridLines
+	lvProducts.HideSelection
+	lvProducts.HotTracking
+	lvProducts.LabelEdit
+	lvProducts.MultiSelect
+	lvProducts.Name
+	lvProducts.View
+	lvProducts_ColumnHeader_1_.Width
+	lvProducts_ColumnHeader_2_.Width
+	lvProducts_ColumnHeader_3_.TextAlign
+	lvProducts_ColumnHeader_3_.Width
+	lvProducts_ColumnHeader_4_.TextAlign
+	lvProducts_ColumnHeader_4_.Width
+	lvProducts_ColumnHeader_5_.TextAlign
+	lvProducts_ColumnHeader_5_.Width
+	lvProducts_ColumnHeader_6_.TextAlign
+	lvProducts_ColumnHeader_6_.Width
+	lvProducts_ColumnHeader_7_.Width
+	Label4.AllowDrop
+	Label4.BorderStyle
+	Label4.Name
+	Label4.RightToLeft
+	Label5.AllowDrop
+	Label5.BorderStyle
+	Label5.Name
+	Label5.RightToLeft
+	lvProductsBy.AllowDrop
+	lvProductsBy.BorderStyle
+	lvProductsBy.CheckBoxes
+	lvProductsBy.FullRowSelect
+	lvProductsBy.GridLines
+	lvProductsBy.HideSelection
+	lvProductsBy.HotTracking
+	lvProductsBy.LabelEdit
+	lvProductsBy.MultiSelect
+	lvProductsBy.Name
+	lvProductsBy.View
+	lvProductsBy_ColumnHeader_1_.Width
+	lvProductsBy_ColumnHeader_2_.Width
+	lvProductsBy_ColumnHeader_3_.TextAlign
+	lvProductsBy_ColumnHeader_3_.Width
+	lvProductsBy_ColumnHeader_4_.TextAlign
+	lvProductsBy_ColumnHeader_4_.Width
+	lblProductsRelated.AllowDrop
+	lblProductsRelated.BorderStyle
+	lblProductsRelated.Name
+	lblProductsRelated.RightToLeft
+	this.AllowDrop
+	this.AutoScaleDimensions
+	this.AutoScaleMode
+	this.FormBorderStyle
+	this.MaximizeBox
+	this.MinimizeBox
+	this.Name
+	this.RightToLeft
+	this.Closed
+	this.FormClosing
+[5/6/2020, 12:01:42.1460941]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.2019088]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.2088828]  Information: UIEXT0002: Adding view SKS.frmOrderReception
+[5/6/2020, 12:01:42.2188497]  Information: UI0005: The following properties of the class frmOrderReception were not collected for the front-end generation purposes: this.components
+	this.ToolTipMain
+	this.txtNotes
+	this.txtSubTotal
+	this.txtTotal
+	this.txtTotalTax
+	this.txtFreightCharge
+	this.txtSalesTax
+	this.txtEntry
+	this.fgProducts
+	this.sbStatusBar
+	this.sbStatusBar_Panels_Panel1
+	this.cmdSave
+	this.cmdClose
+	this.cmdAddProducts
+	this.Frame1
+	this.txtProviderName
+	this.txtContactLastName
+	this.txtContactName
+	this.cmdProviders
+	this.lvProviders
+	this.lvProviders_ColumnHeader_1_
+	this.lvProviders_ColumnHeader_2_
+	this.lvProviders_ColumnHeader_3_
+	this.lvProviders_ColumnHeader_4_
+	this.lvProviders_ColumnHeader_5_
+	this.lvProviders_ColumnHeader_6_
+	this.lvProviders_ColumnHeader_7_
+	this.Label3
+	this.Label4
+	this.Label2
+	this.Frame2
+	this.txtProviderContact
+	this.txtProviderCompany
+	this.Label5
+	this.Label1
+	this.Label7
+	this.Label12
+	this.Label11
+	this.Label10
+	this.Label9
+	this.Label8
+	this.Label6
+	this.listViewHelper1
+	txtNotes.AcceptsReturn
+	txtNotes.AllowDrop
+	txtNotes.BorderStyle
+	txtNotes.Cursor
+	txtNotes.MaxLength
+	txtNotes.Multiline
+	txtNotes.Name
+	txtNotes.RightToLeft
+	txtNotes.TextChanged
+	txtSubTotal.AcceptsReturn
+	txtSubTotal.AllowDrop
+	txtSubTotal.BorderStyle
+	txtSubTotal.Cursor
+	txtSubTotal.MaxLength
+	txtSubTotal.Name
+	txtSubTotal.ReadOnly
+	txtSubTotal.RightToLeft
+	txtSubTotal.TabStop
+	txtSubTotal.TextAlign
+	txtTotal.AcceptsReturn
+	txtTotal.AllowDrop
+	txtTotal.BorderStyle
+	txtTotal.Cursor
+	txtTotal.MaxLength
+	txtTotal.Name
+	txtTotal.ReadOnly
+	txtTotal.RightToLeft
+	txtTotal.TabStop
+	txtTotal.TextAlign
+	txtTotalTax.AcceptsReturn
+	txtTotalTax.AllowDrop
+	txtTotalTax.BorderStyle
+	txtTotalTax.Cursor
+	txtTotalTax.MaxLength
+	txtTotalTax.Name
+	txtTotalTax.ReadOnly
+	txtTotalTax.RightToLeft
+	txtTotalTax.TabStop
+	txtTotalTax.TextAlign
+	txtFreightCharge.AcceptsReturn
+	txtFreightCharge.AllowDrop
+	txtFreightCharge.BorderStyle
+	txtFreightCharge.Cursor
+	txtFreightCharge.MaxLength
+	txtFreightCharge.Name
+	txtFreightCharge.RightToLeft
+	txtFreightCharge.TextAlign
+	txtFreightCharge.KeyPress
+	txtFreightCharge.TextChanged
+	txtSalesTax.AcceptsReturn
+	txtSalesTax.AllowDrop
+	txtSalesTax.BorderStyle
+	txtSalesTax.Cursor
+	txtSalesTax.MaxLength
+	txtSalesTax.Name
+	txtSalesTax.RightToLeft
+	txtSalesTax.TextAlign
+	txtSalesTax.KeyPress
+	txtSalesTax.TextChanged
+	txtEntry.AcceptsReturn
+	txtEntry.AllowDrop
+	txtEntry.BorderStyle
+	txtEntry.Cursor
+	txtEntry.MaxLength
+	txtEntry.Name
+	txtEntry.RightToLeft
+	txtEntry.Visible
+	txtEntry.KeyDown
+	txtEntry.KeyPress
+	txtEntry.Leave
+	fgProducts.AllowDrop
+	fgProducts.AllowUserToAddRows
+	fgProducts.AllowUserToDeleteRows
+	fgProducts.AllowUserToResizeColumns
+	fgProducts.AllowUserToResizeRows
+	fgProducts.BorderStyle
+	fgProducts.ColumnHeadersHeightSizeMode
+	fgProducts.ColumnsCount
+	fgProducts.FixedColumns
+	fgProducts.FixedRows
+	fgProducts.Name
+	fgProducts.ReadOnly
+	fgProducts.StandardTab
+	fgProducts.CellLeave
+	fgProducts.Click
+	fgProducts.KeyPress
+	sbStatusBar.AllowDrop
+	sbStatusBar.Dock
+	sbStatusBar.Name
+	sbStatusBar.ShowItemToolTips
+	sbStatusBar_Panels_Panel1.BorderSides
+	sbStatusBar_Panels_Panel1.BorderStyle
+	sbStatusBar_Panels_Panel1.DoubleClickEnabled
+	sbStatusBar_Panels_Panel1.Margin
+	sbStatusBar_Panels_Panel1.Spring
+	sbStatusBar_Panels_Panel1.TextAlign
+	sbStatusBar_Panels_Panel1.TextImageRelation
+	cmdSave.AllowDrop
+	cmdSave.Name
+	cmdSave.RightToLeft
+	cmdSave.TextImageRelation
+	cmdSave.UseVisualStyleBackColor
+	cmdSave.Click
+	cmdClose.AllowDrop
+	cmdClose.Name
+	cmdClose.RightToLeft
+	cmdClose.TextImageRelation
+	cmdClose.UseVisualStyleBackColor
+	cmdClose.Click
+	cmdAddProducts.AllowDrop
+	cmdAddProducts.Name
+	cmdAddProducts.RightToLeft
+	cmdAddProducts.TabStop
+	cmdAddProducts.TextImageRelation
+	cmdAddProducts.UseVisualStyleBackColor
+	cmdAddProducts.Click
+	Frame1.AllowDrop
+	Frame1.Enabled
+	Frame1.Name
+	Frame1.RightToLeft
+	Frame1.Visible
+	txtProviderName.AcceptsReturn
+	txtProviderName.AllowDrop
+	txtProviderName.BorderStyle
+	txtProviderName.Cursor
+	txtProviderName.MaxLength
+	txtProviderName.Name
+	txtProviderName.RightToLeft
+	txtProviderName.TextChanged
+	txtContactLastName.AcceptsReturn
+	txtContactLastName.AllowDrop
+	txtContactLastName.BorderStyle
+	txtContactLastName.Cursor
+	txtContactLastName.MaxLength
+	txtContactLastName.Name
+	txtContactLastName.RightToLeft
+	txtContactLastName.TextChanged
+	txtContactName.AcceptsReturn
+	txtContactName.AllowDrop
+	txtContactName.BorderStyle
+	txtContactName.Cursor
+	txtContactName.MaxLength
+	txtContactName.Name
+	txtContactName.RightToLeft
+	txtContactName.TextChanged
+	cmdProviders.AllowDrop
+	cmdProviders.Name
+	cmdProviders.RightToLeft
+	cmdProviders.TabStop
+	cmdProviders.TextImageRelation
+	cmdProviders.UseVisualStyleBackColor
+	cmdProviders.Click
+	lvProviders.AllowDrop
+	lvProviders.BorderStyle
+	lvProviders.FullRowSelect
+	lvProviders.GridLines
+	lvProviders.HideSelection
+	lvProviders.HotTracking
+	lvProviders.LabelEdit
+	lvProviders.MultiSelect
+	lvProviders.Name
+	lvProviders.View
+	lvProviders_ColumnHeader_1_.Width
+	lvProviders_ColumnHeader_2_.Width
+	lvProviders_ColumnHeader_3_.Width
+	lvProviders_ColumnHeader_4_.Width
+	lvProviders_ColumnHeader_5_.Width
+	lvProviders_ColumnHeader_6_.Width
+	lvProviders_ColumnHeader_7_.Width
+	Label3.AllowDrop
+	Label3.BorderStyle
+	Label3.Name
+	Label3.RightToLeft
+	Label4.AllowDrop
+	Label4.BorderStyle
+	Label4.Name
+	Label4.RightToLeft
+	Label2.AllowDrop
+	Label2.BorderStyle
+	Label2.Name
+	Label2.RightToLeft
+	Frame2.AllowDrop
+	Frame2.Enabled
+	Frame2.Name
+	Frame2.RightToLeft
+	Frame2.Visible
+	txtProviderContact.AcceptsReturn
+	txtProviderContact.AllowDrop
+	txtProviderContact.BorderStyle
+	txtProviderContact.Cursor
+	txtProviderContact.MaxLength
+	txtProviderContact.Name
+	txtProviderContact.ReadOnly
+	txtProviderContact.RightToLeft
+	txtProviderContact.TabStop
+	txtProviderCompany.AcceptsReturn
+	txtProviderCompany.AllowDrop
+	txtProviderCompany.BorderStyle
+	txtProviderCompany.Cursor
+	txtProviderCompany.MaxLength
+	txtProviderCompany.Name
+	txtProviderCompany.ReadOnly
+	txtProviderCompany.RightToLeft
+	txtProviderCompany.TabStop
+	Label5.AllowDrop
+	Label5.BorderStyle
+	Label5.Name
+	Label5.RightToLeft
+	Label1.AllowDrop
+	Label1.BorderStyle
+	Label1.Name
+	Label1.RightToLeft
+	Label7.AllowDrop
+	Label7.BorderStyle
+	Label7.Name
+	Label7.RightToLeft
+	Label12.AllowDrop
+	Label12.BorderStyle
+	Label12.Name
+	Label12.RightToLeft
+	Label11.AllowDrop
+	Label11.BorderStyle
+	Label11.Name
+	Label11.RightToLeft
+	Label10.AllowDrop
+	Label10.BorderStyle
+	Label10.Name
+	Label10.RightToLeft
+	Label9.AllowDrop
+	Label9.BorderStyle
+	Label9.Name
+	Label9.RightToLeft
+	Label8.AllowDrop
+	Label8.BorderStyle
+	Label8.Name
+	Label8.RightToLeft
+	Label6.AllowDrop
+	Label6.BorderStyle
+	Label6.Name
+	Label6.RightToLeft
+	this.AllowDrop
+	this.AutoScaleDimensions
+	this.AutoScaleMode
+	this.AutoScroll
+	this.FormBorderStyle
+	this.MaximizeBox
+	this.MinimizeBox
+	this.Name
+	this.RightToLeft
+	this.StartPosition
+	this.Closed
+	this.FormClosing
+[5/6/2020, 12:01:42.2198471]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.2457674]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.2557267]  Information: UIEXT0002: Adding view SKS.frmAddStockManual
+[5/6/2020, 12:01:42.2637045]  Information: UI0005: The following properties of the class frmAddStockManual were not collected for the front-end generation purposes: this.components
+	this.ToolTipMain
+	this.cmdSave
+	this.cmdClose
+	this.sbStatusBar
+	this.sbStatusBar_Panels_Panel1
+	this.txtUnit
+	this.txtProductName
+	this.txtQuantityPerUnit
+	this._txtValues_2
+	this._txtValues_1
+	this._txtValues_0
+	this.Frame1
+	this.cmdProducts
+	this.txtName
+	this.txtCode
+	this.Label4
+	this.Label5
+	this.lvProducts
+	this.lvProducts_ColumnHeader_1_
+	this.lvProducts_ColumnHeader_2_
+	this.lvProducts_ColumnHeader_3_
+	this.lvProducts_ColumnHeader_4_
+	this.lvProducts_ColumnHeader_5_
+	this.lvProducts_ColumnHeader_6_
+	this.lvProducts_ColumnHeader_7_
+	this.lblNewQuantity
+	this.Label10
+	this.Label9
+	this.Label8
+	this.Label7
+	this.Label6
+	this.Label1
+	this.Label2
+	this.Label3
+	this.listViewHelper1
+	cmdSave.AllowDrop
+	cmdSave.Name
+	cmdSave.RightToLeft
+	cmdSave.TextImageRelation
+	cmdSave.UseVisualStyleBackColor
+	cmdSave.Click
+	cmdClose.AllowDrop
+	cmdClose.Name
+	cmdClose.RightToLeft
+	cmdClose.TextImageRelation
+	cmdClose.UseVisualStyleBackColor
+	cmdClose.Click
+	sbStatusBar.AllowDrop
+	sbStatusBar.Dock
+	sbStatusBar.Name
+	sbStatusBar.ShowItemToolTips
+	sbStatusBar_Panels_Panel1.BorderSides
+	sbStatusBar_Panels_Panel1.BorderStyle
+	sbStatusBar_Panels_Panel1.DoubleClickEnabled
+	sbStatusBar_Panels_Panel1.Margin
+	sbStatusBar_Panels_Panel1.Spring
+	sbStatusBar_Panels_Panel1.TextAlign
+	sbStatusBar_Panels_Panel1.TextImageRelation
+	txtUnit.AcceptsReturn
+	txtUnit.AllowDrop
+	txtUnit.BorderStyle
+	txtUnit.Cursor
+	txtUnit.MaxLength
+	txtUnit.Name
+	txtUnit.ReadOnly
+	txtUnit.RightToLeft
+	txtUnit.TabStop
+	txtProductName.AcceptsReturn
+	txtProductName.AllowDrop
+	txtProductName.BorderStyle
+	txtProductName.Cursor
+	txtProductName.MaxLength
+	txtProductName.Name
+	txtProductName.ReadOnly
+	txtProductName.RightToLeft
+	txtProductName.TabStop
+	txtQuantityPerUnit.AcceptsReturn
+	txtQuantityPerUnit.AllowDrop
+	txtQuantityPerUnit.BorderStyle
+	txtQuantityPerUnit.Cursor
+	txtQuantityPerUnit.MaxLength
+	txtQuantityPerUnit.Name
+	txtQuantityPerUnit.ReadOnly
+	txtQuantityPerUnit.RightToLeft
+	txtQuantityPerUnit.TabStop
+	txtQuantityPerUnit.TextAlign
+	_txtValues_2.AcceptsReturn
+	_txtValues_2.AllowDrop
+	_txtValues_2.BorderStyle
+	_txtValues_2.Cursor
+	_txtValues_2.MaxLength
+	_txtValues_2.Name
+	_txtValues_2.ReadOnly
+	_txtValues_2.RightToLeft
+	_txtValues_2.TextAlign
+	_txtValues_2.Enter
+	_txtValues_2.KeyPress
+	_txtValues_2.TextChanged
+	_txtValues_1.AcceptsReturn
+	_txtValues_1.AllowDrop
+	_txtValues_1.BorderStyle
+	_txtValues_1.Cursor
+	_txtValues_1.MaxLength
+	_txtValues_1.Name
+	_txtValues_1.ReadOnly
+	_txtValues_1.RightToLeft
+	_txtValues_1.TextAlign
+	_txtValues_1.Enter
+	_txtValues_1.KeyPress
+	_txtValues_1.TextChanged
+	_txtValues_0.AcceptsReturn
+	_txtValues_0.AllowDrop
+	_txtValues_0.BorderStyle
+	_txtValues_0.Cursor
+	_txtValues_0.MaxLength
+	_txtValues_0.Name
+	_txtValues_0.ReadOnly
+	_txtValues_0.RightToLeft
+	_txtValues_0.TextAlign
+	_txtValues_0.Enter
+	_txtValues_0.KeyPress
+	_txtValues_0.TextChanged
+	Frame1.AllowDrop
+	Frame1.Enabled
+	Frame1.Name
+	Frame1.RightToLeft
+	Frame1.Visible
+	cmdProducts.AllowDrop
+	cmdProducts.Name
+	cmdProducts.RightToLeft
+	cmdProducts.TabStop
+	cmdProducts.TextImageRelation
+	cmdProducts.UseVisualStyleBackColor
+	cmdProducts.Click
+	txtName.AcceptsReturn
+	txtName.AllowDrop
+	txtName.BorderStyle
+	txtName.Cursor
+	txtName.MaxLength
+	txtName.Name
+	txtName.RightToLeft
+	txtName.Leave
+	txtName.TextChanged
+	txtCode.AcceptsReturn
+	txtCode.AllowDrop
+	txtCode.BorderStyle
+	txtCode.Cursor
+	txtCode.MaxLength
+	txtCode.Name
+	txtCode.RightToLeft
+	txtCode.Leave
+	txtCode.TextChanged
+	Label4.AllowDrop
+	Label4.BorderStyle
+	Label4.Name
+	Label4.RightToLeft
+	Label5.AllowDrop
+	Label5.BorderStyle
+	Label5.Name
+	Label5.RightToLeft
+	lvProducts.AllowDrop
+	lvProducts.BorderStyle
+	lvProducts.FullRowSelect
+	lvProducts.GridLines
+	lvProducts.HideSelection
+	lvProducts.HotTracking
+	lvProducts.LabelEdit
+	lvProducts.MultiSelect
+	lvProducts.Name
+	lvProducts.View
+	lvProducts.Click
+	lvProducts_ColumnHeader_1_.Width
+	lvProducts_ColumnHeader_2_.Width
+	lvProducts_ColumnHeader_3_.TextAlign
+	lvProducts_ColumnHeader_3_.Width
+	lvProducts_ColumnHeader_4_.TextAlign
+	lvProducts_ColumnHeader_4_.Width
+	lvProducts_ColumnHeader_5_.TextAlign
+	lvProducts_ColumnHeader_5_.Width
+	lvProducts_ColumnHeader_6_.TextAlign
+	lvProducts_ColumnHeader_6_.Width
+	lvProducts_ColumnHeader_7_.Width
+	lblNewQuantity.AllowDrop
+	lblNewQuantity.BorderStyle
+	lblNewQuantity.Name
+	lblNewQuantity.RightToLeft
+	Label10.AllowDrop
+	Label10.BorderStyle
+	Label10.Name
+	Label10.RightToLeft
+	Label9.AllowDrop
+	Label9.BorderStyle
+	Label9.Name
+	Label9.RightToLeft
+	Label8.AllowDrop
+	Label8.BorderStyle
+	Label8.Name
+	Label8.RightToLeft
+	Label7.AllowDrop
+	Label7.BorderStyle
+	Label7.Name
+	Label7.RightToLeft
+	Label6.AllowDrop
+	Label6.BorderStyle
+	Label6.Name
+	Label6.RightToLeft
+	Label1.AllowDrop
+	Label1.BorderStyle
+	Label1.Name
+	Label1.RightToLeft
+	Label2.AllowDrop
+	Label2.BorderStyle
+	Label2.Name
+	Label2.RightToLeft
+	Label3.AllowDrop
+	Label3.BorderStyle
+	Label3.Name
+	Label3.RightToLeft
+	this.AllowDrop
+	this.AutoScaleDimensions
+	this.AutoScaleMode
+	this.AutoScroll
+	this.FormBorderStyle
+	this.MaximizeBox
+	this.MinimizeBox
+	this.Name
+	this.RightToLeft
+	this.StartPosition
+	this.Closed
+	this.FormClosing
+[5/6/2020, 12:01:42.2637045]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.2676927]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.2756666]  Information: UIEXT0002: Adding view SKS.frmOrderRequest
+[5/6/2020, 12:01:42.3075599]  Information: UI0005: The following properties of the class frmOrderRequest were not collected for the front-end generation purposes: this.components
+	this.ToolTipMain
+	this.txtSubTotal
+	this.txtTotal
+	this.txtTotalTax
+	this.txtFreightCharge
+	this.txtSalesTax
+	this.txtEntry
+	this.fgProducts
+	this.sbStatusBar
+	this.sbStatusBar_Panels_Panel1
+	this.dtRequired
+	this.cmdSave
+	this.cmdAddProducts
+	this.cmdClose
+	this.Frame1
+	this.txtContactLastName
+	this.txtContactName
+	this.cmdCustomers
+	this.txtCompanyName
+	this.lvCustomers
+	this.lvCustomers_ColumnHeader_1_
+	this.lvCustomers_ColumnHeader_2_
+	this.lvCustomers_ColumnHeader_3_
+	this.lvCustomers_ColumnHeader_4_
+	this.lvCustomers_ColumnHeader_5_
+	this.lvCustomers_ColumnHeader_6_
+	this.lvCustomers_ColumnHeader_7_
+	this.Label3
+	this.Label4
+	this.Label2
+	this.Frame2
+	this.txtCustomerContact
+	this.txtCustomerCompany
+	this.Label5
+	this.Label1
+	this.dtPromised
+	this.Label13
+	this.Label12
+	this.Label11
+	this.Label10
+	this.Label9
+	this.Label8
+	this.Label7
+	this.Label6
+	this.listViewHelper1
+	txtSubTotal.AcceptsReturn
+	txtSubTotal.AllowDrop
+	txtSubTotal.BorderStyle
+	txtSubTotal.Cursor
+	txtSubTotal.MaxLength
+	txtSubTotal.Name
+	txtSubTotal.ReadOnly
+	txtSubTotal.RightToLeft
+	txtSubTotal.TabStop
+	txtSubTotal.TextAlign
+	txtTotal.AcceptsReturn
+	txtTotal.AllowDrop
+	txtTotal.BorderStyle
+	txtTotal.Cursor
+	txtTotal.MaxLength
+	txtTotal.Name
+	txtTotal.ReadOnly
+	txtTotal.RightToLeft
+	txtTotal.TabStop
+	txtTotal.TextAlign
+	txtTotalTax.AcceptsReturn
+	txtTotalTax.AllowDrop
+	txtTotalTax.BorderStyle
+	txtTotalTax.Cursor
+	txtTotalTax.MaxLength
+	txtTotalTax.Name
+	txtTotalTax.ReadOnly
+	txtTotalTax.RightToLeft
+	txtTotalTax.TabStop
+	txtTotalTax.TextAlign
+	txtFreightCharge.AcceptsReturn
+	txtFreightCharge.AllowDrop
+	txtFreightCharge.BorderStyle
+	txtFreightCharge.Cursor
+	txtFreightCharge.MaxLength
+	txtFreightCharge.Name
+	txtFreightCharge.RightToLeft
+	txtFreightCharge.TextAlign
+	txtFreightCharge.KeyPress
+	txtFreightCharge.TextChanged
+	txtSalesTax.AcceptsReturn
+	txtSalesTax.AllowDrop
+	txtSalesTax.BorderStyle
+	txtSalesTax.Cursor
+	txtSalesTax.MaxLength
+	txtSalesTax.Name
+	txtSalesTax.RightToLeft
+	txtSalesTax.TextAlign
+	txtSalesTax.KeyPress
+	txtSalesTax.TextChanged
+	txtEntry.AcceptsReturn
+	txtEntry.AllowDrop
+	txtEntry.BorderStyle
+	txtEntry.Cursor
+	txtEntry.Enabled
+	txtEntry.MaxLength
+	txtEntry.Name
+	txtEntry.RightToLeft
+	txtEntry.Leave
+	fgProducts.AllowDrop
+	fgProducts.AllowUserToAddRows
+	fgProducts.AllowUserToDeleteRows
+	fgProducts.AllowUserToResizeColumns
+	fgProducts.AllowUserToResizeRows
+	fgProducts.BorderStyle
+	fgProducts.ColumnHeadersHeightSizeMode
+	fgProducts.ColumnsCount
+	fgProducts.FixedColumns
+	fgProducts.FixedRows
+	fgProducts.Name
+	fgProducts.ReadOnly
+	fgProducts.StandardTab
+	fgProducts.CellLeave
+	fgProducts.Click
+	fgProducts.KeyPress
+	sbStatusBar.AllowDrop
+	sbStatusBar.Dock
+	sbStatusBar.Name
+	sbStatusBar.ShowItemToolTips
+	sbStatusBar_Panels_Panel1.BorderSides
+	sbStatusBar_Panels_Panel1.BorderStyle
+	sbStatusBar_Panels_Panel1.DoubleClickEnabled
+	sbStatusBar_Panels_Panel1.Margin
+	sbStatusBar_Panels_Panel1.Spring
+	sbStatusBar_Panels_Panel1.TextAlign
+	sbStatusBar_Panels_Panel1.TextImageRelation
+	dtRequired.AllowDrop
+	dtRequired.Checked
+	dtRequired.Format
+	dtRequired.Name
+	dtRequired.ValueChanged
+	cmdSave.AllowDrop
+	cmdSave.Name
+	cmdSave.RightToLeft
+	cmdSave.TextImageRelation
+	cmdSave.UseVisualStyleBackColor
+	cmdSave.Click
+	cmdAddProducts.AllowDrop
+	cmdAddProducts.Name
+	cmdAddProducts.RightToLeft
+	cmdAddProducts.TabStop
+	cmdAddProducts.TextImageRelation
+	cmdAddProducts.UseVisualStyleBackColor
+	cmdAddProducts.Click
+	cmdClose.AllowDrop
+	cmdClose.Name
+	cmdClose.RightToLeft
+	cmdClose.TextImageRelation
+	cmdClose.UseVisualStyleBackColor
+	cmdClose.Click
+	Frame1.AllowDrop
+	Frame1.Enabled
+	Frame1.Name
+	Frame1.RightToLeft
+	Frame1.Visible
+	txtContactLastName.AcceptsReturn
+	txtContactLastName.AllowDrop
+	txtContactLastName.BorderStyle
+	txtContactLastName.Cursor
+	txtContactLastName.MaxLength
+	txtContactLastName.Name
+	txtContactLastName.RightToLeft
+	txtContactLastName.TextChanged
+	txtContactName.AcceptsReturn
+	txtContactName.AllowDrop
+	txtContactName.BorderStyle
+	txtContactName.Cursor
+	txtContactName.MaxLength
+	txtContactName.Name
+	txtContactName.RightToLeft
+	txtContactName.TextChanged
+	cmdCustomers.AllowDrop
+	cmdCustomers.Name
+	cmdCustomers.RightToLeft
+	cmdCustomers.TabStop
+	cmdCustomers.TextImageRelation
+	cmdCustomers.UseVisualStyleBackColor
+	cmdCustomers.Click
+	txtCompanyName.AcceptsReturn
+	txtCompanyName.AllowDrop
+	txtCompanyName.BorderStyle
+	txtCompanyName.Cursor
+	txtCompanyName.MaxLength
+	txtCompanyName.Name
+	txtCompanyName.RightToLeft
+	txtCompanyName.TextChanged
+	lvCustomers.AllowDrop
+	lvCustomers.BorderStyle
+	lvCustomers.FullRowSelect
+	lvCustomers.GridLines
+	lvCustomers.HideSelection
+	lvCustomers.HotTracking
+	lvCustomers.LabelEdit
+	lvCustomers.MultiSelect
+	lvCustomers.Name
+	lvCustomers.View
+	lvCustomers_ColumnHeader_1_.Width
+	lvCustomers_ColumnHeader_2_.Width
+	lvCustomers_ColumnHeader_3_.Width
+	lvCustomers_ColumnHeader_4_.Width
+	lvCustomers_ColumnHeader_5_.Width
+	lvCustomers_ColumnHeader_6_.Width
+	lvCustomers_ColumnHeader_7_.Width
+	Label3.AllowDrop
+	Label3.BorderStyle
+	Label3.Name
+	Label3.RightToLeft
+	Label4.AllowDrop
+	Label4.BorderStyle
+	Label4.Name
+	Label4.RightToLeft
+	Label2.AllowDrop
+	Label2.BorderStyle
+	Label2.Name
+	Label2.RightToLeft
+	Frame2.AllowDrop
+	Frame2.Enabled
+	Frame2.Name
+	Frame2.RightToLeft
+	Frame2.Visible
+	txtCustomerContact.AcceptsReturn
+	txtCustomerContact.AllowDrop
+	txtCustomerContact.BorderStyle
+	txtCustomerContact.Cursor
+	txtCustomerContact.MaxLength
+	txtCustomerContact.Name
+	txtCustomerContact.ReadOnly
+	txtCustomerContact.RightToLeft
+	txtCustomerContact.TabStop
+	txtCustomerCompany.AcceptsReturn
+	txtCustomerCompany.AllowDrop
+	txtCustomerCompany.BorderStyle
+	txtCustomerCompany.Cursor
+	txtCustomerCompany.MaxLength
+	txtCustomerCompany.Name
+	txtCustomerCompany.ReadOnly
+	txtCustomerCompany.RightToLeft
+	txtCustomerCompany.TabStop
+	Label5.AllowDrop
+	Label5.BorderStyle
+	Label5.Name
+	Label5.RightToLeft
+	Label1.AllowDrop
+	Label1.BorderStyle
+	Label1.Name
+	Label1.RightToLeft
+	dtPromised.AllowDrop
+	dtPromised.Checked
+	dtPromised.Format
+	dtPromised.Name
+	dtPromised.ValueChanged
+	Label13.AllowDrop
+	Label13.BorderStyle
+	Label13.Name
+	Label13.RightToLeft
+	Label12.AllowDrop
+	Label12.BorderStyle
+	Label12.Name
+	Label12.RightToLeft
+	Label11.AllowDrop
+	Label11.BorderStyle
+	Label11.Name
+	Label11.RightToLeft
+	Label10.AllowDrop
+	Label10.BorderStyle
+	Label10.Name
+	Label10.RightToLeft
+	Label9.AllowDrop
+	Label9.BorderStyle
+	Label9.Name
+	Label9.RightToLeft
+	Label8.AllowDrop
+	Label8.BorderStyle
+	Label8.Name
+	Label8.RightToLeft
+	Label7.AllowDrop
+	Label7.BorderStyle
+	Label7.Name
+	Label7.RightToLeft
+	Label6.AllowDrop
+	Label6.BorderStyle
+	Label6.Name
+	Label6.RightToLeft
+	this.AllowDrop
+	this.AutoScaleDimensions
+	this.AutoScaleMode
+	this.AutoScroll
+	this.FormBorderStyle
+	this.MaximizeBox
+	this.MinimizeBox
+	this.Name
+	this.RightToLeft
+	this.StartPosition
+	this.Closed
+	this.FormClosing
+[5/6/2020, 12:01:42.3085570]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.3195232]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.3284949]  Information: UIEXT0002: Adding view SKS.frmProviders
+[5/6/2020, 12:01:42.3424433]  Information: UI0005: The following properties of the class frmProviders were not collected for the front-end generation purposes: this.components
+	this.ToolTipMain
+	this.dcProviders
+	this.Frame1
+	this._txtField_1
+	this._txtField_4
+	this._txtField_0
+	this._txtField_6
+	this._txtField_7
+	this._txtField_2
+	this._txtField_5
+	this.Frame2
+	this._txtField_11
+	this._txtField_13
+	this._txtField_12
+	this.Label7
+	this.Label3
+	this.Label2
+	this._txtField_8
+	this._txtField_10
+	this._txtField_14
+	this._txtField_9
+	this.Label4
+	this.Label15
+	this.Label14
+	this.Label13
+	this.Label12
+	this.Label11
+	this.Label10
+	this.Label9
+	this.Label8
+	this.Label6
+	this.Label1
+	this.ImageList1
+	this.Toolbar1
+	this.Toolbar1_Buttons_Button1
+	this.Toolbar1_Buttons_Button2
+	this.Toolbar1_Buttons_Button3
+	this.Toolbar1_Buttons_Button4
+	this.Toolbar1_Buttons_Button5
+	this.Toolbar1_Buttons_Button6
+	dcProviders.AllowDrop
+	dcProviders.BOFAction
+	dcProviders.ConnectionString
+	dcProviders.CursorLocation
+	dcProviders.Enabled
+	dcProviders.EOFAction
+	dcProviders.FactoryName
+	dcProviders.Font
+	dcProviders.LockType
+	dcProviders.Name
+	dcProviders.Password
+	dcProviders.QueryTimeout
+	dcProviders.QueryType
+	dcProviders.RecordSource
+	dcProviders.UserName
+	dcProviders.Width
+	Frame1.AllowDrop
+	Frame1.Enabled
+	Frame1.Name
+	Frame1.RightToLeft
+	Frame1.Visible
+	_txtField_1.AcceptsReturn
+	_txtField_1.AllowDrop
+	_txtField_1.BorderStyle
+	_txtField_1.Cursor
+	_txtField_1.MaxLength
+	_txtField_1.Multiline
+	_txtField_1.Name
+	_txtField_1.RightToLeft
+	_txtField_1.TextChanged
+	_txtField_4.AcceptsReturn
+	_txtField_4.AllowDrop
+	_txtField_4.BorderStyle
+	_txtField_4.Cursor
+	_txtField_4.MaxLength
+	_txtField_4.Name
+	_txtField_4.RightToLeft
+	_txtField_4.TextChanged
+	_txtField_0.AcceptsReturn
+	_txtField_0.AllowDrop
+	_txtField_0.BorderStyle
+	_txtField_0.Cursor
+	_txtField_0.MaxLength
+	_txtField_0.Name
+	_txtField_0.RightToLeft
+	_txtField_0.TextChanged
+	_txtField_6.AcceptsReturn
+	_txtField_6.AllowDrop
+	_txtField_6.BorderStyle
+	_txtField_6.Cursor
+	_txtField_6.MaxLength
+	_txtField_6.Name
+	_txtField_6.RightToLeft
+	_txtField_6.TextChanged
+	_txtField_7.AcceptsReturn
+	_txtField_7.AllowDrop
+	_txtField_7.BorderStyle
+	_txtField_7.Cursor
+	_txtField_7.MaxLength
+	_txtField_7.Name
+	_txtField_7.RightToLeft
+	_txtField_7.TextChanged
+	_txtField_2.AcceptsReturn
+	_txtField_2.AllowDrop
+	_txtField_2.BorderStyle
+	_txtField_2.Cursor
+	_txtField_2.MaxLength
+	_txtField_2.Name
+	_txtField_2.RightToLeft
+	_txtField_2.TextChanged
+	_txtField_5.AcceptsReturn
+	_txtField_5.AllowDrop
+	_txtField_5.BorderStyle
+	_txtField_5.Cursor
+	_txtField_5.MaxLength
+	_txtField_5.Name
+	_txtField_5.RightToLeft
+	_txtField_5.TextChanged
+	Frame2.AllowDrop
+	Frame2.Enabled
+	Frame2.Name
+	Frame2.RightToLeft
+	Frame2.Visible
+	_txtField_11.AcceptsReturn
+	_txtField_11.AllowDrop
+	_txtField_11.BorderStyle
+	_txtField_11.Cursor
+	_txtField_11.MaxLength
+	_txtField_11.Name
+	_txtField_11.RightToLeft
+	_txtField_11.TextChanged
+	_txtField_13.AcceptsReturn
+	_txtField_13.AllowDrop
+	_txtField_13.BorderStyle
+	_txtField_13.Cursor
+	_txtField_13.MaxLength
+	_txtField_13.Name
+	_txtField_13.RightToLeft
+	_txtField_13.TextChanged
+	_txtField_12.AcceptsReturn
+	_txtField_12.AllowDrop
+	_txtField_12.BorderStyle
+	_txtField_12.Cursor
+	_txtField_12.MaxLength
+	_txtField_12.Name
+	_txtField_12.RightToLeft
+	_txtField_12.TextChanged
+	Label7.AllowDrop
+	Label7.BorderStyle
+	Label7.Name
+	Label7.RightToLeft
+	Label3.AllowDrop
+	Label3.BorderStyle
+	Label3.Name
+	Label3.RightToLeft
+	Label2.AllowDrop
+	Label2.BorderStyle
+	Label2.Name
+	Label2.RightToLeft
+	_txtField_8.AcceptsReturn
+	_txtField_8.AllowDrop
+	_txtField_8.BorderStyle
+	_txtField_8.Cursor
+	_txtField_8.MaxLength
+	_txtField_8.Name
+	_txtField_8.RightToLeft
+	_txtField_8.TextChanged
+	_txtField_10.AcceptsReturn
+	_txtField_10.AllowDrop
+	_txtField_10.BorderStyle
+	_txtField_10.Cursor
+	_txtField_10.MaxLength
+	_txtField_10.Name
+	_txtField_10.RightToLeft
+	_txtField_10.TextChanged
+	_txtField_14.AcceptsReturn
+	_txtField_14.AllowDrop
+	_txtField_14.BorderStyle
+	_txtField_14.Cursor
+	_txtField_14.MaxLength
+	_txtField_14.Multiline
+	_txtField_14.Name
+	_txtField_14.RightToLeft
+	_txtField_14.TextChanged
+	_txtField_9.AcceptsReturn
+	_txtField_9.AllowDrop
+	_txtField_9.BorderStyle
+	_txtField_9.Cursor
+	_txtField_9.MaxLength
+	_txtField_9.Name
+	_txtField_9.RightToLeft
+	_txtField_9.TextChanged
+	Label4.AllowDrop
+	Label4.BorderStyle
+	Label4.Name
+	Label4.RightToLeft
+	Label15.AllowDrop
+	Label15.BorderStyle
+	Label15.Name
+	Label15.RightToLeft
+	Label14.AllowDrop
+	Label14.BorderStyle
+	Label14.Name
+	Label14.RightToLeft
+	Label13.AllowDrop
+	Label13.BorderStyle
+	Label13.Name
+	Label13.RightToLeft
+	Label12.AllowDrop
+	Label12.BorderStyle
+	Label12.Name
+	Label12.RightToLeft
+	Label11.AllowDrop
+	Label11.BorderStyle
+	Label11.Name
+	Label11.RightToLeft
+	Label10.AllowDrop
+	Label10.BorderStyle
+	Label10.Name
+	Label10.RightToLeft
+	Label9.AllowDrop
+	Label9.BorderStyle
+	Label9.Name
+	Label9.RightToLeft
+	Label8.AllowDrop
+	Label8.BorderStyle
+	Label8.Name
+	Label8.RightToLeft
+	Label6.AllowDrop
+	Label6.BorderStyle
+	Label6.Name
+	Label6.RightToLeft
+	Label1.AllowDrop
+	Label1.BorderStyle
+	Label1.Name
+	Label1.RightToLeft
+	ImageList1.ImageSize
+	ImageList1.ImageStream
+	ImageList1.TransparentColor
+	Toolbar1.AllowDrop
+	Toolbar1.Dock
+	Toolbar1.ImageList
+	Toolbar1.Name
+	Toolbar1.ShowItemToolTips
+	Toolbar1_Buttons_Button1.DisplayStyle
+	Toolbar1_Buttons_Button1.ImageIndex
+	Toolbar1_Buttons_Button1.ImageScaling
+	Toolbar1_Buttons_Button1.TextImageRelation
+	Toolbar1_Buttons_Button1.ToolTipText
+	Toolbar1_Buttons_Button1.Click
+	Toolbar1_Buttons_Button2.DisplayStyle
+	Toolbar1_Buttons_Button2.ImageIndex
+	Toolbar1_Buttons_Button2.ImageScaling
+	Toolbar1_Buttons_Button2.TextImageRelation
+	Toolbar1_Buttons_Button2.ToolTipText
+	Toolbar1_Buttons_Button2.Click
+	Toolbar1_Buttons_Button3.DisplayStyle
+	Toolbar1_Buttons_Button3.ImageIndex
+	Toolbar1_Buttons_Button3.ImageScaling
+	Toolbar1_Buttons_Button3.TextImageRelation
+	Toolbar1_Buttons_Button3.ToolTipText
+	Toolbar1_Buttons_Button3.Click
+	Toolbar1_Buttons_Button4.DisplayStyle
+	Toolbar1_Buttons_Button4.ImageIndex
+	Toolbar1_Buttons_Button4.ImageScaling
+	Toolbar1_Buttons_Button4.TextImageRelation
+	Toolbar1_Buttons_Button4.ToolTipText
+	Toolbar1_Buttons_Button4.Click
+	Toolbar1_Buttons_Button5.DisplayStyle
+	Toolbar1_Buttons_Button5.ImageIndex
+	Toolbar1_Buttons_Button5.ImageScaling
+	Toolbar1_Buttons_Button5.TextImageRelation
+	Toolbar1_Buttons_Button5.ToolTipText
+	Toolbar1_Buttons_Button5.Click
+	Toolbar1_Buttons_Button6.DisplayStyle
+	Toolbar1_Buttons_Button6.ImageIndex
+	Toolbar1_Buttons_Button6.ImageScaling
+	Toolbar1_Buttons_Button6.TextImageRelation
+	Toolbar1_Buttons_Button6.ToolTipText
+	Toolbar1_Buttons_Button6.Click
+	this.AllowDrop
+	this.AutoScaleDimensions
+	this.AutoScaleMode
+	this.FormBorderStyle
+	this.MaximizeBox
+	this.MinimizeBox
+	this.Name
+	this.RightToLeft
+	this.Closed
+[5/6/2020, 12:01:42.3434406]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.3454361]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.3534082]  Information: UIEXT0002: Adding view SKS.frmAdjustStockManual
+[5/6/2020, 12:01:42.3643747]  Information: UI0005: The following properties of the class frmAdjustStockManual were not collected for the front-end generation purposes: this.components
+	this.ToolTipMain
+	this.sbStatusBar
+	this.sbStatusBar_Panels_Panel1
+	this.txtStockID
+	this.txtOriginalPrice
+	this._txtValues_0
+	this.txtQuantityPerUnit
+	this.txtProductName
+	this.txtUnit
+	this._txtValues_1
+	this.txtOriginalQuantity
+	this.Frame3
+	this.lvStocks
+	this.lvStocks_ColumnHeader_1_
+	this.lvStocks_ColumnHeader_2_
+	this.lvStocks_ColumnHeader_3_
+	this.lvStocks_ColumnHeader_4_
+	this.lvStocks_ColumnHeader_5_
+	this.lvStocks_ColumnHeader_6_
+	this.lvStocks_ColumnHeader_7_
+	this.lvStocks_ColumnHeader_8_
+	this.Frame1
+	this.txtCode
+	this.txtName
+	this.cmdProducts
+	this.Label5
+	this.Label4
+	this.cmdClose
+	this.cmdSave
+	this.lvProducts
+	this.lvProducts_ColumnHeader_1_
+	this.lvProducts_ColumnHeader_2_
+	this.lvProducts_ColumnHeader_3_
+	this.lvProducts_ColumnHeader_4_
+	this.lvProducts_ColumnHeader_5_
+	this.lvProducts_ColumnHeader_6_
+	this.lvProducts_ColumnHeader_7_
+	this.Label14
+	this.lblNewQuantity
+	this.Label12
+	this.lblCurrentQuantity
+	this.Label11
+	this.Label10
+	this.Label8
+	this.Label9
+	this.Label7
+	this.Label6
+	this.Label2
+	this.Label1
+	this.Label3
+	this.listViewHelper1
+	sbStatusBar.AllowDrop
+	sbStatusBar.Dock
+	sbStatusBar.Name
+	sbStatusBar.ShowItemToolTips
+	sbStatusBar_Panels_Panel1.BorderSides
+	sbStatusBar_Panels_Panel1.BorderStyle
+	sbStatusBar_Panels_Panel1.DoubleClickEnabled
+	sbStatusBar_Panels_Panel1.Margin
+	sbStatusBar_Panels_Panel1.Spring
+	sbStatusBar_Panels_Panel1.TextAlign
+	sbStatusBar_Panels_Panel1.TextImageRelation
+	txtStockID.AcceptsReturn
+	txtStockID.AllowDrop
+	txtStockID.BorderStyle
+	txtStockID.Cursor
+	txtStockID.MaxLength
+	txtStockID.Name
+	txtStockID.RightToLeft
+	txtStockID.TabStop
+	txtOriginalPrice.AcceptsReturn
+	txtOriginalPrice.AllowDrop
+	txtOriginalPrice.BorderStyle
+	txtOriginalPrice.Cursor
+	txtOriginalPrice.MaxLength
+	txtOriginalPrice.Name
+	txtOriginalPrice.ReadOnly
+	txtOriginalPrice.RightToLeft
+	txtOriginalPrice.TabStop
+	txtOriginalPrice.TextAlign
+	_txtValues_0.AcceptsReturn
+	_txtValues_0.AllowDrop
+	_txtValues_0.BorderStyle
+	_txtValues_0.Cursor
+	_txtValues_0.MaxLength
+	_txtValues_0.Name
+	_txtValues_0.ReadOnly
+	_txtValues_0.RightToLeft
+	_txtValues_0.TextAlign
+	_txtValues_0.Enter
+	_txtValues_0.KeyPress
+	_txtValues_0.TextChanged
+	txtQuantityPerUnit.AcceptsReturn
+	txtQuantityPerUnit.AllowDrop
+	txtQuantityPerUnit.BorderStyle
+	txtQuantityPerUnit.Cursor
+	txtQuantityPerUnit.MaxLength
+	txtQuantityPerUnit.Name
+	txtQuantityPerUnit.ReadOnly
+	txtQuantityPerUnit.RightToLeft
+	txtQuantityPerUnit.TabStop
+	txtQuantityPerUnit.TextAlign
+	txtProductName.AcceptsReturn
+	txtProductName.AllowDrop
+	txtProductName.BorderStyle
+	txtProductName.Cursor
+	txtProductName.MaxLength
+	txtProductName.Name
+	txtProductName.ReadOnly
+	txtProductName.RightToLeft
+	txtProductName.TabStop
+	txtUnit.AcceptsReturn
+	txtUnit.AllowDrop
+	txtUnit.BorderStyle
+	txtUnit.Cursor
+	txtUnit.MaxLength
+	txtUnit.Name
+	txtUnit.ReadOnly
+	txtUnit.RightToLeft
+	txtUnit.TabStop
+	_txtValues_1.AcceptsReturn
+	_txtValues_1.AllowDrop
+	_txtValues_1.BorderStyle
+	_txtValues_1.Cursor
+	_txtValues_1.MaxLength
+	_txtValues_1.Name
+	_txtValues_1.ReadOnly
+	_txtValues_1.RightToLeft
+	_txtValues_1.TextAlign
+	_txtValues_1.Enter
+	_txtValues_1.KeyPress
+	_txtValues_1.TextChanged
+	txtOriginalQuantity.AcceptsReturn
+	txtOriginalQuantity.AllowDrop
+	txtOriginalQuantity.BorderStyle
+	txtOriginalQuantity.Cursor
+	txtOriginalQuantity.MaxLength
+	txtOriginalQuantity.Name
+	txtOriginalQuantity.ReadOnly
+	txtOriginalQuantity.RightToLeft
+	txtOriginalQuantity.TabStop
+	txtOriginalQuantity.TextAlign
+	Frame3.AllowDrop
+	Frame3.Enabled
+	Frame3.Name
+	Frame3.RightToLeft
+	Frame3.Visible
+	lvStocks.AllowDrop
+	lvStocks.BorderStyle
+	lvStocks.FullRowSelect
+	lvStocks.GridLines
+	lvStocks.HideSelection
+	lvStocks.HotTracking
+	lvStocks.LabelEdit
+	lvStocks.MultiSelect
+	lvStocks.Name
+	lvStocks.View
+	lvStocks_ColumnHeader_1_.Width
+	lvStocks_ColumnHeader_2_.TextAlign
+	lvStocks_ColumnHeader_2_.Width
+	lvStocks_ColumnHeader_3_.TextAlign
+	lvStocks_ColumnHeader_3_.Width
+	lvStocks_ColumnHeader_4_.TextAlign
+	lvStocks_ColumnHeader_4_.Width
+	lvStocks_ColumnHeader_5_.TextAlign
+	lvStocks_ColumnHeader_5_.Width
+	lvStocks_ColumnHeader_6_.TextAlign
+	lvStocks_ColumnHeader_6_.Width
+	lvStocks_ColumnHeader_7_.TextAlign
+	lvStocks_ColumnHeader_7_.Width
+	lvStocks_ColumnHeader_8_.Width
+	Frame1.AllowDrop
+	Frame1.Enabled
+	Frame1.Name
+	Frame1.RightToLeft
+	Frame1.Visible
+	txtCode.AcceptsReturn
+	txtCode.AllowDrop
+	txtCode.BorderStyle
+	txtCode.Cursor
+	txtCode.MaxLength
+	txtCode.Name
+	txtCode.RightToLeft
+	txtCode.TextChanged
+	txtName.AcceptsReturn
+	txtName.AllowDrop
+	txtName.BorderStyle
+	txtName.Cursor
+	txtName.MaxLength
+	txtName.Name
+	txtName.RightToLeft
+	txtName.TextChanged
+	cmdProducts.AllowDrop
+	cmdProducts.Name
+	cmdProducts.RightToLeft
+	cmdProducts.TabStop
+	cmdProducts.TextImageRelation
+	cmdProducts.UseVisualStyleBackColor
+	cmdProducts.Click
+	Label5.AllowDrop
+	Label5.BorderStyle
+	Label5.Name
+	Label5.RightToLeft
+	Label4.AllowDrop
+	Label4.BorderStyle
+	Label4.Name
+	Label4.RightToLeft
+	cmdClose.AllowDrop
+	cmdClose.Name
+	cmdClose.RightToLeft
+	cmdClose.TextImageRelation
+	cmdClose.UseVisualStyleBackColor
+	cmdClose.Click
+	cmdSave.AllowDrop
+	cmdSave.Name
+	cmdSave.RightToLeft
+	cmdSave.TextImageRelation
+	cmdSave.UseVisualStyleBackColor
+	cmdSave.Click
+	lvProducts.AllowDrop
+	lvProducts.BorderStyle
+	lvProducts.FullRowSelect
+	lvProducts.GridLines
+	lvProducts.HideSelection
+	lvProducts.HotTracking
+	lvProducts.LabelEdit
+	lvProducts.MultiSelect
+	lvProducts.Name
+	lvProducts.View
+	lvProducts_ColumnHeader_1_.Width
+	lvProducts_ColumnHeader_2_.Width
+	lvProducts_ColumnHeader_3_.TextAlign
+	lvProducts_ColumnHeader_3_.Width
+	lvProducts_ColumnHeader_4_.TextAlign
+	lvProducts_ColumnHeader_4_.Width
+	lvProducts_ColumnHeader_5_.TextAlign
+	lvProducts_ColumnHeader_5_.Width
+	lvProducts_ColumnHeader_6_.TextAlign
+	lvProducts_ColumnHeader_6_.Width
+	lvProducts_ColumnHeader_7_.Width
+	Label14.AllowDrop
+	Label14.BorderStyle
+	Label14.Name
+	Label14.RightToLeft
+	lblNewQuantity.AllowDrop
+	lblNewQuantity.BorderStyle
+	lblNewQuantity.Name
+	lblNewQuantity.RightToLeft
+	Label12.AllowDrop
+	Label12.BorderStyle
+	Label12.Name
+	Label12.RightToLeft
+	lblCurrentQuantity.AllowDrop
+	lblCurrentQuantity.BorderStyle
+	lblCurrentQuantity.Name
+	lblCurrentQuantity.RightToLeft
+	Label11.AllowDrop
+	Label11.BorderStyle
+	Label11.Name
+	Label11.RightToLeft
+	Label10.AllowDrop
+	Label10.BorderStyle
+	Label10.Name
+	Label10.RightToLeft
+	Label8.AllowDrop
+	Label8.BorderStyle
+	Label8.Name
+	Label8.RightToLeft
+	Label9.AllowDrop
+	Label9.BorderStyle
+	Label9.Name
+	Label9.RightToLeft
+	Label7.AllowDrop
+	Label7.BorderStyle
+	Label7.Name
+	Label7.RightToLeft
+	Label6.AllowDrop
+	Label6.BorderStyle
+	Label6.Name
+	Label6.RightToLeft
+	Label2.AllowDrop
+	Label2.BorderStyle
+	Label2.Name
+	Label2.RightToLeft
+	Label1.AllowDrop
+	Label1.BorderStyle
+	Label1.Name
+	Label1.RightToLeft
+	Label3.AllowDrop
+	Label3.BorderStyle
+	Label3.Name
+	Label3.RightToLeft
+	this.AllowDrop
+	this.AutoScaleDimensions
+	this.AutoScaleMode
+	this.AutoScroll
+	this.FormBorderStyle
+	this.MaximizeBox
+	this.MinimizeBox
+	this.Name
+	this.RightToLeft
+	this.StartPosition
+	this.Closed
+	this.FormClosing
+[5/6/2020, 12:01:42.3653720]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.3703523]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.3882932]  Information: UIEXT0002: Adding view SKS.frmProducts
+[5/6/2020, 12:01:42.3972678]  Information: UI0005: The following properties of the class frmProducts were not collected for the front-end generation purposes: this.components
+	this.ToolTipMain
+	this.Frame1
+	this._txtField_6
+	this._txtField_0
+	this._txtField_5
+	this.cmbCategory
+	this._txtField_4
+	this._txtField_3
+	this._txtField_2
+	this._txtField_1
+	this.Check1
+	this.txtCategory
+	this.Label7
+	this.Label3
+	this.Label2
+	this.Label1
+	this.Label4
+	this.Label5
+	this.Label6
+	this.Label11
+	this.Label15
+	this.dcProducts
+	this.ImageList1
+	this.Toolbar1
+	this.Toolbar1_Buttons_Button1
+	this.Toolbar1_Buttons_Button2
+	this.Toolbar1_Buttons_Button3
+	this.Toolbar1_Buttons_Button4
+	this.Toolbar1_Buttons_Button5
+	this.Toolbar1_Buttons_Button6
+	Frame1.AllowDrop
+	Frame1.Enabled
+	Frame1.Name
+	Frame1.RightToLeft
+	Frame1.Visible
+	_txtField_6.AcceptsReturn
+	_txtField_6.AllowDrop
+	_txtField_6.BorderStyle
+	_txtField_6.Cursor
+	_txtField_6.MaxLength
+	_txtField_6.Name
+	_txtField_6.RightToLeft
+	_txtField_0.AcceptsReturn
+	_txtField_0.AllowDrop
+	_txtField_0.BorderStyle
+	_txtField_0.Cursor
+	_txtField_0.MaxLength
+	_txtField_0.Name
+	_txtField_0.RightToLeft
+	_txtField_5.AcceptsReturn
+	_txtField_5.AllowDrop
+	_txtField_5.BorderStyle
+	_txtField_5.Cursor
+	_txtField_5.MaxLength
+	_txtField_5.Name
+	_txtField_5.RightToLeft
+	cmbCategory.AllowDrop
+	cmbCategory.CausesValidation
+	cmbCategory.DropDownStyle
+	cmbCategory.Enabled
+	cmbCategory.IntegralHeight
+	cmbCategory.Name
+	cmbCategory.RightToLeft
+	cmbCategory.Sorted
+	cmbCategory.TabStop
+	cmbCategory.Visible
+	cmbCategory.SelectedIndexChanged
+	_txtField_4.AcceptsReturn
+	_txtField_4.AllowDrop
+	_txtField_4.BorderStyle
+	_txtField_4.Cursor
+	_txtField_4.MaxLength
+	_txtField_4.Name
+	_txtField_4.RightToLeft
+	_txtField_3.AcceptsReturn
+	_txtField_3.AllowDrop
+	_txtField_3.BorderStyle
+	_txtField_3.Cursor
+	_txtField_3.MaxLength
+	_txtField_3.Name
+	_txtField_3.RightToLeft
+	_txtField_2.AcceptsReturn
+	_txtField_2.AllowDrop
+	_txtField_2.BorderStyle
+	_txtField_2.Cursor
+	_txtField_2.MaxLength
+	_txtField_2.Name
+	_txtField_2.RightToLeft
+	_txtField_1.AcceptsReturn
+	_txtField_1.AllowDrop
+	_txtField_1.BorderStyle
+	_txtField_1.Cursor
+	_txtField_1.MaxLength
+	_txtField_1.Name
+	_txtField_1.RightToLeft
+	Check1.AllowDrop
+	Check1.Appearance
+	Check1.CausesValidation
+	Check1.CheckAlign
+	Check1.CheckState
+	Check1.Enabled
+	Check1.Name
+	Check1.RightToLeft
+	Check1.TabStop
+	Check1.TextAlign
+	Check1.Visible
+	txtCategory.AcceptsReturn
+	txtCategory.AllowDrop
+	txtCategory.BorderStyle
+	txtCategory.Cursor
+	txtCategory.MaxLength
+	txtCategory.Name
+	txtCategory.RightToLeft
+	txtCategory.TabStop
+	txtCategory.TextChanged
+	Label7.AllowDrop
+	Label7.BorderStyle
+	Label7.Name
+	Label7.RightToLeft
+	Label3.AllowDrop
+	Label3.BorderStyle
+	Label3.Name
+	Label3.RightToLeft
+	Label2.AllowDrop
+	Label2.BorderStyle
+	Label2.Name
+	Label2.RightToLeft
+	Label1.AllowDrop
+	Label1.BorderStyle
+	Label1.Name
+	Label1.RightToLeft
+	Label4.AllowDrop
+	Label4.BorderStyle
+	Label4.Name
+	Label4.RightToLeft
+	Label5.AllowDrop
+	Label5.BorderStyle
+	Label5.Name
+	Label5.RightToLeft
+	Label6.AllowDrop
+	Label6.BorderStyle
+	Label6.Name
+	Label6.RightToLeft
+	Label11.AllowDrop
+	Label11.BorderStyle
+	Label11.Name
+	Label11.RightToLeft
+	Label15.AllowDrop
+	Label15.BorderStyle
+	Label15.Name
+	Label15.RightToLeft
+	dcProducts.AllowDrop
+	dcProducts.BOFAction
+	dcProducts.ConnectionString
+	dcProducts.CursorLocation
+	dcProducts.Enabled
+	dcProducts.EOFAction
+	dcProducts.FactoryName
+	dcProducts.Font
+	dcProducts.LockType
+	dcProducts.Name
+	dcProducts.Password
+	dcProducts.QueryTimeout
+	dcProducts.QueryType
+	dcProducts.RecordSource
+	dcProducts.UserName
+	dcProducts.Width
+	ImageList1.ImageSize
+	ImageList1.ImageStream
+	ImageList1.TransparentColor
+	Toolbar1.AllowDrop
+	Toolbar1.Dock
+	Toolbar1.ImageList
+	Toolbar1.Name
+	Toolbar1.ShowItemToolTips
+	Toolbar1_Buttons_Button1.DisplayStyle
+	Toolbar1_Buttons_Button1.ImageIndex
+	Toolbar1_Buttons_Button1.ImageScaling
+	Toolbar1_Buttons_Button1.TextImageRelation
+	Toolbar1_Buttons_Button1.ToolTipText
+	Toolbar1_Buttons_Button1.Click
+	Toolbar1_Buttons_Button2.DisplayStyle
+	Toolbar1_Buttons_Button2.ImageIndex
+	Toolbar1_Buttons_Button2.ImageScaling
+	Toolbar1_Buttons_Button2.TextImageRelation
+	Toolbar1_Buttons_Button2.ToolTipText
+	Toolbar1_Buttons_Button2.Click
+	Toolbar1_Buttons_Button3.DisplayStyle
+	Toolbar1_Buttons_Button3.ImageIndex
+	Toolbar1_Buttons_Button3.ImageScaling
+	Toolbar1_Buttons_Button3.TextImageRelation
+	Toolbar1_Buttons_Button3.ToolTipText
+	Toolbar1_Buttons_Button3.Click
+	Toolbar1_Buttons_Button4.DisplayStyle
+	Toolbar1_Buttons_Button4.ImageIndex
+	Toolbar1_Buttons_Button4.ImageScaling
+	Toolbar1_Buttons_Button4.TextImageRelation
+	Toolbar1_Buttons_Button4.ToolTipText
+	Toolbar1_Buttons_Button4.Click
+	Toolbar1_Buttons_Button5.DisplayStyle
+	Toolbar1_Buttons_Button5.ImageIndex
+	Toolbar1_Buttons_Button5.ImageScaling
+	Toolbar1_Buttons_Button5.TextImageRelation
+	Toolbar1_Buttons_Button5.ToolTipText
+	Toolbar1_Buttons_Button5.Click
+	Toolbar1_Buttons_Button6.DisplayStyle
+	Toolbar1_Buttons_Button6.ImageIndex
+	Toolbar1_Buttons_Button6.ImageScaling
+	Toolbar1_Buttons_Button6.TextImageRelation
+	Toolbar1_Buttons_Button6.ToolTipText
+	Toolbar1_Buttons_Button6.Click
+	this.AllowDrop
+	this.AutoScaleDimensions
+	this.AutoScaleMode
+	this.FormBorderStyle
+	this.MaximizeBox
+	this.MinimizeBox
+	this.Name
+	this.RightToLeft
+	this.ShowInTaskbar
+	this.Closed
+[5/6/2020, 12:01:42.3972678]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.3992490]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.4072309]  Information: UIEXT0002: Adding view SKS.frmCustomers
+[5/6/2020, 12:01:42.4181940]  Information: UI0005: The following properties of the class frmCustomers were not collected for the front-end generation purposes: this.components
+	this.ToolTipMain
+	this.dcCustomers
+	this.Frame1
+	this._txtField_4
+	this._txtField_0
+	this._txtField_6
+	this._txtField_7
+	this._txtField_2
+	this._txtField_1
+	this._txtField_3
+	this._txtField_5
+	this.Frame2
+	this._txtField_11
+	this._txtField_13
+	this._txtField_12
+	this.Label7
+	this.Label3
+	this.Label2
+	this._txtField_8
+	this._txtField_10
+	this._txtField_14
+	this._txtField_9
+	this.Label15
+	this.Label14
+	this.Label13
+	this.Label12
+	this.Label11
+	this.Label10
+	this.Label9
+	this.Label8
+	this.Label6
+	this.Label5
+	this.Label4
+	this.Label1
+	this.ImageList1
+	this.Toolbar1
+	this.Toolbar1_Buttons_Button1
+	this.Toolbar1_Buttons_Button2
+	this.Toolbar1_Buttons_Button3
+	this.Toolbar1_Buttons_Button4
+	this.Toolbar1_Buttons_Button5
+	this.Toolbar1_Buttons_Button6
+	dcCustomers.AllowDrop
+	dcCustomers.BOFAction
+	dcCustomers.ConnectionString
+	dcCustomers.CursorLocation
+	dcCustomers.Enabled
+	dcCustomers.EOFAction
+	dcCustomers.FactoryName
+	dcCustomers.Font
+	dcCustomers.LockType
+	dcCustomers.Name
+	dcCustomers.Password
+	dcCustomers.QueryTimeout
+	dcCustomers.QueryType
+	dcCustomers.RecordSource
+	dcCustomers.UserName
+	dcCustomers.Width
+	Frame1.AllowDrop
+	Frame1.Enabled
+	Frame1.Name
+	Frame1.RightToLeft
+	Frame1.Visible
+	_txtField_4.AcceptsReturn
+	_txtField_4.AllowDrop
+	_txtField_4.BorderStyle
+	_txtField_4.Cursor
+	_txtField_4.MaxLength
+	_txtField_4.Name
+	_txtField_4.RightToLeft
+	_txtField_4.TextChanged
+	_txtField_0.AcceptsReturn
+	_txtField_0.AllowDrop
+	_txtField_0.BorderStyle
+	_txtField_0.Cursor
+	_txtField_0.MaxLength
+	_txtField_0.Name
+	_txtField_0.RightToLeft
+	_txtField_0.TextChanged
+	_txtField_6.AcceptsReturn
+	_txtField_6.AllowDrop
+	_txtField_6.BorderStyle
+	_txtField_6.Cursor
+	_txtField_6.MaxLength
+	_txtField_6.Name
+	_txtField_6.RightToLeft
+	_txtField_6.TextChanged
+	_txtField_7.AcceptsReturn
+	_txtField_7.AllowDrop
+	_txtField_7.BorderStyle
+	_txtField_7.Cursor
+	_txtField_7.MaxLength
+	_txtField_7.Name
+	_txtField_7.RightToLeft
+	_txtField_7.TextChanged
+	_txtField_2.AcceptsReturn
+	_txtField_2.AllowDrop
+	_txtField_2.BorderStyle
+	_txtField_2.Cursor
+	_txtField_2.MaxLength
+	_txtField_2.Name
+	_txtField_2.RightToLeft
+	_txtField_2.TextChanged
+	_txtField_1.AcceptsReturn
+	_txtField_1.AllowDrop
+	_txtField_1.BorderStyle
+	_txtField_1.Cursor
+	_txtField_1.MaxLength
+	_txtField_1.Name
+	_txtField_1.RightToLeft
+	_txtField_1.TextChanged
+	_txtField_3.AcceptsReturn
+	_txtField_3.AllowDrop
+	_txtField_3.BorderStyle
+	_txtField_3.Cursor
+	_txtField_3.MaxLength
+	_txtField_3.Name
+	_txtField_3.RightToLeft
+	_txtField_3.TextChanged
+	_txtField_5.AcceptsReturn
+	_txtField_5.AllowDrop
+	_txtField_5.BorderStyle
+	_txtField_5.Cursor
+	_txtField_5.MaxLength
+	_txtField_5.Name
+	_txtField_5.RightToLeft
+	_txtField_5.TextChanged
+	Frame2.AllowDrop
+	Frame2.Enabled
+	Frame2.Name
+	Frame2.RightToLeft
+	Frame2.Visible
+	_txtField_11.AcceptsReturn
+	_txtField_11.AllowDrop
+	_txtField_11.BorderStyle
+	_txtField_11.Cursor
+	_txtField_11.MaxLength
+	_txtField_11.Name
+	_txtField_11.RightToLeft
+	_txtField_11.TextChanged
+	_txtField_13.AcceptsReturn
+	_txtField_13.AllowDrop
+	_txtField_13.BorderStyle
+	_txtField_13.Cursor
+	_txtField_13.MaxLength
+	_txtField_13.Name
+	_txtField_13.RightToLeft
+	_txtField_13.TextChanged
+	_txtField_12.AcceptsReturn
+	_txtField_12.AllowDrop
+	_txtField_12.BorderStyle
+	_txtField_12.Cursor
+	_txtField_12.MaxLength
+	_txtField_12.Name
+	_txtField_12.RightToLeft
+	_txtField_12.TextChanged
+	Label7.AllowDrop
+	Label7.BorderStyle
+	Label7.Name
+	Label7.RightToLeft
+	Label3.AllowDrop
+	Label3.BorderStyle
+	Label3.Name
+	Label3.RightToLeft
+	Label2.AllowDrop
+	Label2.BorderStyle
+	Label2.Name
+	Label2.RightToLeft
+	_txtField_8.AcceptsReturn
+	_txtField_8.AllowDrop
+	_txtField_8.BorderStyle
+	_txtField_8.Cursor
+	_txtField_8.MaxLength
+	_txtField_8.Name
+	_txtField_8.RightToLeft
+	_txtField_8.TextChanged
+	_txtField_10.AcceptsReturn
+	_txtField_10.AllowDrop
+	_txtField_10.BorderStyle
+	_txtField_10.Cursor
+	_txtField_10.MaxLength
+	_txtField_10.Name
+	_txtField_10.RightToLeft
+	_txtField_10.TextChanged
+	_txtField_14.AcceptsReturn
+	_txtField_14.AllowDrop
+	_txtField_14.BorderStyle
+	_txtField_14.Cursor
+	_txtField_14.MaxLength
+	_txtField_14.Multiline
+	_txtField_14.Name
+	_txtField_14.RightToLeft
+	_txtField_14.TextChanged
+	_txtField_9.AcceptsReturn
+	_txtField_9.AllowDrop
+	_txtField_9.BorderStyle
+	_txtField_9.Cursor
+	_txtField_9.MaxLength
+	_txtField_9.Name
+	_txtField_9.RightToLeft
+	_txtField_9.TextChanged
+	Label15.AllowDrop
+	Label15.BorderStyle
+	Label15.Name
+	Label15.RightToLeft
+	Label14.AllowDrop
+	Label14.BorderStyle
+	Label14.Name
+	Label14.RightToLeft
+	Label13.AllowDrop
+	Label13.BorderStyle
+	Label13.Name
+	Label13.RightToLeft
+	Label12.AllowDrop
+	Label12.BorderStyle
+	Label12.Name
+	Label12.RightToLeft
+	Label11.AllowDrop
+	Label11.BorderStyle
+	Label11.Name
+	Label11.RightToLeft
+	Label10.AllowDrop
+	Label10.BorderStyle
+	Label10.Name
+	Label10.RightToLeft
+	Label9.AllowDrop
+	Label9.BorderStyle
+	Label9.Name
+	Label9.RightToLeft
+	Label8.AllowDrop
+	Label8.BorderStyle
+	Label8.Name
+	Label8.RightToLeft
+	Label6.AllowDrop
+	Label6.BorderStyle
+	Label6.Name
+	Label6.RightToLeft
+	Label5.AllowDrop
+	Label5.BorderStyle
+	Label5.Name
+	Label5.RightToLeft
+	Label4.AllowDrop
+	Label4.BorderStyle
+	Label4.Name
+	Label4.RightToLeft
+	Label1.AllowDrop
+	Label1.BorderStyle
+	Label1.Name
+	Label1.RightToLeft
+	ImageList1.ImageSize
+	ImageList1.ImageStream
+	ImageList1.TransparentColor
+	Toolbar1.AllowDrop
+	Toolbar1.Dock
+	Toolbar1.ImageList
+	Toolbar1.Name
+	Toolbar1.ShowItemToolTips
+	Toolbar1_Buttons_Button1.DisplayStyle
+	Toolbar1_Buttons_Button1.ImageIndex
+	Toolbar1_Buttons_Button1.ImageScaling
+	Toolbar1_Buttons_Button1.TextImageRelation
+	Toolbar1_Buttons_Button1.ToolTipText
+	Toolbar1_Buttons_Button1.Click
+	Toolbar1_Buttons_Button2.DisplayStyle
+	Toolbar1_Buttons_Button2.ImageIndex
+	Toolbar1_Buttons_Button2.ImageScaling
+	Toolbar1_Buttons_Button2.TextImageRelation
+	Toolbar1_Buttons_Button2.ToolTipText
+	Toolbar1_Buttons_Button2.Click
+	Toolbar1_Buttons_Button3.DisplayStyle
+	Toolbar1_Buttons_Button3.ImageIndex
+	Toolbar1_Buttons_Button3.ImageScaling
+	Toolbar1_Buttons_Button3.TextImageRelation
+	Toolbar1_Buttons_Button3.ToolTipText
+	Toolbar1_Buttons_Button3.Click
+	Toolbar1_Buttons_Button4.DisplayStyle
+	Toolbar1_Buttons_Button4.ImageIndex
+	Toolbar1_Buttons_Button4.ImageScaling
+	Toolbar1_Buttons_Button4.TextImageRelation
+	Toolbar1_Buttons_Button4.ToolTipText
+	Toolbar1_Buttons_Button4.Click
+	Toolbar1_Buttons_Button5.DisplayStyle
+	Toolbar1_Buttons_Button5.ImageIndex
+	Toolbar1_Buttons_Button5.ImageScaling
+	Toolbar1_Buttons_Button5.TextImageRelation
+	Toolbar1_Buttons_Button5.ToolTipText
+	Toolbar1_Buttons_Button5.Click
+	Toolbar1_Buttons_Button6.DisplayStyle
+	Toolbar1_Buttons_Button6.ImageIndex
+	Toolbar1_Buttons_Button6.ImageScaling
+	Toolbar1_Buttons_Button6.TextImageRelation
+	Toolbar1_Buttons_Button6.ToolTipText
+	Toolbar1_Buttons_Button6.Click
+	this.AllowDrop
+	this.AutoScaleDimensions
+	this.AutoScaleMode
+	this.FormBorderStyle
+	this.MaximizeBox
+	this.MinimizeBox
+	this.Name
+	this.RightToLeft
+	this.Closed
+[5/6/2020, 12:01:42.4191862]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.4201916]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.4251692]  Information: UIEXT0002: Adding view SKS.frmUsersManage
+[5/6/2020, 12:01:42.4341407]  Information: UI0005: The following properties of the class frmUsersManage were not collected for the front-end generation purposes: this.components
+	this.ToolTipMain
+	this.lstAccounts
+	this.lstAccounts_ColumnHeader_1_
+	this.lstAccounts_ColumnHeader_2_
+	this.lstAccounts_ColumnHeader_3_
+	this.cmdClear
+	this.cmdSave
+	this.ctrlLiner1
+	this.Frame1
+	this.txtFullname
+	this.txtPassword
+	this.txtUsername
+	this.cboLevel
+	this._Label1_2
+	this._Label1_0
+	this._Label1_1
+	this._Label1_3
+	this.lblId
+	this.cmdClose
+	this.cmdEdit
+	this.cmdDelete
+	this._Label1_4
+	this.Label19
+	this.Label4
+	this.Image1
+	this.listViewHelper1
+	lstAccounts.AllowDrop
+	lstAccounts.BorderStyle
+	lstAccounts.FullRowSelect
+	lstAccounts.HideSelection
+	lstAccounts.LabelEdit
+	lstAccounts.MultiSelect
+	lstAccounts.Name
+	lstAccounts.View
+	lstAccounts.DoubleClick
+	lstAccounts_ColumnHeader_1_.Width
+	lstAccounts_ColumnHeader_2_.Width
+	lstAccounts_ColumnHeader_3_.Width
+	cmdClear.AllowDrop
+	cmdClear.Name
+	cmdClear.RightToLeft
+	cmdClear.TextImageRelation
+	cmdClear.UseVisualStyleBackColor
+	cmdClear.Click
+	cmdSave.AllowDrop
+	cmdSave.Name
+	cmdSave.RightToLeft
+	cmdSave.TextImageRelation
+	cmdSave.UseVisualStyleBackColor
+	cmdSave.Click
+	ctrlLiner1.AllowDrop
+	ctrlLiner1.BorderStyle
+	ctrlLiner1.CausesValidation
+	ctrlLiner1.Dock
+	ctrlLiner1.Enabled
+	ctrlLiner1.Name
+	ctrlLiner1.SizeMode
+	ctrlLiner1.TabStop
+	ctrlLiner1.Visible
+	Frame1.AllowDrop
+	Frame1.Enabled
+	Frame1.Font
+	Frame1.Name
+	Frame1.RightToLeft
+	Frame1.Visible
+	txtFullname.AcceptsReturn
+	txtFullname.AllowDrop
+	txtFullname.BorderStyle
+	txtFullname.Cursor
+	txtFullname.ImeMode
+	txtFullname.MaxLength
+	txtFullname.Name
+	txtFullname.RightToLeft
+	txtFullname.Enter
+	txtPassword.AcceptsReturn
+	txtPassword.AllowDrop
+	txtPassword.BorderStyle
+	txtPassword.Cursor
+	txtPassword.Font
+	txtPassword.ImeMode
+	txtPassword.MaxLength
+	txtPassword.Name
+	txtPassword.PasswordChar
+	txtPassword.RightToLeft
+	txtPassword.Enter
+	txtUsername.AcceptsReturn
+	txtUsername.AllowDrop
+	txtUsername.BorderStyle
+	txtUsername.Cursor
+	txtUsername.MaxLength
+	txtUsername.Name
+	txtUsername.RightToLeft
+	txtUsername.Enter
+	cboLevel.AllowDrop
+	cboLevel.CausesValidation
+	cboLevel.DropDownStyle
+	cboLevel.Enabled
+	cboLevel.IntegralHeight
+	cboLevel.Name
+	cboLevel.RightToLeft
+	cboLevel.Sorted
+	cboLevel.TabStop
+	cboLevel.Visible
+	_Label1_2.AllowDrop
+	_Label1_2.BorderStyle
+	_Label1_2.Font
+	_Label1_2.Name
+	_Label1_2.RightToLeft
+	_Label1_0.AllowDrop
+	_Label1_0.BorderStyle
+	_Label1_0.Font
+	_Label1_0.Name
+	_Label1_0.RightToLeft
+	_Label1_1.AllowDrop
+	_Label1_1.BorderStyle
+	_Label1_1.Font
+	_Label1_1.Name
+	_Label1_1.RightToLeft
+	_Label1_3.AllowDrop
+	_Label1_3.BorderStyle
+	_Label1_3.Font
+	_Label1_3.Name
+	_Label1_3.RightToLeft
+	lblId.AllowDrop
+	lblId.BorderStyle
+	lblId.Font
+	lblId.Name
+	lblId.RightToLeft
+	cmdClose.AllowDrop
+	cmdClose.Name
+	cmdClose.RightToLeft
+	cmdClose.TextImageRelation
+	cmdClose.UseVisualStyleBackColor
+	cmdClose.Click
+	cmdEdit.AllowDrop
+	cmdEdit.Name
+	cmdEdit.RightToLeft
+	cmdEdit.TextImageRelation
+	cmdEdit.UseVisualStyleBackColor
+	cmdEdit.Click
+	cmdDelete.AllowDrop
+	cmdDelete.Name
+	cmdDelete.RightToLeft
+	cmdDelete.TextImageRelation
+	cmdDelete.UseVisualStyleBackColor
+	cmdDelete.Click
+	_Label1_4.AllowDrop
+	_Label1_4.BorderStyle
+	_Label1_4.Font
+	_Label1_4.Name
+	_Label1_4.RightToLeft
+	Label19.AllowDrop
+	Label19.BorderStyle
+	Label19.Font
+	Label19.Name
+	Label19.RightToLeft
+	Label19.TextAlign
+	Label4.AllowDrop
+	Label4.BorderStyle
+	Label4.Name
+	Label4.RightToLeft
+	Image1.AllowDrop
+	Image1.BorderStyle
+	Image1.Cursor
+	Image1.Enabled
+	Image1.Image
+	Image1.Name
+	Image1.SizeMode
+	Image1.Visible
+	this.AllowDrop
+	this.AutoScaleDimensions
+	this.AutoScaleMode
+	this.AutoScroll
+	this.FormBorderStyle
+	this.Icon
+	this.MaximizeBox
+	this.MinimizeBox
+	this.Name
+	this.RightToLeft
+	this.StartPosition
+	this.Closed
+[5/6/2020, 12:01:42.4341407]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.4371227]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.4401206]  Information: UIEXT0002: Adding view SKS.frmSearch
+[5/6/2020, 12:01:42.4431106]  Information: UI0005: The following properties of the class frmSearch were not collected for the front-end generation purposes: this.components
+	this.ToolTipMain
+	this.cmdClose
+	this.cmdSearch
+	this.ctrlLiner1
+	this.cboSrchBy
+	this.txtSrchStr
+	this.Label20
+	this.Label19
+	this.Image3
+	this.Label1
+	this.lblSrchBy
+	cmdClose.AllowDrop
+	cmdClose.Name
+	cmdClose.RightToLeft
+	cmdClose.TextImageRelation
+	cmdClose.UseVisualStyleBackColor
+	cmdClose.Click
+	cmdSearch.AllowDrop
+	cmdSearch.Name
+	cmdSearch.RightToLeft
+	cmdSearch.TextImageRelation
+	cmdSearch.UseVisualStyleBackColor
+	cmdSearch.Click
+	ctrlLiner1.AllowDrop
+	ctrlLiner1.BorderStyle
+	ctrlLiner1.CausesValidation
+	ctrlLiner1.Dock
+	ctrlLiner1.Enabled
+	ctrlLiner1.Name
+	ctrlLiner1.SizeMode
+	ctrlLiner1.TabStop
+	ctrlLiner1.Visible
+	cboSrchBy.AllowDrop
+	cboSrchBy.CausesValidation
+	cboSrchBy.DropDownStyle
+	cboSrchBy.Enabled
+	cboSrchBy.IntegralHeight
+	cboSrchBy.Name
+	cboSrchBy.RightToLeft
+	cboSrchBy.Sorted
+	cboSrchBy.TabStop
+	cboSrchBy.Visible
+	cboSrchBy.SelectedIndexChanged
+	txtSrchStr.AcceptsReturn
+	txtSrchStr.AllowDrop
+	txtSrchStr.BorderStyle
+	txtSrchStr.Cursor
+	txtSrchStr.MaxLength
+	txtSrchStr.Name
+	txtSrchStr.RightToLeft
+	Label20.AllowDrop
+	Label20.BorderStyle
+	Label20.Name
+	Label20.RightToLeft
+	Label19.AllowDrop
+	Label19.BorderStyle
+	Label19.Font
+	Label19.Name
+	Label19.RightToLeft
+	Label19.TextAlign
+	Image3.AllowDrop
+	Image3.BorderStyle
+	Image3.Enabled
+	Image3.Image
+	Image3.Name
+	Image3.SizeMode
+	Image3.Visible
+	Label1.AllowDrop
+	Label1.BorderStyle
+	Label1.Font
+	Label1.Name
+	Label1.RightToLeft
+	Label1.TextAlign
+	lblSrchBy.AllowDrop
+	lblSrchBy.BorderStyle
+	lblSrchBy.Font
+	lblSrchBy.Name
+	lblSrchBy.RightToLeft
+	lblSrchBy.TextAlign
+	this.AllowDrop
+	this.AutoScaleDimensions
+	this.AutoScaleMode
+	this.FormBorderStyle
+	this.Icon
+	this.MaximizeBox
+	this.MinimizeBox
+	this.Name
+	this.RightToLeft
+	this.ShowInTaskbar
+	this.StartPosition
+	this.Closed
+[5/6/2020, 12:01:42.4431106]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.4451062]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.4461026]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.4461026]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.4480944]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.4500863]  Information: UIEXT0002: Adding view SKS.frmLogin
+[5/6/2020, 12:01:42.4520868]  Information: UI0005: The following properties of the class frmLogin were not collected for the front-end generation purposes: this.components
+	this.ToolTipMain
+	this.txtUserName
+	this.cmdCancel
+	this.txtPassword
+	this.cmdOK
+	this._lblLabels_0
+	this._lblLabels_1
+	txtUserName.AcceptsReturn
+	txtUserName.AllowDrop
+	txtUserName.BorderStyle
+	txtUserName.Cursor
+	txtUserName.MaxLength
+	txtUserName.Name
+	txtUserName.RightToLeft
+	cmdCancel.AllowDrop
+	cmdCancel.Name
+	cmdCancel.RightToLeft
+	cmdCancel.TextImageRelation
+	cmdCancel.UseVisualStyleBackColor
+	cmdCancel.Click
+	txtPassword.AcceptsReturn
+	txtPassword.AllowDrop
+	txtPassword.BorderStyle
+	txtPassword.Cursor
+	txtPassword.ImeMode
+	txtPassword.MaxLength
+	txtPassword.Name
+	txtPassword.PasswordChar
+	txtPassword.RightToLeft
+	cmdOK.AllowDrop
+	cmdOK.Name
+	cmdOK.RightToLeft
+	cmdOK.TextImageRelation
+	cmdOK.UseVisualStyleBackColor
+	cmdOK.Click
+	_lblLabels_0.AllowDrop
+	_lblLabels_0.BorderStyle
+	_lblLabels_0.Name
+	_lblLabels_0.RightToLeft
+	_lblLabels_1.AllowDrop
+	_lblLabels_1.BorderStyle
+	_lblLabels_1.Name
+	_lblLabels_1.RightToLeft
+	this.AcceptButton
+	this.AllowDrop
+	this.AutoScaleDimensions
+	this.AutoScaleMode
+	this.CancelButton
+	this.FormBorderStyle
+	this.Icon
+	this.MaximizeBox
+	this.MinimizeBox
+	this.Name
+	this.RightToLeft
+	this.ShowInTaskbar
+	this.StartPosition
+	this.Closed
+[5/6/2020, 12:01:42.4520868]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.4680221]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.4700224]  Information: UIEXT0002: Adding view SKS.frmAbout
+[5/6/2020, 12:01:42.4730046]  Information: UI0005: The following properties of the class frmAbout were not collected for the front-end generation purposes: this.components
+	this.ToolTipMain
+	this.picIcon
+	this.cmdOK
+	this._Line1_1
+	this.lblDescription
+	this.lblTitle
+	this._Line1_0
+	this.lblVersion
+	this.lblDisclaimer
+	picIcon.AllowDrop
+	picIcon.BorderStyle
+	picIcon.CausesValidation
+	picIcon.Dock
+	picIcon.Enabled
+	picIcon.Image
+	picIcon.Name
+	picIcon.SizeMode
+	picIcon.TabStop
+	picIcon.Visible
+	cmdOK.AllowDrop
+	cmdOK.Name
+	cmdOK.RightToLeft
+	cmdOK.TextImageRelation
+	cmdOK.UseVisualStyleBackColor
+	cmdOK.Click
+	_Line1_1.AllowDrop
+	_Line1_1.BorderStyle
+	_Line1_1.Enabled
+	_Line1_1.Name
+	_Line1_1.Visible
+	lblDescription.AllowDrop
+	lblDescription.BorderStyle
+	lblDescription.Name
+	lblDescription.RightToLeft
+	lblTitle.AllowDrop
+	lblTitle.BorderStyle
+	lblTitle.Font
+	lblTitle.Name
+	lblTitle.RightToLeft
+	_Line1_0.AllowDrop
+	_Line1_0.Enabled
+	_Line1_0.Name
+	_Line1_0.Visible
+	lblVersion.AllowDrop
+	lblVersion.BorderStyle
+	lblVersion.Name
+	lblVersion.RightToLeft
+	lblDisclaimer.AllowDrop
+	lblDisclaimer.BorderStyle
+	lblDisclaimer.Name
+	lblDisclaimer.RightToLeft
+	this.AcceptButton
+	this.AllowDrop
+	this.AutoScaleDimensions
+	this.AutoScaleMode
+	this.CancelButton
+	this.FormBorderStyle
+	this.MaximizeBox
+	this.MinimizeBox
+	this.Name
+	this.RightToLeft
+	this.ShowInTaskbar
+	this.Closed
+[5/6/2020, 12:01:42.4730046]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.4799817]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.4829714]  Information: UIEXT0002: Adding view SKS.frmMain
+[5/6/2020, 12:01:42.6384554]  Information: UI0005: The following properties of the class frmMain were not collected for the front-end generation purposes: this.components
+	this.ToolTipMain
+	this.MainMenu1
+	this.mnuFile
+	this.mnuCustomer
+	this.mnuProviders
+	this.mnuExit
+	this.mnuOrders
+	this.mnuCreateOrderRequest
+	this.mnuOrderRequestsApproval
+	this.lExit2
+	this.mnuCreateOrderReception
+	this.mnuOrderReceptionsApproval
+	this.mnuMainInventory
+	this.mnuAddStockManually
+	this.mnuAdjustStockManually
+	this.mnuAccounts
+	this.mnuProducts
+	this.mnuSecurity
+	this.mnuHelp
+	this.mnuAbout
+	this.sbStatusBar
+	this.sbStatusBar_Panels_Panel1
+	this.sbStatusBar_Panels_Panel2
+	this.sbStatusBar_Panels_Panel3
+	mnuFile.Available
+	mnuFile.Checked
+	mnuFile.Enabled
+	mnuFile.MergeAction
+	mnuFile.Name
+	mnuCustomer.Available
+	mnuCustomer.Checked
+	mnuCustomer.Enabled
+	mnuCustomer.Name
+	mnuCustomer.Click
+	mnuProviders.Available
+	mnuProviders.Checked
+	mnuProviders.Enabled
+	mnuProviders.Name
+	mnuProviders.Click
+	mnuExit.Available
+	mnuExit.Checked
+	mnuExit.Enabled
+	mnuExit.Name
+	mnuExit.Click
+	mnuOrders.Available
+	mnuOrders.Checked
+	mnuOrders.Enabled
+	mnuOrders.MergeAction
+	mnuOrders.Name
+	mnuCreateOrderRequest.Available
+	mnuCreateOrderRequest.Checked
+	mnuCreateOrderRequest.Enabled
+	mnuCreateOrderRequest.Name
+	mnuCreateOrderRequest.Click
+	mnuOrderRequestsApproval.Available
+	mnuOrderRequestsApproval.Checked
+	mnuOrderRequestsApproval.Enabled
+	mnuOrderRequestsApproval.Name
+	mnuOrderRequestsApproval.Click
+	lExit2.AllowDrop
+	lExit2.Available
+	lExit2.Enabled
+	lExit2.Name
+	mnuCreateOrderReception.Available
+	mnuCreateOrderReception.Checked
+	mnuCreateOrderReception.Enabled
+	mnuCreateOrderReception.Name
+	mnuCreateOrderReception.Click
+	mnuOrderReceptionsApproval.Available
+	mnuOrderReceptionsApproval.Checked
+	mnuOrderReceptionsApproval.Enabled
+	mnuOrderReceptionsApproval.Name
+	mnuOrderReceptionsApproval.Click
+	mnuMainInventory.Available
+	mnuMainInventory.Checked
+	mnuMainInventory.Enabled
+	mnuMainInventory.MergeAction
+	mnuMainInventory.Name
+	mnuAddStockManually.Available
+	mnuAddStockManually.Checked
+	mnuAddStockManually.Enabled
+	mnuAddStockManually.Name
+	mnuAddStockManually.Click
+	mnuAdjustStockManually.Available
+	mnuAdjustStockManually.Checked
+	mnuAdjustStockManually.Enabled
+	mnuAdjustStockManually.Name
+	mnuAdjustStockManually.Click
+	mnuAccounts.Available
+	mnuAccounts.Checked
+	mnuAccounts.Enabled
+	mnuAccounts.MergeAction
+	mnuAccounts.Name
+	mnuProducts.Available
+	mnuProducts.Checked
+	mnuProducts.Enabled
+	mnuProducts.Name
+	mnuProducts.Click
+	mnuSecurity.Available
+	mnuSecurity.Checked
+	mnuSecurity.Enabled
+	mnuSecurity.Name
+	mnuSecurity.Click
+	mnuHelp.Available
+	mnuHelp.Checked
+	mnuHelp.Enabled
+	mnuHelp.MergeAction
+	mnuHelp.Name
+	mnuAbout.Available
+	mnuAbout.Checked
+	mnuAbout.Enabled
+	mnuAbout.Name
+	mnuAbout.Click
+	sbStatusBar.AllowDrop
+	sbStatusBar.Dock
+	sbStatusBar.Name
+	sbStatusBar.ShowItemToolTips
+	sbStatusBar_Panels_Panel1.BorderSides
+	sbStatusBar_Panels_Panel1.BorderStyle
+	sbStatusBar_Panels_Panel1.DoubleClickEnabled
+	sbStatusBar_Panels_Panel1.Margin
+	sbStatusBar_Panels_Panel1.Spring
+	sbStatusBar_Panels_Panel1.TextAlign
+	sbStatusBar_Panels_Panel1.TextImageRelation
+	sbStatusBar_Panels_Panel2.BorderSides
+	sbStatusBar_Panels_Panel2.BorderStyle
+	sbStatusBar_Panels_Panel2.DoubleClickEnabled
+	sbStatusBar_Panels_Panel2.Margin
+	sbStatusBar_Panels_Panel2.TextAlign
+	sbStatusBar_Panels_Panel2.TextImageRelation
+	sbStatusBar_Panels_Panel3.BorderSides
+	sbStatusBar_Panels_Panel3.BorderStyle
+	sbStatusBar_Panels_Panel3.DoubleClickEnabled
+	sbStatusBar_Panels_Panel3.Margin
+	sbStatusBar_Panels_Panel3.TextAlign
+	sbStatusBar_Panels_Panel3.TextImageRelation
+	this.AllowDrop
+	this.Enabled
+	this.IsMdiContainer
+	this.Name
+	this.RightToLeft
+	this.WindowState
+[5/6/2020, 12:01:42.6384554]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.6404447]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.6424380]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.6484174]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.6504096]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.6534056]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ICollector
+[5/6/2020, 12:01:42.7700488]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmSplash class in the project SKS.
+[5/6/2020, 12:01:42.7700488]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmSplash class in the project SKS.
+[5/6/2020, 12:01:42.8298150]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ITransformationRule
+[5/6/2020, 12:01:43.1139031]  Information: HTMLGEN0004: Start html view generation for view frmSplash
+[5/6/2020, 12:01:43.2414725]  Information: HTMLGEN0007: Frontend generator not found for type SKS.frmSplash
+[5/6/2020, 12:01:43.2484141]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Form
+[5/6/2020, 12:01:43.2494123]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ContainerControl
+[5/6/2020, 12:01:43.2504126]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ScrollableControl
+[5/6/2020, 12:01:43.2504126]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Control
+[5/6/2020, 12:01:43.2504126]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:43.2504126]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:43.2504126]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:43.2623674]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ToolTip
+[5/6/2020, 12:01:43.2623674]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:43.2623674]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:43.2623674]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:43.2902741]  Information: HTMLGEN0005: Finish html view generation for view frmSplash. Generated view will be saved to file d:\webmap\tmp\sks_web\sks-angular\src\app\components\sks\frm-splash\frm-splash.component.html
+[5/6/2020, 12:01:43.2922690]  Information: WFMAP0004: HTML and CSS Generation complete for frmSplash form in the project SKS
+[5/6/2020, 12:01:43.2952569]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmRequestApproval class in the project SKS.
+[5/6/2020, 12:01:43.2952569]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ITransformationRule
+[5/6/2020, 12:01:43.3171833]  Information: HTMLGEN0004: Start html view generation for view frmRequestApproval
+[5/6/2020, 12:01:43.3411045]  Information: HTMLGEN0007: Frontend generator not found for type UpgradeHelpers.Gui.ListControlHelper
+[5/6/2020, 12:01:43.3411045]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:43.3411045]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:43.3411045]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:43.3421007]  Information: HTMLGEN0007: Frontend generator not found for type SKS.frmRequestApproval
+[5/6/2020, 12:01:43.3421007]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Form
+[5/6/2020, 12:01:43.3421007]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ContainerControl
+[5/6/2020, 12:01:43.3421007]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ScrollableControl
+[5/6/2020, 12:01:43.3421007]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Control
+[5/6/2020, 12:01:43.3421007]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:43.3421007]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:43.3421007]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:43.3421007]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ToolTip
+[5/6/2020, 12:01:43.3421007]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:43.3421007]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:43.3421007]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:43.4128640]  Information: HTMLGEN0005: Finish html view generation for view frmRequestApproval. Generated view will be saved to file d:\webmap\tmp\sks_web\sks-angular\src\app\components\sks\frm-request-approval\frm-request-approval.component.html
+[5/6/2020, 12:01:43.4148589]  Information: WFMAP0004: HTML and CSS Generation complete for frmRequestApproval form in the project SKS
+[5/6/2020, 12:01:43.4178483]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmActionOrderRequest class in the project SKS.
+[5/6/2020, 12:01:43.4178483]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ITransformationRule
+[5/6/2020, 12:01:43.4417680]  Information: HTMLGEN0004: Start html view generation for view frmActionOrderRequest
+[5/6/2020, 12:01:43.4856226]  Information: HTMLGEN0007: Frontend generator not found for type SKS.frmActionOrderRequest
+[5/6/2020, 12:01:43.4856226]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Form
+[5/6/2020, 12:01:43.4856226]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ContainerControl
+[5/6/2020, 12:01:43.4856226]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ScrollableControl
+[5/6/2020, 12:01:43.4856226]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Control
+[5/6/2020, 12:01:43.4856226]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:43.4856226]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:43.4856226]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:43.4856226]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ToolTip
+[5/6/2020, 12:01:43.4856226]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:43.4856226]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:43.4856226]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:43.4945906]  Information: HTMLGEN0005: Finish html view generation for view frmActionOrderRequest. Generated view will be saved to file d:\webmap\tmp\sks_web\sks-angular\src\app\components\sks\frm-action-order-request\frm-action-order-request.component.html
+[5/6/2020, 12:01:43.4965898]  Information: WFMAP0004: HTML and CSS Generation complete for frmActionOrderRequest form in the project SKS
+[5/6/2020, 12:01:43.4975830]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ITransformationRule
+[5/6/2020, 12:01:43.5135292]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ITransformationRule
+[5/6/2020, 12:01:43.5234971]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ITransformationRule
+[5/6/2020, 12:01:43.5355012]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ITransformationRule
+[5/6/2020, 12:01:43.5743274]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmAddProductTo class in the project SKS.
+[5/6/2020, 12:01:43.5882828]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmReceptionApproval class in the project SKS.
+[5/6/2020, 12:01:43.5932649]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ITransformationRule
+[5/6/2020, 12:01:43.5962537]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ITransformationRule
+[5/6/2020, 12:01:43.6341282]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmOrderReception class in the project SKS.
+[5/6/2020, 12:01:43.6341282]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmActionOrderReception class in the project SKS.
+[5/6/2020, 12:01:43.6560535]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ITransformationRule
+[5/6/2020, 12:01:43.6580493]  Information: HTMLGEN0004: Start html view generation for view frmActionOrderReception
+[5/6/2020, 12:01:43.6720011]  Information: HTMLGEN0004: Start html view generation for view frmReceptionApproval
+[5/6/2020, 12:01:43.7158607]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmAddStockManual class in the project SKS.
+[5/6/2020, 12:01:43.7158607]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmAddStockManual class in the project SKS.
+[5/6/2020, 12:01:43.7168521]  Information: HTMLGEN0004: Start html view generation for view frmAddProductTo
+[5/6/2020, 12:01:43.7178549]  Information: HTMLGEN0004: Start html view generation for view frmMain
+[5/6/2020, 12:01:43.7337943]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmOrderRequest class in the project SKS.
+[5/6/2020, 12:01:43.7407711]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ITransformationRule
+[5/6/2020, 12:01:43.7427661]  Information: HTMLGEN0004: Start html view generation for view frmOrderReception
+[5/6/2020, 12:01:43.7935967]  Information: HTMLGEN0007: Frontend generator not found for type UpgradeHelpers.Gui.ListControlHelper
+[5/6/2020, 12:01:43.7945924]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:43.7945924]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:43.7945924]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:43.7945924]  Information: HTMLGEN0007: Frontend generator not found for type SKS.frmReceptionApproval
+[5/6/2020, 12:01:43.7945924]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Form
+[5/6/2020, 12:01:43.7945924]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ContainerControl
+[5/6/2020, 12:01:43.7945924]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ScrollableControl
+[5/6/2020, 12:01:43.7945924]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Control
+[5/6/2020, 12:01:43.7945924]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:43.7945924]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:43.7945924]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:43.7945924]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ToolTip
+[5/6/2020, 12:01:43.7945924]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:43.7955895]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:43.7955895]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:43.7985801]  Information: HTMLGEN0007: Frontend generator not found for type SKS.frmActionOrderReception
+[5/6/2020, 12:01:43.7995765]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Form
+[5/6/2020, 12:01:43.7995765]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ContainerControl
+[5/6/2020, 12:01:43.7995765]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ScrollableControl
+[5/6/2020, 12:01:43.7995765]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Control
+[5/6/2020, 12:01:43.7995765]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:43.7995765]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:43.7995765]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:43.7995765]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ToolTip
+[5/6/2020, 12:01:43.7995765]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:43.7995765]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:43.7995765]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:43.8195097]  Information: HTMLGEN0004: Start html view generation for view frmAddStockManual
+[5/6/2020, 12:01:43.8215018]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmProviders class in the project SKS.
+[5/6/2020, 12:01:43.8264869]  Information: HTMLGEN0007: Frontend generator not found for type UpgradeHelpers.Gui.ListViewHelper
+[5/6/2020, 12:01:43.8274831]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:43.8274831]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:43.8294770]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:43.8294770]  Information: HTMLGEN0005: Finish html view generation for view frmReceptionApproval. Generated view will be saved to file d:\webmap\tmp\sks_web\sks-angular\src\app\components\sks\frm-reception-approval\frm-reception-approval.component.html
+[5/6/2020, 12:01:43.8294770]  Information: HTMLGEN0007: Frontend generator not found for type SKS.frmMain
+[5/6/2020, 12:01:43.8294770]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Form
+[5/6/2020, 12:01:43.8294770]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ContainerControl
+[5/6/2020, 12:01:43.8304739]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ScrollableControl
+[5/6/2020, 12:01:43.8304739]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Control
+[5/6/2020, 12:01:43.8304739]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:43.8304739]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:43.8304739]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:43.8314719]  Information: WFMAP0004: HTML and CSS Generation complete for frmReceptionApproval form in the project SKS
+[5/6/2020, 12:01:43.8533970]  Information: HTMLGEN0007: Frontend generator not found for type SKS.frmAddProductTo
+[5/6/2020, 12:01:43.8533970]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Form
+[5/6/2020, 12:01:43.8533970]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ContainerControl
+[5/6/2020, 12:01:43.8533970]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ScrollableControl
+[5/6/2020, 12:01:43.8533970]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Control
+[5/6/2020, 12:01:43.8533970]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:43.8533970]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:43.8533970]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:43.8533970]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmProviders class in the project SKS.
+[5/6/2020, 12:01:43.8533970]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ToolTip
+[5/6/2020, 12:01:43.8533970]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:43.8543975]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:43.8543975]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:43.8573857]  Information: HTMLGEN0004: Start html view generation for view frmOrderRequest
+[5/6/2020, 12:01:43.8623655]  Information: HTMLGEN0005: Finish html view generation for view frmActionOrderReception. Generated view will be saved to file d:\webmap\tmp\sks_web\sks-angular\src\app\components\sks\frm-action-order-reception\frm-action-order-reception.component.html
+[5/6/2020, 12:01:43.8623655]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ToolTip
+[5/6/2020, 12:01:43.8623655]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:43.8633633]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:43.8633633]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:43.8643603]  Information: WFMAP0004: HTML and CSS Generation complete for frmActionOrderReception form in the project SKS
+[5/6/2020, 12:01:43.8783133]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ITransformationRule
+[5/6/2020, 12:01:43.8803063]  Information: HTMLGEN0005: Finish html view generation for view frmMain. Generated view will be saved to file d:\webmap\tmp\sks_web\sks-angular\src\app\components\sks\frm-main\frm-main.component.html
+[5/6/2020, 12:01:43.8803063]  Information: HTMLGEN0007: Frontend generator not found for type UpgradeHelpers.Gui.ListViewHelper
+[5/6/2020, 12:01:43.8803063]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:43.8803063]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:43.8803063]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:43.8803063]  Information: HTMLGEN0007: Frontend generator not found for type SKS.frmOrderReception
+[5/6/2020, 12:01:43.8803063]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Form
+[5/6/2020, 12:01:43.8803063]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ContainerControl
+[5/6/2020, 12:01:43.8803063]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ScrollableControl
+[5/6/2020, 12:01:43.8803063]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Control
+[5/6/2020, 12:01:43.8803063]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:43.8803063]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:43.8803063]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:43.8813038]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ToolTip
+[5/6/2020, 12:01:43.8813038]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:43.8813038]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:43.8813038]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:43.8823025]  Information: HTMLGEN0005: Finish html view generation for view frmAddProductTo. Generated view will be saved to file d:\webmap\tmp\sks_web\sks-angular\src\app\components\sks\frm-add-product-to\frm-add-product-to.component.html
+[5/6/2020, 12:01:43.8823025]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ITransformationRule
+[5/6/2020, 12:01:43.8892748]  Information: WFMAP0004: HTML and CSS Generation complete for frmMain form in the project SKS
+[5/6/2020, 12:01:43.8902740]  Information: WFMAP0004: HTML and CSS Generation complete for frmAddProductTo form in the project SKS
+[5/6/2020, 12:01:43.8952570]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ITransformationRule
+[5/6/2020, 12:01:43.9122008]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ITransformationRule
+[5/6/2020, 12:01:43.9221652]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmAdjustStockManual class in the project SKS.
+[5/6/2020, 12:01:43.9221652]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmAdjustStockManual class in the project SKS.
+[5/6/2020, 12:01:43.9281454]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ITransformationRule
+[5/6/2020, 12:01:43.9301403]  Information: HTMLGEN0004: Start html view generation for view frmProviders
+[5/6/2020, 12:01:43.9530636]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmSearch class in the project SKS.
+[5/6/2020, 12:01:43.9540598]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ITransformationRule
+[5/6/2020, 12:01:43.9560546]  Information: HTMLGEN0007: Frontend generator not found for type UpgradeHelpers.Gui.ListViewHelper
+[5/6/2020, 12:01:43.9560546]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:43.9670157]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:43.9670157]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:43.9670157]  Information: HTMLGEN0007: Frontend generator not found for type SKS.frmAddStockManual
+[5/6/2020, 12:01:43.9680143]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Form
+[5/6/2020, 12:01:43.9680143]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ContainerControl
+[5/6/2020, 12:01:43.9680143]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ScrollableControl
+[5/6/2020, 12:01:43.9680143]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Control
+[5/6/2020, 12:01:43.9680143]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:43.9680143]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:43.9680143]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:43.9680143]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ToolTip
+[5/6/2020, 12:01:43.9680143]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:43.9680143]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:43.9680143]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:43.9680143]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ITransformationRule
+[5/6/2020, 12:01:43.9690107]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ITransformationRule
+[5/6/2020, 12:01:43.9829615]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmProducts class in the project SKS.
+[5/6/2020, 12:01:43.9879477]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ITransformationRule
+[5/6/2020, 12:01:43.9879477]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmMain class in the project SKS.
+[5/6/2020, 12:01:43.9879477]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmMain class in the project SKS.
+[5/6/2020, 12:01:44.0138617]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ITransformationRule
+[5/6/2020, 12:01:44.0268176]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmLogin class in the project SKS.
+[5/6/2020, 12:01:44.0268176]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmProducts class in the project SKS.
+[5/6/2020, 12:01:44.0337942]  Information: TC0007: Gettings export for Mobilize.TransformationCore.ITransformationRule
+[5/6/2020, 12:01:44.0537259]  Information: HTMLGEN0004: Start html view generation for view frmProducts
+[5/6/2020, 12:01:44.0567204]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmLogin class in the project SKS.
+[5/6/2020, 12:01:44.0716666]  Information: HTMLGEN0005: Finish html view generation for view frmOrderReception. Generated view will be saved to file d:\webmap\tmp\sks_web\sks-angular\src\app\components\sks\frm-order-reception\frm-order-reception.component.html
+[5/6/2020, 12:01:44.0726646]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmAbout class in the project SKS.
+[5/6/2020, 12:01:44.0726646]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmAbout class in the project SKS.
+[5/6/2020, 12:01:44.0746572]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmUsersManage class in the project SKS.
+[5/6/2020, 12:01:44.0746572]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmUsersManage class in the project SKS.
+[5/6/2020, 12:01:44.0896070]  Information: HTMLGEN0007: Frontend generator not found for type UpgradeHelpers.Gui.ListViewHelper
+[5/6/2020, 12:01:44.0896070]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:44.0896070]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:44.0896070]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:44.0896070]  Information: HTMLGEN0007: Frontend generator not found for type SKS.frmOrderRequest
+[5/6/2020, 12:01:44.0896070]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Form
+[5/6/2020, 12:01:44.0896070]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ContainerControl
+[5/6/2020, 12:01:44.0896070]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ScrollableControl
+[5/6/2020, 12:01:44.0896070]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Control
+[5/6/2020, 12:01:44.0896070]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:44.0896070]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:44.0896070]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:44.0906047]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ToolTip
+[5/6/2020, 12:01:44.0906047]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:44.0906047]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:44.0906047]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:44.1224995]  Information: HTMLGEN0004: Start html view generation for view frmAbout
+[5/6/2020, 12:01:44.1234965]  Information: WFMAP0004: HTML and CSS Generation complete for frmOrderReception form in the project SKS
+[5/6/2020, 12:01:44.1324655]  Information: HTMLGEN0004: Start html view generation for view frmAdjustStockManual
+[5/6/2020, 12:01:44.1543926]  Information: HTMLGEN0004: Start html view generation for view frmLogin
+[5/6/2020, 12:01:44.1872818]  Information: HTMLGEN0005: Finish html view generation for view frmAddStockManual. Generated view will be saved to file d:\webmap\tmp\sks_web\sks-angular\src\app\components\sks\frm-add-stock-manual\frm-add-stock-manual.component.html
+[5/6/2020, 12:01:44.1982464]  Information: HTMLGEN0004: Start html view generation for view frmUsersManage
+[5/6/2020, 12:01:44.2012363]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ImageList
+[5/6/2020, 12:01:44.2012363]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:44.2012363]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:44.2012363]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:44.2012363]  Information: HTMLGEN0007: Frontend generator not found for type SKS.frmProducts
+[5/6/2020, 12:01:44.2012363]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Form
+[5/6/2020, 12:01:44.2012363]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ContainerControl
+[5/6/2020, 12:01:44.2022326]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ScrollableControl
+[5/6/2020, 12:01:44.2022326]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Control
+[5/6/2020, 12:01:44.2022326]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:44.2022326]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:44.2022326]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:44.2151855]  Information: WFMAP0004: HTML and CSS Generation complete for frmAddStockManual form in the project SKS
+[5/6/2020, 12:01:44.2231624]  Information: HTMLGEN0004: Start html view generation for view frmCustomers
+[5/6/2020, 12:01:44.2231624]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ToolTip
+[5/6/2020, 12:01:44.2231624]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:44.2231624]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:44.2231624]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:44.2510696]  Information: HTMLGEN0005: Finish html view generation for view frmOrderRequest. Generated view will be saved to file d:\webmap\tmp\sks_web\sks-angular\src\app\components\sks\frm-order-request\frm-order-request.component.html
+[5/6/2020, 12:01:44.2530629]  Information: WFMAP0004: HTML and CSS Generation complete for frmOrderRequest form in the project SKS
+[5/6/2020, 12:01:44.2789740]  Information: HTMLGEN0007: Frontend generator not found for type SKS.frmLogin
+[5/6/2020, 12:01:44.2789740]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Form
+[5/6/2020, 12:01:44.2789740]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ContainerControl
+[5/6/2020, 12:01:44.2789740]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ScrollableControl
+[5/6/2020, 12:01:44.2789740]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Control
+[5/6/2020, 12:01:44.2789740]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:44.2789740]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:44.2789740]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:44.2799728]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ToolTip
+[5/6/2020, 12:01:44.2799728]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:44.2799728]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:44.2899364]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:44.2919328]  Information: HTMLGEN0007: Frontend generator not found for type UpgradeHelpers.Gui.ListViewHelper
+[5/6/2020, 12:01:44.2919328]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:44.2919328]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:44.2919328]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:44.2919328]  Information: HTMLGEN0007: Frontend generator not found for type SKS.frmUsersManage
+[5/6/2020, 12:01:44.2919328]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Form
+[5/6/2020, 12:01:44.2919328]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ContainerControl
+[5/6/2020, 12:01:44.2919328]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ScrollableControl
+[5/6/2020, 12:01:44.2919328]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Control
+[5/6/2020, 12:01:44.2919328]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:44.2929290]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:44.2929290]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:44.2929290]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ToolTip
+[5/6/2020, 12:01:44.2929290]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:44.2929290]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:44.2929290]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:44.2939349]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ImageList
+[5/6/2020, 12:01:44.2939349]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:44.2939349]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:44.2939349]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:44.2939349]  Information: HTMLGEN0007: Frontend generator not found for type SKS.frmProviders
+[5/6/2020, 12:01:44.2939349]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Form
+[5/6/2020, 12:01:44.2939349]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ContainerControl
+[5/6/2020, 12:01:44.2939349]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ScrollableControl
+[5/6/2020, 12:01:44.2939349]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Control
+[5/6/2020, 12:01:44.2939349]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:44.2939349]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:44.2949228]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:44.2949228]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ToolTip
+[5/6/2020, 12:01:44.2949228]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:44.2949228]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:44.2949228]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:44.2949228]  Information: HTMLGEN0007: Frontend generator not found for type SKS.frmAbout
+[5/6/2020, 12:01:44.2959190]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Form
+[5/6/2020, 12:01:44.2959190]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ContainerControl
+[5/6/2020, 12:01:44.2959190]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ScrollableControl
+[5/6/2020, 12:01:44.2959190]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Control
+[5/6/2020, 12:01:44.2959190]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:44.2959190]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:44.2959190]  Information: HTMLGEN0007: Frontend generator not found for type UpgradeHelpers.Gui.ListViewHelper
+[5/6/2020, 12:01:44.2959190]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:44.2959190]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:44.2959190]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:44.2959190]  Information: HTMLGEN0007: Frontend generator not found for type SKS.frmAdjustStockManual
+[5/6/2020, 12:01:44.2969155]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Form
+[5/6/2020, 12:01:44.2969155]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ContainerControl
+[5/6/2020, 12:01:44.2969155]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ScrollableControl
+[5/6/2020, 12:01:44.2969155]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Control
+[5/6/2020, 12:01:44.2969155]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:44.2969155]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:44.2969155]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:44.2969155]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ToolTip
+[5/6/2020, 12:01:44.2969155]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:44.2969155]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:44.2969155]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:44.2969155]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:44.2979128]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ToolTip
+[5/6/2020, 12:01:44.2979128]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:44.2979128]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:44.2979128]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:44.3009034]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmCustomers class in the project SKS.
+[5/6/2020, 12:01:44.3138591]  Information: HTMLGEN0005: Finish html view generation for view frmProducts. Generated view will be saved to file d:\webmap\tmp\sks_web\sks-angular\src\app\components\sks\frm-products\frm-products.component.html
+[5/6/2020, 12:01:44.3238260]  Information: WFMAP0004: HTML and CSS Generation complete for frmProducts form in the project SKS
+[5/6/2020, 12:01:44.3248219]  Information: HTMLGEN0005: Finish html view generation for view frmAbout. Generated view will be saved to file d:\webmap\tmp\sks_web\sks-angular\src\app\components\sks\frm-about\frm-about.component.html
+[5/6/2020, 12:01:44.3268160]  Information: WFMAP0004: HTML and CSS Generation complete for frmAbout form in the project SKS
+[5/6/2020, 12:01:44.3288111]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ImageList
+[5/6/2020, 12:01:44.3288111]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:44.3288111]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:44.3288111]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:44.3288111]  Information: HTMLGEN0007: Frontend generator not found for type SKS.frmCustomers
+[5/6/2020, 12:01:44.3288111]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Form
+[5/6/2020, 12:01:44.3288111]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ContainerControl
+[5/6/2020, 12:01:44.3288111]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ScrollableControl
+[5/6/2020, 12:01:44.3288111]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Control
+[5/6/2020, 12:01:44.3288111]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:44.3298071]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:44.3298071]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:44.3298071]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ToolTip
+[5/6/2020, 12:01:44.3298071]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:44.3298071]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:44.3298071]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:44.3318006]  Information: HTMLGEN0005: Finish html view generation for view frmLogin. Generated view will be saved to file d:\webmap\tmp\sks_web\sks-angular\src\app\components\sks\frm-login\frm-login.component.html
+[5/6/2020, 12:01:44.3318006]  Information: WFMAP0008: Not expected image type System.Drawing.Point for frmCustomers class in the project SKS.
+[5/6/2020, 12:01:44.3327980]  Information: WFMAP0004: HTML and CSS Generation complete for frmLogin form in the project SKS
+[5/6/2020, 12:01:44.3347913]  Information: HTMLGEN0004: Start html view generation for view frmSearch
+[5/6/2020, 12:01:44.3367823]  Information: HTMLGEN0005: Finish html view generation for view frmProviders. Generated view will be saved to file d:\webmap\tmp\sks_web\sks-angular\src\app\components\sks\frm-providers\frm-providers.component.html
+[5/6/2020, 12:01:44.3387815]  Information: WFMAP0004: HTML and CSS Generation complete for frmProviders form in the project SKS
+[5/6/2020, 12:01:44.3397746]  Information: HTMLGEN0005: Finish html view generation for view frmUsersManage. Generated view will be saved to file d:\webmap\tmp\sks_web\sks-angular\src\app\components\sks\frm-users-manage\frm-users-manage.component.html
+[5/6/2020, 12:01:44.3417664]  Information: WFMAP0004: HTML and CSS Generation complete for frmUsersManage form in the project SKS
+[5/6/2020, 12:01:44.3437603]  Information: HTMLGEN0005: Finish html view generation for view frmAdjustStockManual. Generated view will be saved to file d:\webmap\tmp\sks_web\sks-angular\src\app\components\sks\frm-adjust-stock-manual\frm-adjust-stock-manual.component.html
+[5/6/2020, 12:01:44.3457542]  Information: WFMAP0004: HTML and CSS Generation complete for frmAdjustStockManual form in the project SKS
+[5/6/2020, 12:01:44.3547243]  Information: HTMLGEN0005: Finish html view generation for view frmCustomers. Generated view will be saved to file d:\webmap\tmp\sks_web\sks-angular\src\app\components\sks\frm-customers\frm-customers.component.html
+[5/6/2020, 12:01:44.3577124]  Information: WFMAP0004: HTML and CSS Generation complete for frmCustomers form in the project SKS
+[5/6/2020, 12:01:44.3925977]  Information: HTMLGEN0007: Frontend generator not found for type SKS.frmSearch
+[5/6/2020, 12:01:44.3935937]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Form
+[5/6/2020, 12:01:44.3935937]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ContainerControl
+[5/6/2020, 12:01:44.3935937]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ScrollableControl
+[5/6/2020, 12:01:44.3935937]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.Control
+[5/6/2020, 12:01:44.3935937]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:44.3935937]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:44.3935937]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:44.3935937]  Information: HTMLGEN0007: Frontend generator not found for type System.Windows.Forms.ToolTip
+[5/6/2020, 12:01:44.3935937]  Information: HTMLGEN0007: Frontend generator not found for type System.ComponentModel.Component
+[5/6/2020, 12:01:44.3935937]  Information: HTMLGEN0007: Frontend generator not found for type System.MarshalByRefObject
+[5/6/2020, 12:01:44.3935937]  Information: HTMLGEN0007: Frontend generator not found for type System.Object
+[5/6/2020, 12:01:44.4075464]  Information: HTMLGEN0005: Finish html view generation for view frmSearch. Generated view will be saved to file d:\webmap\tmp\sks_web\sks-angular\src\app\components\sks\frm-search\frm-search.component.html
+[5/6/2020, 12:01:44.4095395]  Information: WFMAP0004: HTML and CSS Generation complete for frmSearch form in the project SKS
+[5/6/2020, 12:01:44.4185083]  Information: Project Generation started
+[5/6/2020, 12:01:44.4653569]  Information: Project Generation finished: Successful
+[5/6/2020, 12:01:44.4653569]  Information: The angular site was generated successfully.Generation Result: Successful
+[5/6/2020, 12:01:44.4673467]  Information: Project Generation started
+[5/6/2020, 12:01:44.4733278]  Information: Project Generation finished: Successful
+[5/6/2020, 12:01:44.4733278]  Information: The angular AppModule was generated successfully.Generation Result: Successful
+[5/6/2020, 12:01:44.4773128]  Information: Project Generation started
+[5/6/2020, 12:01:44.4842906]  Information: Project Generation finished: Successful
+[5/6/2020, 12:01:44.4842906]  Information: The module file for SKS was generated successfully.Generation Result: Successful
+[5/6/2020, 12:01:44.4862834]  Information: Project Generation started
+[5/6/2020, 12:01:44.4922642]  Information: Project Generation finished: Successful
+[5/6/2020, 12:01:44.4922642]  Information: The index for the module SKS was generated successfully.Generation Result: Successful
+[5/6/2020, 12:01:46.2274723]  Information: WFMAP0014: frmSplash.Designer.cs has been transformed successfully.
+[5/6/2020, 12:01:46.3999018]  Information: WFMAP0014: frmRequestAproval.cs has been transformed successfully.
+[5/6/2020, 12:01:46.7258080]  Information: WFMAP0014: frmSplash.cs has been transformed successfully.
+[5/6/2020, 12:01:46.9420866]  Information: WFMAP0014: frmAddProductTo.cs has been transformed successfully.
+[5/6/2020, 12:01:47.2321187]  Information: WFMAP0014: frmOrderAproval.cs has been transformed successfully.
+[5/6/2020, 12:01:47.3686623]  Information: WFMAP0014: frmActionOrderRequest.cs has been transformed successfully.
+[5/6/2020, 12:01:47.4115209]  Information: WFMAP0014: frmOrderReception.cs has been transformed successfully.
+[5/6/2020, 12:01:48.3204852]  Information: WFMAP0014: modMain.cs has been transformed successfully.
+[5/6/2020, 12:01:48.3523788]  Information: WFMAP0014: frmProviders.cs has been transformed successfully.
+[5/6/2020, 12:01:48.6164972]  Information: WFMAP0014: frmActionOrderReception.cs has been transformed successfully.
+[5/6/2020, 12:01:48.6214804]  Information: WFMAP0014: frmSearch.cs has been transformed successfully.
+[5/6/2020, 12:01:48.6782901]  Information: WFMAP0014: frmProducts.cs has been transformed successfully.
+[5/6/2020, 12:01:48.7012131]  Information: WFMAP0014: frmCustomers.cs has been transformed successfully.
+[5/6/2020, 12:01:48.8317804]  Information: WFMAP0014: modConnection.cs has been transformed successfully.
+[5/6/2020, 12:01:49.6978883]  Information: WFMAP0014: frmOrderAproval.Designer.cs has been transformed successfully.
+[5/6/2020, 12:01:49.8184854]  Information: WFMAP0014: frmUsersManage.cs has been transformed successfully.
+[5/6/2020, 12:01:50.0287821]  Information: WFMAP0014: modFunctions.cs has been transformed successfully.
+[5/6/2020, 12:01:50.1513749]  Information: WFMAP0014: AssemblyInfo.cs has been transformed successfully.
+[5/6/2020, 12:01:50.3865885]  Information: WFMAP0014: frmAbout.cs has been transformed successfully.
+[5/6/2020, 12:01:50.4832653]  Information: WFMAP0014: frmMain.cs has been transformed successfully.
+[5/6/2020, 12:01:50.5709727]  Information: WFMAP0014: frmLogin.cs has been transformed successfully.
+[5/6/2020, 12:01:50.6905734]  Information: WFMAP0014: frmAddStockManual.cs has been transformed successfully.
+[5/6/2020, 12:01:50.9975491]  Information: WFMAP0014: frmAddProductTo.Designer.cs has been transformed successfully.
+[5/6/2020, 12:01:51.3982121]  Information: WFMAP0014: frmSearch.Designer.cs has been transformed successfully.
+[5/6/2020, 12:01:51.4849224]  Information: WFMAP0014: frmAdjustStockManual.cs has been transformed successfully.
+[5/6/2020, 12:01:51.9433925]  Information: WFMAP0014: frmLogin.Designer.cs has been transformed successfully.
+[5/6/2020, 12:01:52.0480427]  Information: WFMAP0014: frmActionOrderReception.Designer.cs has been transformed successfully.
+[5/6/2020, 12:01:52.1397360]  Information: WFMAP0014: frmAbout.Designer.cs has been transformed successfully.
+[5/6/2020, 12:01:52.5782740]  Information: WFMAP0014: frmRequestAproval.Designer.cs has been transformed successfully.
+[5/6/2020, 12:01:52.5782740]  Information: WFMAP0014: frmOrderReception.Designer.cs has been transformed successfully.
+[5/6/2020, 12:01:52.7636539]  Information: WFMAP0014: frmActionOrderRequest.Designer.cs has been transformed successfully.
+[5/6/2020, 12:01:52.9679710]  Information: WFMAP0014: frmOrderRequest.cs has been transformed successfully.
+[5/6/2020, 12:01:53.4254454]  Information: WFMAP0014: frmMain.Designer.cs has been transformed successfully.
+[5/6/2020, 12:01:53.6985336]  Information: WFMAP0014: frmProducts.Designer.cs has been transformed successfully.
+[5/6/2020, 12:01:53.7972053]  Information: WFMAP0014: frmUsersManage.Designer.cs has been transformed successfully.
+[5/6/2020, 12:01:54.1968696]  Information: WFMAP0014: frmAddStockManual.Designer.cs has been transformed successfully.
+[5/6/2020, 12:01:54.4430462]  Information: WFMAP0014: frmAdjustStockManual.Designer.cs has been transformed successfully.
+[5/6/2020, 12:01:54.5686323]  Information: WFMAP0014: frmCustomers.Designer.cs has been transformed successfully.
+[5/6/2020, 12:01:54.6025165]  Information: WFMAP0014: frmOrderRequest.Designer.cs has been transformed successfully.
+[5/6/2020, 12:01:54.7270977]  Information: WFMAP0014: frmProviders.Designer.cs has been transformed successfully.
+[5/6/2020, 12:01:54.7679628]  Information: WFMAP0025: Start pretty printing SKS project.
+[5/6/2020, 12:01:54.9334112]  Information: WFMAP0026: End pretty printing SKS project.
+[5/6/2020, 12:01:54.9722825]  Information: Project Generation started
+[5/6/2020, 12:01:55.0111546]  Information: Project Generation finished: Successful
+[5/6/2020, 12:01:55.0480345]  Information: Project Generation started
+[5/6/2020, 12:01:55.0609903]  Information: Project Generation finished: Successful
+[5/6/2020, 12:01:55.1566653]  Information: Project Generation started
+[5/6/2020, 12:01:55.1706197]  Information: Project Generation finished: Successful
+[5/6/2020, 12:01:55.1706197]  Information: The solution was generated successfully. Generation Result: Successful
+[5/6/2020, 12:01:55.1706197]  Information: EFProcess 637243632983199017 ended. Excecution time: 00:00:16.9046411
+[5/6/2020, 12:01:58.4616795]  Information: 
+	=========================================================================
+	End of Code Conversion process. Elapsed Time 00:00:23
+	=========================================================================
+

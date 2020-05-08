@@ -1,0 +1,757 @@
+LibraryName,TypeNodeName,MigratedNodeCount,NodeCount,File,Line,Column,SourceCode
+modMain,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\modMain.cs,6,2,"""	internal static class modMain
+	{
+
+
+		public static bool CurrentUserAdmin = false;
+		public static string UserFullname ='';
+		public static string UserLevel = '';
+		public static string UserId = '';
+
+		public static string ConnectionString = '';
+
+		public static int DetectionType = 0;
+		public static double n = 0;
+		public static int i = 0;
+		public static string s = '';
+		public static System.DateTime d = DateTime.FromOADate(0);
+		public static string msg = '';
+		public static"""
+modConnection,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\modConnection.cs,7,2,"	internal static class modConnection
+	{
+
+
+		private static DbConnection _CurrentConnection = null;
+		internal static DbConnection CurrentConnection
+		{
+			get
+			{
+				if (_CurrentConnection == null)
+				{
+					_CurrentConnection = UpgradeHelpers.DB.AdoFactoryManager.GetFactory().CreateConnection();
+				}
+				return _CurrentConnection;
+			}
+			set
+			{
+				_CurrentConnection = value;
+			}
+		}
+
+		private static ADORecordSetHelper _rs = null;
+		internal static ADORecordSetHel"
+modFunctions,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\modFunctions.cs,12,2,"""	internal static class modFunctions
+	{
+
+
+		internal static void AppendAND(ref string filter)
+		{
+			//UPGRADE_WARNING: (2080) IsEmpty was upgraded to a comparison and has a new behavior. More Information: https://www.mobilize.net/vbtonet/ewis/ewi2080
+			if (!String.IsNullOrEmpty(filter))
+			{
+				filter = filter +' AND ';
+			}
+		}
+
+		internal static bool AddToCollection(OrderedDictionary col, string Item)
+		{
+			bool result = false;
+			if (!Exists(col, Item))
+			{
+				col.Add("""
+frmSplash.Designer,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmSplash.Designer.cs,4,2,"""	partial class frmSplash
+	{
+
+		#region'Upgrade Support '
+		private static frmSplash m_vb6FormDefInstance;
+		private static bool m_InitializingDefInstance;
+		public static frmSplash DefInstance
+		{
+			get
+			{
+				if (m_vb6FormDefInstance == null || m_vb6FormDefInstance.IsDisposed)
+				{
+					m_InitializingDefInstance = true;
+					m_vb6FormDefInstance = CreateInstance();
+					m_InitializingDefInstance = false;
+				}
+				return m_vb6FormDefInstance;
+			}
+			set
+			{
+				m_vb6F"""
+frmOrderAproval.Designer,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmOrderAproval.Designer.cs,4,2,"""	partial class frmReceptionApproval
+	{
+
+		#region'Upgrade Support '
+		private static frmReceptionApproval m_vb6FormDefInstance;
+		private static bool m_InitializingDefInstance;
+		public static frmReceptionApproval DefInstance
+		{
+			get
+			{
+				if (m_vb6FormDefInstance == null || m_vb6FormDefInstance.IsDisposed)
+				{
+					m_InitializingDefInstance = true;
+					m_vb6FormDefInstance = CreateInstance();
+					m_InitializingDefInstance = false;
+				}
+				return m_vb6FormDefInstance"""
+frmOrderReception.Designer,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmOrderReception.Designer.cs,4,2,"""	partial class frmOrderReception
+	{
+
+		#region'Upgrade Support '
+		private static frmOrderReception m_vb6FormDefInstance;
+		private static bool m_InitializingDefInstance;
+		public static frmOrderReception DefInstance
+		{
+			get
+			{
+				if (m_vb6FormDefInstance == null || m_vb6FormDefInstance.IsDisposed)
+				{
+					m_InitializingDefInstance = true;
+					m_vb6FormDefInstance = CreateInstance();
+					m_InitializingDefInstance = false;
+				}
+				return m_vb6FormDefInstance;
+			}
+"""
+frmActionOrderReception.Designer,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmActionOrderReception.Designer.cs,4,2,"""	partial class frmActionOrderReception
+	{
+
+		#region'Upgrade Support '
+		private static frmActionOrderReception m_vb6FormDefInstance;
+		private static bool m_InitializingDefInstance;
+		public static frmActionOrderReception DefInstance
+		{
+			get
+			{
+				if (m_vb6FormDefInstance == null || m_vb6FormDefInstance.IsDisposed)
+				{
+					m_InitializingDefInstance = true;
+					m_vb6FormDefInstance = CreateInstance();
+					m_InitializingDefInstance = false;
+				}
+				return m_vb6FormDe"""
+frmActionOrderRequest.Designer,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmActionOrderRequest.Designer.cs,4,2,"""	partial class frmActionOrderRequest
+	{
+
+		#region'Upgrade Support '
+		private static frmActionOrderRequest m_vb6FormDefInstance;
+		private static bool m_InitializingDefInstance;
+		public static frmActionOrderRequest DefInstance
+		{
+			get
+			{
+				if (m_vb6FormDefInstance == null || m_vb6FormDefInstance.IsDisposed)
+				{
+					m_InitializingDefInstance = true;
+					m_vb6FormDefInstance = CreateInstance();
+					m_InitializingDefInstance = false;
+				}
+				return m_vb6FormDefInsta"""
+frmOrderReception,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmOrderReception.cs,11,2,"""	internal partial class frmOrderReception
+		: System.Windows.Forms.Form
+	{
+
+		private string currentProviderName ='';
+		private int currentIdProvider = 0;
+		private string currentContactName = '';
+		private bool editingData = false;
+
+		private double currentSubTotal = 0;
+		private double currentTotal = 0;
+		private double currentTax = 0;
+		private double currentFreightCharge = 0;
+		private double currentTotalTax = 0;
+		public frmOrderReception()
+			: base()
+		{
+			if (m_vb6Form"""
+frmRequestAproval,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmRequestAproval.cs,9,2,"""	internal partial class frmRequestApproval
+		: System.Windows.Forms.Form
+	{
+
+		private string Id ='';
+		public frmRequestApproval()
+			: base()
+		{
+			if (m_vb6FormDefInstance == null)
+			{
+				if (m_InitializingDefInstance)
+				{
+					m_vb6FormDefInstance = this;
+				}
+				else
+				{
+					try
+					{
+						//For the start-up form, the first instance created is the default instance.
+						if (System.Reflection.Assembly.GetExecutingAssembly().EntryPoint != null && System.Reflec"""
+frmAddProductTo,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmAddProductTo.cs,10,2,"""	internal partial class frmAddProductTo
+		: System.Windows.Forms.Form
+	{
+
+
+		public int Id = 0;
+		public string ObjectReferred ='';
+		public string Table = '';
+		public string ColumnName = '';
+
+		public bool SavedChanges = false;
+		private OrderedDictionary productsStored = null;
+		private OrderedDictionary productsToDelete = null;
+		private OrderedDictionary productsToAdd = null;
+		private bool editingData = false;
+		private string currentIdProduct = '';
+
+		private bool codeGe"""
+frmActionOrderRequest,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmActionOrderRequest.cs,9,2,"	internal partial class frmActionOrderRequest
+		: System.Windows.Forms.Form
+	{
+
+
+		private double currentSubTotal = 0;
+		private double currentTotal = 0;
+		private double currentTax = 0;
+		private double currentFreightCharge = 0;
+		private double currentTotalTax = 0;
+
+		public int Action = 0;
+
+		public int OrderId = 0;
+		public frmActionOrderRequest()
+			: base()
+		{
+			if (m_vb6FormDefInstance == null)
+			{
+				if (m_InitializingDefInstance)
+				{
+					m_vb6FormDefInstance "
+frmActionOrderReception,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmActionOrderReception.cs,9,2,"	internal partial class frmActionOrderReception
+		: System.Windows.Forms.Form
+	{
+
+
+		private double currentSubTotal = 0;
+		private double currentTotal = 0;
+		private double currentTax = 0;
+		private double currentFreightCharge = 0;
+		private double currentTotalTax = 0;
+
+		public int Action = 0;
+
+		public int OrderId = 0;
+		public frmActionOrderReception()
+			: base()
+		{
+			if (m_vb6FormDefInstance == null)
+			{
+				if (m_InitializingDefInstance)
+				{
+					m_vb6FormDefInsta"
+frmSplash,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmSplash.cs,7,2,"""	internal partial class frmSplash
+		: System.Windows.Forms.Form
+	{
+
+		public frmSplash()
+			: base()
+		{
+			if (m_vb6FormDefInstance == null)
+			{
+				if (m_InitializingDefInstance)
+				{
+					m_vb6FormDefInstance = this;
+				}
+				else
+				{
+					try
+					{
+						//For the start-up for, the first instance created is the default instance.
+						if (System.Reflection.Assembly.GetExecutingAssembly().EntryPoint != null && System.Reflection.Assembly.GetExecutingAssembly().EntryPoi"""
+frmRequestAproval.Designer,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmRequestAproval.Designer.cs,4,2,"""	partial class frmRequestApproval
+	{
+
+		#region'Upgrade Support '
+		private static frmRequestApproval m_vb6FormDefInstance;
+		private static bool m_InitializingDefInstance;
+		public static frmRequestApproval DefInstance
+		{
+			get
+			{
+				if (m_vb6FormDefInstance == null || m_vb6FormDefInstance.IsDisposed)
+				{
+					m_InitializingDefInstance = true;
+					m_vb6FormDefInstance = CreateInstance();
+					m_InitializingDefInstance = false;
+				}
+				return m_vb6FormDefInstance;
+			"""
+frmOrderAproval,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmOrderAproval.cs,9,2,"""	internal partial class frmReceptionApproval
+		: System.Windows.Forms.Form
+	{
+
+		private string Id ='';
+		public frmReceptionApproval()
+			: base()
+		{
+			if (m_vb6FormDefInstance == null)
+			{
+				if (m_InitializingDefInstance)
+				{
+					m_vb6FormDefInstance = this;
+				}
+				else
+				{
+					try
+					{
+						//For the start-up form, the first instance created is the default instance.
+						if (System.Reflection.Assembly.GetExecutingAssembly().EntryPoint != null && System.Re"""
+frmAddProductTo.Designer,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmAddProductTo.Designer.cs,4,2,"""	partial class frmAddProductTo
+	{
+
+		#region'Upgrade Support '
+		private static frmAddProductTo m_vb6FormDefInstance;
+		private static bool m_InitializingDefInstance;
+		public static frmAddProductTo DefInstance
+		{
+			get
+			{
+				if (m_vb6FormDefInstance == null || m_vb6FormDefInstance.IsDisposed)
+				{
+					m_InitializingDefInstance = true;
+					m_vb6FormDefInstance = CreateInstance();
+					m_InitializingDefInstance = false;
+				}
+				return m_vb6FormDefInstance;
+			}
+			set"""
+frmCustomers,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmCustomers.cs,7,2,"""	internal partial class frmCustomers
+		: System.Windows.Forms.Form
+	{
+
+
+		private bool NewMode = false;
+		private bool EditMode = false;
+		private bool CancellingMode = false;
+		public string CurrentCustomerID ='';
+		public frmCustomers()
+			: base()
+		{
+			if (m_vb6FormDefInstance == null)
+			{
+				if (m_InitializingDefInstance)
+				{
+					m_vb6FormDefInstance = this;
+				}
+				else
+				{
+					try
+					{
+						//For the start-up form, the first instance created is the def"""
+frmSearch,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmSearch.cs,8,2,"""	internal partial class frmSearch
+		: System.Windows.Forms.Form
+	{
+
+		string SearchTable ='';
+		public frmSearch()
+			: base()
+		{
+			if (m_vb6FormDefInstance == null)
+			{
+				if (m_InitializingDefInstance)
+				{
+					m_vb6FormDefInstance = this;
+				}
+				else
+				{
+					try
+					{
+						//For the start-up form, the first instance created is the default instance.
+						if (System.Reflection.Assembly.GetExecutingAssembly().EntryPoint != null && System.Reflection.Assembly.Get"""
+frmUsersManage,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmUsersManage.cs,8,2,"""	internal partial class frmUsersManage
+		: System.Windows.Forms.Form
+	{
+
+		string CurrentEditedUser ='';
+		public frmUsersManage()
+			: base()
+		{
+			if (m_vb6FormDefInstance == null)
+			{
+				if (m_InitializingDefInstance)
+				{
+					m_vb6FormDefInstance = this;
+				}
+				else
+				{
+					try
+					{
+						//For the start-up form, the first instance created is the default instance.
+						if (System.Reflection.Assembly.GetExecutingAssembly().EntryPoint != null && System.Reflect"""
+frmUsersManage.Designer,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmUsersManage.Designer.cs,4,2,"""	partial class frmUsersManage
+	{
+
+		#region'Upgrade Support '
+		private static frmUsersManage m_vb6FormDefInstance;
+		private static bool m_InitializingDefInstance;
+		public static frmUsersManage DefInstance
+		{
+			get
+			{
+				if (m_vb6FormDefInstance == null || m_vb6FormDefInstance.IsDisposed)
+				{
+					m_InitializingDefInstance = true;
+					m_vb6FormDefInstance = CreateInstance();
+					m_InitializingDefInstance = false;
+				}
+				return m_vb6FormDefInstance;
+			}
+			set
+	"""
+frmProviders,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmProviders.cs,7,2,"""	internal partial class frmProviders
+		: System.Windows.Forms.Form
+	{
+
+		private bool NewMode = false;
+		private bool EditMode = false;
+		private bool CancellingMode = false;
+		public int CurrentProviderID = 0;
+
+		//Private Sub adcProviders_MoveComplete(ByVal adReason As ADODB.EventReasonEnu, ByVal pError As ADODB.Error, adStatus As ADODB.EventStatusEnum, ByVal pRecordset As ADODB.Recordset)
+		//NewMode = False
+		//EditMode = False
+		//CancellingMode = False
+		//End Sub
+
+		//Priv"""
+frmSearch.Designer,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmSearch.Designer.cs,4,2,"""	partial class frmSearch
+	{
+
+		#region'Upgrade Support '
+		private static frmSearch m_vb6FormDefInstance;
+		private static bool m_InitializingDefInstance;
+		public static frmSearch DefInstance
+		{
+			get
+			{
+				if (m_vb6FormDefInstance == null || m_vb6FormDefInstance.IsDisposed)
+				{
+					m_InitializingDefInstance = true;
+					m_vb6FormDefInstance = CreateInstance();
+					m_InitializingDefInstance = false;
+				}
+				return m_vb6FormDefInstance;
+			}
+			set
+			{
+				m_vb6F"""
+frmAddStockManual,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmAddStockManual.cs,11,2,"""	internal partial class frmAddStockManual
+		: System.Windows.Forms.Form
+	{
+
+
+		private bool editingData = false;
+		private string currentIdProduct ='';
+		private string currentQuantityPerUnit = '';
+		private string currentUnit = '';
+		private string currentProductName = '';
+		private double currentPriceReference = 0;
+		private bool codeGeneratedChange = false;
+		private double quantity = 0;
+		private double stockPrice = 0, unitPrice = 0;
+		public frmAddStockManual()
+			: base()
+"""
+frmProducts.Designer,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmProducts.Designer.cs,4,2,"""	partial class frmProducts
+	{
+
+		#region'Upgrade Support '
+		private static frmProducts m_vb6FormDefInstance;
+		private static bool m_InitializingDefInstance;
+		public static frmProducts DefInstance
+		{
+			get
+			{
+				if (m_vb6FormDefInstance == null || m_vb6FormDefInstance.IsDisposed)
+				{
+					m_InitializingDefInstance = true;
+					m_vb6FormDefInstance = CreateInstance();
+					m_InitializingDefInstance = false;
+				}
+				return m_vb6FormDefInstance;
+			}
+			set
+			{
+				"""
+frmAddStockManual.Designer,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmAddStockManual.Designer.cs,4,2,"""	partial class frmAddStockManual
+	{
+
+		#region'Upgrade Support '
+		private static frmAddStockManual m_vb6FormDefInstance;
+		private static bool m_InitializingDefInstance;
+		public static frmAddStockManual DefInstance
+		{
+			get
+			{
+				if (m_vb6FormDefInstance == null || m_vb6FormDefInstance.IsDisposed)
+				{
+					m_InitializingDefInstance = true;
+					m_vb6FormDefInstance = CreateInstance();
+					m_InitializingDefInstance = false;
+				}
+				return m_vb6FormDefInstance;
+			}
+"""
+frmAdjustStockManual,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmAdjustStockManual.cs,11,2,"""	internal partial class frmAdjustStockManual
+		: System.Windows.Forms.Form
+	{
+
+
+		private bool editingData = false;
+		private string currentIdProduct ='';
+		private int currentIdStock = 0;
+		private string currentQuantityPerUnit = '';
+		private string currentUnit = '';
+		private string currentProductName = '';
+		private double currentStockPrice = 0;
+		private double currentStock = 0;
+		private double changedStockPrice = 0;
+		private double changedStock = 0;
+		private bool codeGen"""
+frmProducts,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmProducts.cs,9,2,"""	internal partial class frmProducts
+		: System.Windows.Forms.Form
+	{
+
+		private bool NewMode = false;
+		private bool EditMode = false;
+		private bool CancellingMode = false;
+		public string CurrentProductID ='';
+
+		public frmProducts()
+			: base()
+		{
+			if (m_vb6FormDefInstance == null)
+			{
+				if (m_InitializingDefInstance)
+				{
+					m_vb6FormDefInstance = this;
+				}
+				else
+				{
+					try
+					{
+						//For the start-up form, the first instance created is the defaul"""
+frmProviders.Designer,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmProviders.Designer.cs,4,2,"""	partial class frmProviders
+	{
+
+		#region'Upgrade Support '
+		private static frmProviders m_vb6FormDefInstance;
+		private static bool m_InitializingDefInstance;
+		public static frmProviders DefInstance
+		{
+			get
+			{
+				if (m_vb6FormDefInstance == null || m_vb6FormDefInstance.IsDisposed)
+				{
+					m_InitializingDefInstance = true;
+					m_vb6FormDefInstance = CreateInstance();
+					m_InitializingDefInstance = false;
+				}
+				return m_vb6FormDefInstance;
+			}
+			set
+			{
+	"""
+frmCustomers.Designer,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmCustomers.Designer.cs,4,2,"""	partial class frmCustomers
+	{
+
+		#region'Upgrade Support '
+		private static frmCustomers m_vb6FormDefInstance;
+		private static bool m_InitializingDefInstance;
+		public static frmCustomers DefInstance
+		{
+			get
+			{
+				if (m_vb6FormDefInstance == null || m_vb6FormDefInstance.IsDisposed)
+				{
+					m_InitializingDefInstance = true;
+					m_vb6FormDefInstance = CreateInstance();
+					m_InitializingDefInstance = false;
+				}
+				return m_vb6FormDefInstance;
+			}
+			set
+			{
+	"""
+frmAdjustStockManual.Designer,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmAdjustStockManual.Designer.cs,4,2,"""	partial class frmAdjustStockManual
+	{
+
+		#region'Upgrade Support '
+		private static frmAdjustStockManual m_vb6FormDefInstance;
+		private static bool m_InitializingDefInstance;
+		public static frmAdjustStockManual DefInstance
+		{
+			get
+			{
+				if (m_vb6FormDefInstance == null || m_vb6FormDefInstance.IsDisposed)
+				{
+					m_InitializingDefInstance = true;
+					m_vb6FormDefInstance = CreateInstance();
+					m_InitializingDefInstance = false;
+				}
+				return m_vb6FormDefInstance"""
+frmOrderRequest.Designer,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmOrderRequest.Designer.cs,4,2,"""	partial class frmOrderRequest
+	{
+
+		#region'Upgrade Support '
+		private static frmOrderRequest m_vb6FormDefInstance;
+		private static bool m_InitializingDefInstance;
+		public static frmOrderRequest DefInstance
+		{
+			get
+			{
+				if (m_vb6FormDefInstance == null || m_vb6FormDefInstance.IsDisposed)
+				{
+					m_InitializingDefInstance = true;
+					m_vb6FormDefInstance = CreateInstance();
+					m_InitializingDefInstance = false;
+				}
+				return m_vb6FormDefInstance;
+			}
+			set"""
+frmOrderRequest,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmOrderRequest.cs,11,2,"""	internal partial class frmOrderRequest
+		: System.Windows.Forms.Form
+	{
+
+		private string currentCompanyName ='';
+		private int currentIdCustomer = 0;
+		private string currentContactName = '';
+		private bool editingData = false;
+
+		private double currentSubTotal = 0;
+		private double currentTotal = 0;
+		private double currentTax = 0;
+		private double currentFreightCharge = 0;
+		private double currentTotalTax = 0;
+		private bool editingQuantity = false;
+		public frmOrderRequest()"""
+frmLogin.Designer,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmLogin.Designer.cs,4,2,"""	partial class frmLogin
+	{
+
+		#region'Upgrade Support '
+		private static frmLogin m_vb6FormDefInstance;
+		private static bool m_InitializingDefInstance;
+		public static frmLogin DefInstance
+		{
+			get
+			{
+				if (m_vb6FormDefInstance == null || m_vb6FormDefInstance.IsDisposed)
+				{
+					m_InitializingDefInstance = true;
+					m_vb6FormDefInstance = CreateInstance();
+					m_InitializingDefInstance = false;
+				}
+				return m_vb6FormDefInstance;
+			}
+			set
+			{
+				m_vb6Form"""
+frmMain.Designer,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmMain.Designer.cs,4,2,"""	partial class frmMain
+	{
+
+		#region'Upgrade Support '
+		private static frmMain m_vb6FormDefInstance;
+		private static bool m_InitializingDefInstance;
+		public static frmMain DefInstance
+		{
+			get
+			{
+				if (m_vb6FormDefInstance == null || m_vb6FormDefInstance.IsDisposed)
+				{
+					m_InitializingDefInstance = true;
+					m_vb6FormDefInstance = CreateInstance();
+					m_InitializingDefInstance = false;
+				}
+				return m_vb6FormDefInstance;
+			}
+			set
+			{
+				m_vb6FormDef"""
+frmLogin,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmLogin.cs,8,2,"""	internal partial class frmLogin
+		: System.Windows.Forms.Form
+	{
+
+
+		public bool LoginSucceeded = false;
+		public frmLogin()
+			: base()
+		{
+			if (m_vb6FormDefInstance == null)
+			{
+				if (m_InitializingDefInstance)
+				{
+					m_vb6FormDefInstance = this;
+				}
+				else
+				{
+					try
+					{
+						//For the start-up for, the first instance created is the default instance.
+						if (System.Reflection.Assembly.GetExecutingAssembly().EntryPoint != null && System.Reflection.A"""
+frmAbout,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmAbout.cs,7,2,"	internal partial class frmAbout
+		: System.Windows.Forms.Form
+	{
+
+
+		// Reg Key Security Options...
+		const int READ_CONTROL = 0x20000;
+		const int KEY_QUERY_VALUE = 0x1;
+		const int KEY_SET_VALUE = 0x2;
+		const int KEY_CREATE_SUB_KEY = 0x4;
+		const int KEY_ENUMERATE_SUB_KEYS = 0x8;
+		const int KEY_NOTIFY = 0x10;
+		const int KEY_CREATE_LINK = 0x20;
+		const int KEY_ALL_ACCESS = KEY_QUERY_VALUE + KEY_SET_VALUE + KEY_CREATE_SUB_KEY + KEY_ENUMERATE_SUB_KEYS + KEY_NOTIFY + KEY_CREATE_LI"
+frmMain,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmMain.cs,7,2,"	internal partial class frmMain
+		: System.Windows.Forms.Form
+	{
+
+
+		public frmMain()
+			: base()
+		{
+			if (m_vb6FormDefInstance == null)
+			{
+				m_vb6FormDefInstance = this;
+			}
+			//This call is required by the Windows Form Designer.
+			InitializeComponent();
+		}
+
+
+		//UPGRADE_WARNING: (2080) Form_Load event was upgraded to Form_Load method and has a new behavior. More Information: https://www.mobilize.net/vbtonet/ewis/ewi2080
+		private void MDIForm_Load()
+		{
+			frmSpla"
+frmAbout.Designer,Class,0,0,D:\WebMAP\tmp\SKS_Winform\Upgraded\frmAbout.Designer.cs,4,2,"""	partial class frmAbout
+	{
+
+		#region'Upgrade Support '
+		private static frmAbout m_vb6FormDefInstance;
+		private static bool m_InitializingDefInstance;
+		public static frmAbout DefInstance
+		{
+			get
+			{
+				if (m_vb6FormDefInstance == null || m_vb6FormDefInstance.IsDisposed)
+				{
+					m_InitializingDefInstance = true;
+					m_vb6FormDefInstance = CreateInstance();
+					m_InitializingDefInstance = false;
+				}
+				return m_vb6FormDefInstance;
+			}
+			set
+			{
+				m_vb6Form"""
